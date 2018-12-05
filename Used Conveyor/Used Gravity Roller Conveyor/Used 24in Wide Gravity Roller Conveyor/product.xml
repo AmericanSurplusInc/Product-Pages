@@ -26,7 +26,7 @@
 		</category>
 		<site-presence>
 			<backorder>0</backorder>
-			<isVisible>1</isVisible>
+			<is-visible>1</is-visible>
 		</site-presence>
 		<attributes>
 			<attribute>
@@ -53,6 +53,7 @@
 				<li>24" wide x 120" long conveyor</li>
 				<li>1.9" rollers on 3" centers</li>
 				<li>H-Stands Available</li>
+				<li>1.5 - 6" roller centers available</li>
 			</ul>
 		</extra-short-description>
 		<short-description>
