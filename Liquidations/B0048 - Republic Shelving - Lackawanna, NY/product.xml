@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <product>
 	<data>
-		<title></title>
-		<meta-title></meta-title>
+		<title>Republic Shelving</title>
+		<meta-title>Used Republic Shelving</meta-title>
 		<meta-description></meta-description>
-		<product-code></product-code>
+		<product-code>B0048</product-code>
 		<pricing>
 			<list-price></list-price>
 			<asi-price></asi-price>
@@ -14,29 +14,36 @@
 			<1></1>
 		</related>
 		<category>
-			<name></name>
+			<name>Latest Liquidations</name>
 			<priority></priority>
 		</category>
 		<site-presence>
-			<backorder></backorder> <!-- 1 = true, 0 = false -->
-			<is-visible></is-visible> <!-- 1 = true, 0 = false -->
+			<backorder>0</backorder> <!-- 1 = true, 0 = false -->
+			<is-visible>1</is-visible> <!-- 1 = true, 0 = false -->
 		</site-presence>
 		<attributes>
 			<attribute>
-				<name></name>
+				<name>brand, depth, width, FOB</name>
 				<value></value>
 			</attribute>
 		</attributes>
 	</data>
 	<content>
 		<extra-short-description>
-		
+		300 Sections of Republic Shelving
+		12" - 24" Deep x 48" Wide
+		FOB: Lackawanna, NY
 		</extra-short-description>
 		<short-description>
-		
+		300 Sections of Republic Shelving Available
+		Sizes range from 12" - 24" Deep and are 48" Wide
+		Convenient FOB point of Lackawanna, NY
 		</short-description>
 		<long-description>
-		
+		<p>Don't miss out on your chance to save on Republic Shelving.  These shelves come in variety of sizes ranging from 12" - 24" Deep x 48" Wide. Republic Clip Style Shelving: The Right Choice for Any Storage Application
+From basic backroom storage to a complete warehouse system, republic clip style shelving is an excellent choice. Solid steel construction and a unique design means this shelving can take on any challenge you throw at it.</p>
+
+<p>By choosing to purchase your Republic Clip Shelving from American Surplus, you can be sure that you'll receive high quality Republic style products at prices up to 60% off the cost of new! Plus, with free CAD layouts, custom configurations, facility assessments and more, we can make outfitting your facility with quality material handling equipment easy on you AND your budget! Call our office today at (800) 876-3736 or Request a Quote online to see the difference American Surplus can make for your business!</p>
 		</long-description>
 	</content>
 </product>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product>
+	<data>
+		<title></title>
+		<meta-title></meta-title>
+		<meta-description></meta-description>
+		<product-code></product-code>
+		<pricing>
+			<list-price></list-price>
+			<asi-price></asi-price>
+			<as-low-as-price></as-low-as-price>
+		</pricing>
+		<related>
+			<1></1>
+		</related>
+		<category>
+			<name></name>
+			<priority></priority>
+		</category>
+		<site-presence>
+			<backorder></backorder> <!-- 1 = true, 0 = false -->
+			<is-visible></is-visible> <!-- 1 = true, 0 = false -->
+		</site-presence>
+		<attributes>
+			<attribute>
+				<name></name>
+				<value></value>
+			</attribute>
+		</attributes>
+	</data>
+	<content>
+		<extra-short-description>
+		
+		</extra-short-description>
+		<short-description>
+		
+		</short-description>
+		<long-description>
+		<div class="row">
+			<div class="large-6 columns">
+				<img>
+				<p>Check out one of first liquidations of the new year coming out of Crawfordville, FL. You don't want to miss a chance to buy directly from the site and save on freight.</p> <p>We are going to be having both Selective Rack and Pushback Rack coming out in Feb/March of 2019! With more than 10,0000 pallet positions coming out there is plenty of room to store your materials.  Each of pallet positions is rated to support 2,500 lbs. per pallet. This is all Interlake Pushback and Selective Roll Formed / Teardrop Racking.</p>	
+				<a class="button" href="#">Pictures From This Liquidation</a>
+				<a class="button" style="color: #0a47a8 !important; background-color: #ffffff !important; border: 1px solid #0a47a8;" href="#">Request a Quote</a>
+			</div>
+			<div class="large-6 columns">
+				<table>
+					<tbody>
+						<tr>
+							<th><strong>Style</strong><th>
+							<th><strong>Size</strong><th>
+							<th><strong>Description</strong><th>
+						</tr>	
+						<tr>
+							<td>2 Deep Pushback Racks</td>
+							<td>22'H x 96"</td>
+							<td>56 Pallet Positions</td>
+						</tr>
+						<tr>
+							<td>3 Deep Pushback Racks</td>
+							<td>22'H x 96"</td>
+							<td>3,820 Pallet Positions</td>
+						</tr>
+						<tr>
+							<td>4 Deep Pushback Racks</td>
+							<td>22'H x 96"</td>
+							<td>3,840 Pallet Positions</td>
+						</tr>
+						<tr>
+							<td>5 Deep Pushback Racks</td>
+							<td>22'H x 96"</td>
+							<td>3,1840 Pallet Positions</td>
+						</tr>
+						<tr>
+							<td>Selective Racks</td>
+							<td>42"D x 96"W x 180"H</td>
+							<td>2,874 Pallet Positions, 667 Bays, Floor + 2 Levels, 2 Pallets per Position </td>
+						</tr>
+					</tbody>
+				</table>
+				<img>
+			</div>
+		</div>	
+		</long-description>
+	</content>
+</product>
