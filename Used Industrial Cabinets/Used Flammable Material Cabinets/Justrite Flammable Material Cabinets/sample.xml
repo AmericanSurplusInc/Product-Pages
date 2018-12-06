@@ -14,8 +14,8 @@
 			<1></1>
 		</related>
 		<category>
-			<name></name>
-			<priority></priority>
+			<name>Used Flammable Material Cabinets</name>
+			<priority>1000</priority>
 		</category>
 		<site-presence>
 			<backorder></backorder> <!-- 1 = true, 0 = false -->
