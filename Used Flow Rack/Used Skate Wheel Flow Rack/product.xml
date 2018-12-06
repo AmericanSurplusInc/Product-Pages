@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <product>
 	<data>
-		<title></title>
-		<meta-title></meta-title>
-		<meta-description></meta-description>
-		<product-code></product-code>
+		<title>Used Beam Deck Rollers</title>
+		<meta-title>Used Beam Deck Rollers</meta-title>
+		<meta-description>Used Beam Deck Rollers</meta-description>
+		<product-code>B0046</product-code>
 		<pricing>
 			<list-price></list-price>
 			<asi-price></asi-price>
@@ -14,12 +14,12 @@
 			<1></1>
 		</related>
 		<category>
-			<name></name>
-			<priority></priority>
+			<name>used flowrack</name>
+			<priority>1000</priority>
 		</category>
 		<site-presence>
-			<backorder></backorder> <!-- 1 = true, 0 = false -->
-			<is-visible></is-visible> <!-- 1 = true, 0 = false -->
+			<backorder>0</backorder> <!-- 1 = true, 0 = false -->
+			<is-visible>1</is-visible> <!-- 1 = true, 0 = false -->
 		</site-presence>
 		<attributes>
 			<attribute>
@@ -30,13 +30,17 @@
 	</data>
 	<content>
 		<extra-short-description>
-		
+		Variety of lengths available
+		Variety of widths available
+		FOB: E. Windsor, NJ
 		</extra-short-description>
 		<short-description>
-		
+		Allows you to store different sized boxes
+		Can be added to existing pallet rack
+		12" - 26" wide and up to 102" deep
 		</short-description>
 		<long-description>
-		
+		With this used flow rack you are now don't have to worry about uniform sizing on your boxes. It allows you to have a variety of different box sizes on the same rack and make box changes as you see fit. You can add this to your exist pallet rack. Sizes available include 12", 16", 18", and 26" wide and up to 102" deep.  
 		</long-description>
 	</content>
 </product>
