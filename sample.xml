@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product>
+	<data>
+		<title></title>
+		<meta-title></meta-title>
+		<meta-description></meta-description>
+		<product-code></product-code>
+		<pricing>
+			<list-price></list-price>
+			<asi-price></asi-price>
+			<as-low-as-price></as-low-as-price>
+		</pricing>
+		<related>
+			<1></1>
+		</related>
+		<category>
+			<name></name>
+			<priority></priority>
+		</category>
+		<site-presence>
+			<backorder></backorder> <!-- 1 = true, 0 = false -->
+			<is-visible></is-visible> <!-- 1 = true, 0 = false -->
+		</site-presence>
+		<attributes>
+			<attribute>
+				<name></name>
+				<value></value>
+			</attribute>
+		</attributes>
+	</data>
+	<content>
+		<extra-short-description>
+		
+		</extra-short-description>
+		<short-description>
+		
+		</short-description>
+		<long-description>
+		
+		</long-description>
+	</content>
+</product>
