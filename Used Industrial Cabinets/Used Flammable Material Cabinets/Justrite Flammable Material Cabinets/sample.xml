@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <product>
 	<data>
-		<title></title>
-		<meta-title></meta-title>
-		<meta-description></meta-description>
-		<product-code></product-code>
+		<title>Justrite 60 Gallon Flammable Storage Cabinet</title>
+		<meta-title>Used Justrite 60 Gallon Flammable Storage Cabinet | 34" x 34" x 65" | America's #1 Used Material Handling Equipment Dealer</meta-title>
+		<meta-description>Used Justrite 60 Gallon Flammable Storage Cabinets are in stock at American Surplus, nationwide shipping available, great condition! Call today for a fast, free quote!</meta-description>
+		<product-code>FC-0002</product-code>
 		<pricing>
-			<list-price></list-price>
-			<asi-price></asi-price>
+			<list-price>$1,362.99</list-price>
+			<asi-price>$749.99</asi-price>
 			<as-low-as-price></as-low-as-price>
 		</pricing>
 		<related>
 			<1></1>
 		</related>
 		<category>
-			<name></name>
-			<priority></priority>
+			<name>Used Flammable Material Cabinets</name>
+			<priority>1000</priority>
 		</category>
 		<site-presence>
 			<backorder></backorder> <!-- 1 = true, 0 = false -->
