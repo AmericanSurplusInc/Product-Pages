@@ -90,6 +90,13 @@
 				<priority>1</priority> <!-- blank on body pictures -->
 				<alt>Crown 20M Electric Stackers, 2,000 lbs. Capacity</alt>
 			</image>
+			<image>
+				<name>Crown20MStacker2.png</name>
+				<placement>gallery</palcement>
+				<is-primary>0</is-primary>
+				<priority>1</priority>
+				<alt>Crown 20M Electric Stackers, 57" Lift Height</alt>
+			</image>
 		</images>
 	</data>
 	<content>
