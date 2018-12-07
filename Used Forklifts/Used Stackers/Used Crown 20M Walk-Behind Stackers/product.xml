@@ -23,14 +23,58 @@
 		</site-presence>
 		<attributes>
 			<attribute>
-				<name></name>
-				<value></value>
+				<name>Brand</name>
+				<value>Crown</value>
+			</attribute>
+			<attribute>
+				<name>Model</name>
+				<value>20M</value>
+			</attribute>
+			<attribute>
+				<name>Capacity</name>
+				<value>2,000 lbs.</value>
+			</attribute>
+			<attribute>
+				<name>Load Center</name>
+				<value>24"</value>
+			</attribute>
+			<attribute>
+				<name>Mast Type</name>
+				<value>Single</value>
+			</attribute>
+			<attribute>
+				<name>Lift Height</name>
+				<value>57"</value>
+			</attribute>
+			<attribute>
+				<name>Weight</name>
+				<value>1,100 lbs. with Battery</value>
+			</attribute>
+			<attribute>
+				<name>Pallet Jack Style</name>
+				<value>Walk-Behind</value>
+			</attribute>
+			<attribute>
+				<name>Battery Included?</name>
+				<value>Yes</value>
+			</attribute>
+			<attribute>
+				<name>Charger Included?</name>
+				<value>Yes</value>
+			</attribute>
+			<attribute>
+				<name>Battery</name>
+				<value>12V</value>
+			</attribute>
+			<attribute>
+				<name>NMFC Code</name>
+				<value>189240</value>
 			</attribute>
 		</attributes>
 	</data>
 	<content>
 		<extra-short-description>
-		
+			
 		</extra-short-description>
 		<short-description>
 		
