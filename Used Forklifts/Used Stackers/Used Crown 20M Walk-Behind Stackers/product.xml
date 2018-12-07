@@ -75,6 +75,22 @@
 				<value>189240</value>
 			</attribute>
 		</attributes>
+		<images> <!-- Include all pictures on the page, in both gallery and body. -->
+			<image>
+				<name>Crown20MWalkBehindStacker.png</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>1</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt>Used Crown 20M Walk-Behind Electric Stackers</alt>
+			</image>
+			<image>
+				<name>Crown20MStacker.png</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>0</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt>Crown 20M Electric Stackers, 2,000 lbs. Capacity</alt>
+			</image>
+		</images>
 	</data>
 	<content>
 		<extra-short-description>
