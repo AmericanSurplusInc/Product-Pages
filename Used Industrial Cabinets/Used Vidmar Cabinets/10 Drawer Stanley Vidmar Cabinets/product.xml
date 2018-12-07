@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product>
+	<data>
+		<title>10-Drawer Stanley Vidmar Cabinets</title>
+		<meta-title>Used 10-Drawer Stanley Vidmar Cabinets</meta-title>
+		<meta-description></meta-description>
+		<product-code>VC-0001</product-code>
+		<pricing>
+			<list-price>$2400.00</list-price>
+			<asi-price>$1395.00</asi-price>
+			<as-low-as-price></as-low-as-price>
+		</pricing>
+		<related>
+			<1></1>
+		</related>
+		<category>
+			<name>Used Vidmar Cabinets</name>
+			<priority>1000</priority>
+		</category>
+		<site-presence>
+			<backorder>0</backorder> <!-- 1 = true, 0 = false -->
+			<is-visible>1</is-visible> <!-- 1 = true, 0 = false -->
+		</site-presence>
+		<attributes>
+			<attribute>
+				<name>Brand</name>
+				<value>Stanley Vidmar</value>
+			</attribute>
+			<attribute>
+				<name>Item Weight</name>
+				<value>467 lbs.</value>
+			</attribute>
+			<attribute>
+				<name>Depth</name>
+				<value>27-3/4"</value>
+			</attribute>
+			<attribute>
+				<name>Height</name>
+				<value>59"</value>
+			</attribute>
+			<attribute>
+				<name>Width</name>
+				<value>30"</value>
+			</attribute>
+			<attribute>
+				<name>Color</name>
+				<value>Grey</value>
+			</attribute>
+			<attribute>
+				<name>Number of Drawers</name>
+				<value>10</value>
+			</attribute>
+			<attribute>
+				<name>Drawer Height</name>
+				<value>(4) 3-3/4", (4) 4-1/4", (2) 5-1/4"</value>
+			</attribute>
+		</attributes>
+	</data>
+	<content>
+		<extra-short-description>
+			<ul>
+				<li>10 Drawer Cabinets</li>
+				<li>Customize your Drawers&nbsp;</li>
+				<li>400 lb. Capacity per Drawer</li>
+			</ul>
+		</extra-short-description>
+		<short-description>
+			<ul>
+				<li>400 lb. Capacity per Drawer</li>
+				<li>Dividers included, As Is</li>
+				<li>Excellent Solution for small item storage</li>
+			</ul>
+		</short-description>
+		<long-description>
+			<div style="display: inline;" class="row">
+				<div class="large-12 columns">
+				<h2><span style="font-size: 22px;">Vidmar Cabinets: Tough, All-Purpose Small-Item-Storage</span></h2>
+				<p>Vidmar Drawer Cabinets are a storage-efficient solution allowing you to store more while using less space. These particular Vidmar cabinets are grey in color. These cabinets can be combined or stacked on top of each other to provide custom storage solutions for your business. They feature an all-welded steel construction and are very durable. The full drawer extension provides complete access to items and the ball bearing suspension on the drawers allows for smooth opening and closing.</p>
+				<p><strong style="box-sizing: border-box; font-weight: bold; line-height: inherit; color: #ff0000; font-family: 'Open Sans', sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial;">We can&rsquo;t list our entire inventory online, if you do not see what you are looking for, just ask! Quantity discounts available on used vidmar cabinets 40-60% off the price of new. Call 800-876-3736 for additional information &amp; a free quote. American Surplus will provide a quote on new equipment if used is unavailable. Nationwide shipping is available. Price and product availability subject to change without notice. Inventory is subject to prior sale.</strong></p>
+				</div>
+			</div>
+		</long-description>
+	</content>
+</product>
