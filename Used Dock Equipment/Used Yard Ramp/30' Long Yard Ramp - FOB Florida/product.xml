@@ -3,7 +3,7 @@
 	<data>
 		<title>30' Yard Ramp FOB: Orlando, FL</title>
 		<meta-title>Used 30' Yard Ramp For Sale in Orlando, Florida</meta-title>
-		<meta-description></meta-description>
+		<meta-description>used yard ramp allows for portable non permanent solution for access to loading docks</meta-description>
 		<product-code>B0050</product-code>
 		<pricing>
 			<list-price></list-price>
@@ -11,7 +11,7 @@
 			<as-low-as-price></as-low-as-price>
 		</pricing>
 		<related>
-			<1></1>
+			<1>new yard ramps</1>
 		</related>
 		<category>
 			<name>Used Yard Ramp</name>
@@ -23,8 +23,8 @@
 		</site-presence>
 		<attributes>
 			<attribute>
-				<name>usable width, overall width, capacity, length FOB</name>
-				<value></value>
+				<name>usable width</name>
+				<value>88"</value>
 			</attribute>
 			<attribute>
 				<name>Yard Ramp Style</name>
@@ -34,14 +34,31 @@
 				<name>FOB</name>
 				<value>Orlando, FL</value>
 			</attribute>
-		</attributes>
+			<attribute>
+				<name>Length</name>
+				<value>30'</value>
+			</attribute>
+				<name>Capacity</name>
+				<value>30,000 lbs.</value>
+			</attributes>
+			</attribute>
+				<name>Overall Width</name>
+				<value>94"</value>
+			</attributes>
 		<images> <!-- Include all pictures on the page, in both gallery and body. -->
 			<image>
-				<name></name>
-				<placement></placement> <!-- gallery or body -->
-				<is-primary></is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
-				<priority></priority> <!-- blank on body pictures -->
+				<name>ramp.png</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>1</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
 				<alt></alt>
+			</image>
+			<image>
+				<name>ramp1.png</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>0</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt>used yard ramp</alt>
 			</image>
 		</images>
 	</data>
