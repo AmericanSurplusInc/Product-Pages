@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <product>
 	<data>
-		<title>30' Yard Ramp FOB: FL</title>
-		<meta-title>Used 30' Yard Ramp FOB: FL</meta-title>
+		<title>30' Yard Ramp FOB: Orlando, FL</title>
+		<meta-title>Used 30' Yard Ramp For Sale in Orlando, Florida</meta-title>
 		<meta-description></meta-description>
 		<product-code>B0050</product-code>
 		<pricing>
@@ -30,6 +30,9 @@
 				<name>Yard Ramp Style</name>
 				<value>Stationary</value>
 			</attribute>
+			<attribute>
+				<name>FOB</name>
+				<value>Orlando, FL</value>
 			</attribute>
 		</attributes>
 		<images> <!-- Include all pictures on the page, in both gallery and body. -->
