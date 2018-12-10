@@ -26,6 +26,11 @@
 				<name>usable width, overall width, capacity, length FOB</name>
 				<value></value>
 			</attribute>
+			<attribute>
+				<name>Yard Ramp Style</name>
+				<value>Stationary</value>
+			</attribute>
+			</attribute>
 		</attributes>
 		<images> <!-- Include all pictures on the page, in both gallery and body. -->
 			<image>
