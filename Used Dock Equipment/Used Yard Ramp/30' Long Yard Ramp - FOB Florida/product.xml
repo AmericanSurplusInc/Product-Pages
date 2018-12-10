@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <product>
 	<data>
-		<title></title>
-		<meta-title></meta-title>
+		<title>30' Yard Ramp FOB: FL</title>
+		<meta-title>Used 30' Yard Ramp FOB: FL</meta-title>
 		<meta-description></meta-description>
-		<product-code></product-code>
+		<product-code>B0050</product-code>
 		<pricing>
 			<list-price></list-price>
-			<asi-price></asi-price>
+			<asi-price>$6250.00</asi-price>
 			<as-low-as-price></as-low-as-price>
 		</pricing>
 		<related>
 			<1></1>
 		</related>
 		<category>
-			<name></name>
-			<priority></priority>
+			<name>Used Yard Ramp</name>
+			<priority>1000</priority>
 		</category>
 		<site-presence>
-			<backorder></backorder> <!-- 1 = true, 0 = false -->
-			<is-visible></is-visible> <!-- 1 = true, 0 = false -->
+			<backorder>0</backorder> <!-- 1 = true, 0 = false -->
+			<is-visible>1</is-visible> <!-- 1 = true, 0 = false -->
 		</site-presence>
 		<attributes>
 			<attribute>
