@@ -60,7 +60,7 @@
 				<alt>0.5 Cu. Yd. Utility Grade Rubbermaid Dump Hoppers</alt>
 			</image>
 			<image>
-				<name>.5utiltransparent.png</name>
+				<name>.5utiltransparent2.png</name>
 				<placement>gallery</placement> <!-- gallery or body -->
 				<is-primary>1</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
 				<priority>1</priority> <!-- blank on body pictures -->
