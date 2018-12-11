@@ -1,51 +1,88 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <product>
 	<data>
-		<title></title>
-		<meta-title></meta-title>
-		<meta-description></meta-description>
-		<product-code></product-code>
+		<title>Rubbermaid Dump Hoppers - STD 1.5 Cu. Yd. Capacity</title>
+		<meta-title>Used Rubbermaid Dump Hoppers - STD 1.5 Cu. Yd. Capacity</meta-title>
+		<meta-description>used standard duty 1.5 cu yd cap</meta-description>
+		<product-code>HOP-0001</product-code>
 		<pricing>
-			<list-price></list-price>
-			<asi-price></asi-price>
+			<list-price>1,675</list-price>
+			<asi-price>1005</asi-price>
 			<as-low-as-price></as-low-as-price>
 		</pricing>
 		<related>
 			<1></1>
 		</related>
 		<category>
-			<name></name>
-			<priority></priority>
+			<name>used hoppers</name>
+			<priority>998</priority>
 		</category>
 		<site-presence>
-			<backorder></backorder> <!-- 1 = true, 0 = false -->
-			<is-visible></is-visible> <!-- 1 = true, 0 = false -->
+			<backorder>0</backorder> <!-- 1 = true, 0 = false -->
+			<is-visible>1</is-visible> <!-- 1 = true, 0 = false -->
 		</site-presence>
 		<attributes>
 			<attribute>
-				<name></name>
-				<value></value>
+				<name>capacity</name>
+				<value>1,000 lbs</value>
+			</attribute>
+			<attribute>
+				<name>cubic yard capacity</name>
+				<value>1.5 cubic yard</value>
+			</attribute>
+			<attribute>
+				<name>Height</name>
+				<value>50"</value>
+			</attribute>
+			<attribute>
+				<name>Length</name>
+				<value>80"</value>
+			</attribute>
+			<attribute>
+				<name>Width</name>
+				<value>42"</value>
+			</attribute>
+			<attribute>
+				<name>Brand</name>
+				<value>Rubbermaid Commercial Products</value>
+			</attribute>
+			<attribute>
+				<name>Inside Height</name>
+				<value>43"</value>
 			</attribute>
 		</attributes>
 		<images> <!-- Include all pictures on the page, in both gallery and body. -->
 			<image>
-				<name></name>
-				<placement></placement> <!-- gallery or body -->
-				<is-primary></is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
-				<priority></priority> <!-- blank on body pictures -->
-				<alt></alt>
+				<name>1.5stdbadge.png</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>1</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt>Used Rubbermaid 1.5 Cu.Yd. Dump Hopper</alt>
+			</image>
+			<image>
+				<name>1.5transparent.png</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>0</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt>Used Rubbermaid 1.5 Cu.Yd. Dump Hopper</alt>
 			</image>
 		</images>
 	</data>
 	<content>
 		<extra-short-description>
-		
+		Heavy Duty Construction
+Easy to Clean
+1.5 cu.yd. Capacity
 		</extra-short-description>
 		<short-description>
-		
+		Powder coated steel frame offers corrosion resistance
+Industrial strength construction helps transport heavy loads with ease
+Smooth & Durable plastic surface is easy to clean and resists pitting and corroding
+
 		</short-description>
 		<long-description>
-		
+		<p>Used 1.5 Cubic Yard Dump Hoppers by Rubbermaid Commercial Products are in stock now at American Surplus! These hoppers tilt for easy dumping and removal of contents in the bin. They have a 1-1/2 cubic yard capacity per hopper. They have handles for easy manuevering and durable casters for transport. Call our sales team today to learn more about the used Rubbermaid Utility tilt hoppers we have in stock!</p>
+<p><strong style="box-sizing: border-box; line-height: inherit; color: #ff0000; font-family: 'Open Sans', sans-serif; font-size: 16px; background-color: #ffffff;">We can&rsquo;t list our entire inventory online, if you do not see what you are looking for, just ask! Quantity discounts available on used hoppers 40-60% off the price of new. Call <a href="tel:8008763736">800-876-3736</a> for additional information &amp; a free quote. American Surplus will provide a quote on new equipment if used is unavailable. Nationwide shipping is available. Price and product availability subject to change without notice. Inventory is subject to prior sale.</strong></p>
 		</long-description>
 	</content>
 </product>
