@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product>
+	<data>
+		<title>Used Conveyor Drives</title>
+		<meta-title>Used Conveyor Drives</meta-title>
+		<meta-description>Used Conveyor Drives for sale at American Surplus, In stock, Variable speed conveyor drives, three phase, call today, save 40-60% off retail prices</meta-description>
+		<product-code>88</product-code>
+		<pricing>
+			<list-price></list-price>
+			<asi-price></asi-price>
+			<as-low-as-price></as-low-as-price>
+		</pricing>
+		<related>
+			<1></1>
+		</related>
+		<category>
+			<name>Used Conveyor Drives</name>
+			<priority>1000</priority>
+		</category>
+		<site-presence>
+			<backorder>0</backorder> <!-- 1 = true, 0 = false -->
+			<is-visible>1</is-visible> <!-- 1 = true, 0 = false -->
+		</site-presence>
+		<attributes>
+			<attribute>
+				<name></name>
+				<value></value>
+			</attribute>
+		</attributes>
+		<images> <!-- Include all pictures on the page, in both gallery and body. -->
+			<image>
+				<name>IMG_1116.JPG</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>1</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt></alt>
+			</image>
+			<image>
+				<name>IMG_1169.JPG</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>0</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt></alt>
+			</image>
+			<image>
+				<name>IMG_1136.JPG</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>0</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt></alt>
+			</image>
+			<image>
+				<name>IMG_1149.JPG</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>0</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt></alt>
+			</image>
+			<image>
+				<name>IMG_1028.JPG</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>0</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt></alt>
+			</image>
+		</images>
+	</data>
+	<content>
+		<extra-short-description>
+			<ul>
+				<li>Fixed or Variable Speed</li>
+				<li>Three Phase</li>
+				<li>Side or Overhead Mount</li>
+			</ul>
+		</extra-short-description>
+		<short-description>
+			<ul>
+				<li>Fixed or Variable Speed</li>
+				<li>Three Phase</li>
+				<li>220/440V or 230/460V</li>
+				<li>Side or Overhead Mount</li>
+				<li>Nationwide Shipping</li>
+			</ul>
+		</short-description>
+		<long-description>
+			<p>Used conveyor drives are sold with our used powered conveyor at American Surplus. We have fixed and variable speed conveyor drives available and in stock at all times. Our conveyor drives run off of three phase, and have either 220/440V or 230/460V. These can be either side mounted or mounted over head. Ask about our ASI conveyor guarantee, and call today to get pricing from a member of our sales team.</p>
+			<p style="color: red;"><strong>We can&rsquo;t list our entire inventory online, if you do not see what you are looking for, just ask! Quantity discounts available on used conveyor accessories 40-60% off the price of new. Call 800-876-3736 for additional information &amp; a free quote. American Surplus will provide a quote on new equipment if used is unavailable. Nationwide shipping is available. Price and product availability subject to change without notice. Inventory is subject to prior sale.</strong></p>
+		</long-description>
+	</content>
+</product>
