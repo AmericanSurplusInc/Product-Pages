@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product>
+	<data>
+		<title>30' Yard Ramp FOB: Orlando, FL</title>
+		<meta-title>Used 30' Yard Ramp For Sale in Orlando, Florida</meta-title>
+		<meta-description>used yard ramp allows for portable non permanent solution for access to loading docks</meta-description>
+		<product-code>B0050</product-code>
+		<pricing>
+			<list-price></list-price>
+			<asi-price>$5995.00</asi-price>
+			<as-low-as-price></as-low-as-price>
+		</pricing>
+		<related>
+			<1>new yard ramps</1>
+		</related>
+		<category>
+			<name>Used Yard Ramp</name>
+			<priority>1000</priority>
+		</category>
+		<site-presence>
+			<backorder>0</backorder> <!-- 1 = true, 0 = false -->
+			<is-visible>1</is-visible> <!-- 1 = true, 0 = false -->
+		</site-presence>
+		<attributes>
+			<attribute>
+				<name>usable width</name>
+				<value>88"</value>
+			</attribute>
+			<attribute>
+				<name>Yard Ramp Style</name>
+				<value>Stationary</value>
+			</attribute>
+			<attribute>
+				<name>FOB</name>
+				<value>Orlando, FL</value>
+			</attribute>
+			<attribute>
+				<name>Length</name>
+				<value>30'</value>
+			</attribute>
+				<name>Capacity</name>
+				<value>30,000 lbs.</value>
+			</attributes>
+			</attribute>
+				<name>Overall Width</name>
+				<value>94"</value>
+			</attributes>
+		<images> <!-- Include all pictures on the page, in both gallery and body. -->
+			<image>
+				<name>ramp.png</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>1</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt></alt>
+			</image>
+			<image>
+				<name>ramp1.png</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>0</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt>used yard ramp</alt>
+			</image>
+		</images>
+	</data>
+	<content>
+		<extra-short-description>
+		30,000 lb. capacity
+		30' Ramp
+		FOB: FL
+		</extra-short-description>
+		<short-description>
+			<p style="font-size: 10px;"><em>Available starting 1/2/19</em></p>
+			<ul>
+				<li>Easily transfer product from ground level </li>
+				<li>High Capacity allows you to move almost any load with ease</li>
+				<li>Strong side walls increase user safety</li>
+			</ul>
+			<p style="font-size: 10px;">Reference: B0050</p>
+		</short-description>
+		<long-description>
+		<p>Used Yard Ramps For Sale at American Surplus are in stock. This yard ramp has a capacity of 30,000 lbs. This ramp is 94" wide and the usable width will always be 6" less than the overall due to the safety rails. This used yard ramp is the standard 30' long with a 12" nose,. This yard ramp is coming from a convenient FOB point of FL. It is suitable for forklift and electric pallet jack use. Call your salesperson for unbeatable pricing on our yard ramps.</p>
+
+		<p>We can’t list our entire inventory online, if you do not see what you are looking for, just ask! Quantity discounts available on new yard ramps. Call 800-876-3736 for additional information & a free quote. Nationwide shipping is available. Price and product availability subject to change without notice. Inventory is subject to prior sale.</p>
+		</long-description>
+	</content>
+</product>
