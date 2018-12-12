@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product>
+	<data>
+		<title>Used Solar Panel Conveyor</title>
+		<meta-title>Used Solar Panel Conveyor</meta-title>
+		<meta-description>Used Solar Panel Conveyor For Sale by American Surplus, In Stock, Transport glass panels, Ships Nationwide, Call today</meta-description>
+		<product-code>71</product-code>
+		<pricing>
+			<list-price></list-price>
+			<asi-price></asi-price>
+			<as-low-as-price></as-low-as-price>
+		</pricing>
+		<related>
+			<1>Used Conveyor Barcode Scanners</1>
+		</related>
+		<category>
+			<name>Used Solar Panel Conveyor</name>
+			<priority>1000</priority>
+		</category>
+		<site-presence>
+			<backorder>0</backorder> <!-- 1 = true, 0 = false -->
+			<is-visible>1</is-visible> <!-- 1 = true, 0 = false -->
+		</site-presence>
+		<attributes>
+			<attribute>
+				<name></name>
+				<value></value>
+			</attribute>
+		</attributes>
+		<images> <!-- Include all pictures on the page, in both gallery and body. -->
+			<image>
+				<name>IMG_1817.jpg</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>1</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt></alt>
+			</image>
+			<image>
+				<name>IMG_1834.jpg</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>0</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt></alt>
+			</image>
+			<image>
+				<name>IMG_2003.jpg</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>0</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt></alt>
+			</image>
+		</images>
+	</data>
+	<content>
+		<extra-short-description>
+			<ul>
+				<li>Transport glass panels</li>
+				<li>Handles 4' x 2' panels</li>
+				<li>80/20 aluminum frame</li>
+			</ul>
+		</extra-short-description>
+		<short-description>
+			<ul>
+				<li>Solar Panel Conveyor</li>
+				<li>Transport glass panels</li>
+				<li>Handles 4' x 2' panels</li>
+				<li>Nationwide Shipping</li>
+				<li>80/20 aluminum frame</li>
+			</ul>
+		</short-description>
+		<long-description>
+			<p>Used solar panel conveyor for sale by American Surplus transports glass panels across the conveyor. The inspection table is 46" x 53" and the indexing turntables are duel direction. There are three types of single transport. 29.5" x 77" gravity roller, 57" x 53" gravity roller, and 18.5" x 77" gravity roller. It features a 57" x 53" air cylinder on the duel direction and a die table with a 55" x 53" air cylinder. The swing table swings 90 degrees. The indexing turntables are duel direction. Call our sales team to learn more about used solar panel conveyor and get a quote today.</p>
+			<p style="color: red;"><strong>We can&rsquo;t list our entire inventory online, if you do not see what you are looking for, just ask! Quantity discounts available on used solar panel conveyor 40-60% off the price of new. Call 800-876-3736 for additional information &amp; a free quote. American Surplus will provide a quote on new equipment if used is unavailable. Nationwide shipping is available. Price and product availability subject to change without notice. Inventory is subject to prior sale.</strong></p>
+		</long-description>
+	</content>
+</product>
