@@ -19,7 +19,7 @@
 		</category>
 		<site-presence>
 			<backorder>0</backorder> <!-- 1 = true, 0 = false -->
-			<is-visible>1</is-visible> <!-- 1 = true, 0 = false -->
+			<is-visible>0</is-visible> <!-- 1 = true, 0 = false -->
 		</site-presence>
 		<attributes>
 			<attribute>
