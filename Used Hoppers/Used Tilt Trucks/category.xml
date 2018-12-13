@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<category>
+	<data>
+		<title></title>
+		<meta-title></meta-title>
+		<meta-description></meta-description>
+		<category-code></category-code>
+		<top-level-category></top-level-category>
+		<parent-categories>
+			<parent></parent>
+		</parent-categories>
+		<child-categories>
+			<child></child>
+		</child-categories>
+		<images>
+			<image>
+				<name></name>
+				<placement></placement> <!-- gallery or body, limit 1 gallery picture per category -->
+				<is-primary></is-primary>
+				<priority></priority> <!-- blank on body pictures -->
+				<alt></alt>
+			</image>
+		</images>
+	</data>
+	<content>
+		<extra-short-decription>
+		
+		</extra-short-description>
+		<short-description>
+		
+		</short-description>
+		<long-description>
+		
+		</long-description>
+	</content>
+</category>
