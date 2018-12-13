@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <product>
 	<data>
-		<title>Used Rubbermaid Tilt Trucks - HD 2 Cu. Yd. Capacity</title>
-		<meta-title>Used Rubbermaid Tilt Trucks - HD 2 Cu. Yd. Capacity</meta-title>
-		<meta-description>Used Rubbermaid Tilt Trucks - HD 2 Cu. Yd. Capacity</meta-description>
-		<product-code>HOP-0002</product-code>
+		<title>0.5 Cu. Yd. Utility Grade Rubbermaid Tilt Trucks</title>
+		<meta-title>Used 0.5 Cu. Yd. Utility Grade Rubbermaid Tilt Trucks</meta-title>
+		<meta-description>Used 0.5 Cu. Yd. Utility Grade Rubbermaid Tilt Trucks</meta-description>
+		<product-code>HOP-0015</product-code>
 		<pricing>
-			<list-price>3088</list-price>
-			<asi-price>1855</asi-price>
+			<list-price>425.95</list-price>
+			<asi-price>260</asi-price>
 			<as-low-as-price></as-low-as-price>
 		</pricing>
 		<related>
 			<1></1>
 		</related>
 		<category>
-			<name>used hoppers</name>
-			<priority>999</priority>
+			<name>Used Tilt Trucks</name>
+			<priority>996</priority>
 		</category>
 		<site-presence>
 			<backorder>0</backorder> <!-- 1 = true, 0 = false -->
@@ -24,23 +24,23 @@
 		<attributes>
 			<attribute>
 				<name>Capacity</name>
-				<value>2,300 lbs.</value>
+				<value>300 lbs.</value>
 			</attribute>
 			<attribute>
 				<name>cubic yard capacity</name>
-				<value>2 cubic yd</value>
+				<value>0.5 cubic yd</value>
 			</attribute>
 			<attribute>
 				<name>Height</name>
-				<value>50"</value>
+				<value>38"</value>
 			</attribute>
 			<attribute>
 				<name>length</name>
-				<value>80"</value>
+				<value>56"</value>
 			</attribute>
 			<attribute>
 				<name>width</name>
-				<value>39"</value>
+				<value>26"</value>
 			</attribute>
 			<attribute>
 				<name>brand</name>
@@ -48,41 +48,39 @@
 			</attribute>
 			<attribute>
 				<name>inside height</name>
-				<value>43"</value>
+				<value>32"</value>
 			</attribute>
 		</attributes>
 		<images> <!-- Include all pictures on the page, in both gallery and body. -->
 			<image>
-				<name>2.0HDbadge.png</name>
+				<name>.5utilbadge.png</name>
 				<placement>gallery</placement> <!-- gallery or body -->
 				<is-primary>0</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
 				<priority>1</priority> <!-- blank on body pictures -->
-				<alt>used rubbermaid dump hopper</alt>
+				<alt>0.5 Cu. Yd. Utility Grade Rubbermaid Dump Hoppers</alt>
 			</image>
 			<image>
-				<name>2.0HDtrandparent.png</name>
+				<name>.5utiltransparent2.png</name>
 				<placement>gallery</placement> <!-- gallery or body -->
 				<is-primary>1</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
 				<priority>1</priority> <!-- blank on body pictures -->
-				<alt>used rubbermaid dump hopper</alt>
+				<alt>0.5 Cu. Yd. Utility Grade Rubbermaid Dump Hoppers</alt>
 			</image>
 		</images>
 	</data>
 	<content>
 		<extra-short-description>
-		<ul>
-    <li>Heavy Duty Construction</li>
-    <li>Easy to Clean</li>
-    <li>2 Cu. Yd. Capacity&nbsp;</li>
-</ul>
+		<li>Strong Construction</li>
+<li>Easy to Clean</li>
+<li>0.5 Cu. Yd. Capacity&nbsp;</li>
 		</extra-short-description>
 		<short-description>
-		<li style="box-sizing: border-box; margin: 0px; padding: 0px; direction: ltr; transition: all 0.2s ease 0s; color: #313131; font-family: 'Open Sans', sans-serif; font-size: 16px; background-color: #ffffff;">Powder coated steel frame offers corrosion resistance</li>
-<li style="box-sizing: border-box; margin: 0px; padding: 0px; direction: ltr; transition: all 0.2s ease 0s; color: #313131; font-family: 'Open Sans', sans-serif; font-size: 16px; background-color: #ffffff;">Industrial strength construction helps transport heavy loads with ease</li>
-<li style="box-sizing: border-box; margin: 0px; padding: 0px; direction: ltr; transition: all 0.2s ease 0s; color: #313131; font-family: 'Open Sans', sans-serif; font-size: 16px; background-color: #ffffff;">Smooth &amp; Durable plastic surface is easy to clean and resists pitting and corroding</li><p><span style="font-size: 10px;">Reference: IC-69/59</span></p>
+		<li style="font-size: 16px; box-sizing: border-box; margin: 0px; padding: 0px; direction: ltr; transition: all 0.2s ease 0s; color: #313131; font-family: 'Open Sans', sans-serif; background-color: #ffffff;">Powder coated steel frame offers corrosion resistance</li>
+<li style="font-size: 16px; box-sizing: border-box; margin: 0px; padding: 0px; direction: ltr; transition: all 0.2s ease 0s; color: #313131; font-family: 'Open Sans', sans-serif; background-color: #ffffff;">Industrial strength construction helps transport heavy loads with ease</li>
+<li style="font-size: 16px; box-sizing: border-box; margin: 0px; padding: 0px; direction: ltr; transition: all 0.2s ease 0s; color: #313131; font-family: 'Open Sans', sans-serif; background-color: #ffffff;">Smooth &amp; Durable plastic surface is easy to clean and resists pitting and corroding</li><p><span style="font-size: 10px;">Reference: IC-73</span></p>
 		</short-description>
 		<long-description>
-		<p>Used 2 Cubic Yard Dump Hoppers by Rubbermaid Commercial Products are in stock now at American Surplus! These hoppers tilt for easy dumping and removal of contents in the bin. They have a 2 cubic yard capacity per hopper. They have handles for easy maneuvering and durable casters for transport. Call our sales team today to learn more about the used Rubbermaid Utility tilt hoppers we have in stock!</p>
+		<p>Used 0.5 Cubic Yard Dump Hoppers by Rubbermaid Commercial Products are in stock now at American Surplus! These hoppers tilt for easy dumping and removal of contents in the bin. They have a 0.5 cubic yard capacity per hopper. They have handles for easy maneuvering and durable casters for transport. Call our sales team today to learn more about the used Rubbermaid Utility tilt hoppers we have in stock!</p>
 <p><strong style="box-sizing: border-box; line-height: inherit; color: #ff0000; font-family: 'Open Sans', sans-serif; font-size: 16px; background-color: #ffffff;">We can&rsquo;t list our entire inventory online, if you do not see what you are looking for, just ask! Quantity discounts available on used hoppers 40-60% off the price of new. Call <a href="tel:8008763736">800-876-3736</a> for additional information &amp; a free quote. American Surplus will provide a quote on new equipment if used is unavailable. Nationwide shipping is available. Price and product availability subject to change without notice. Inventory is subject to prior sale.</strong></p>
 		</long-description>
 	</content>

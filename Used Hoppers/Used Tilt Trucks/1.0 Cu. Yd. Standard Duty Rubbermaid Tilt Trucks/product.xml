@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <product>
 	<data>
-		<title>1.0 Cu. Yd. Heavy Duty Rubbermaid Tilt Trucks</title>
-		<meta-title>used 1.0 Cu. Yd. Heavy Duty Rubbermaid Tilt Trucks</meta-title>
-		<meta-description>used 1.0 Cu. Yd. Heavy Duty Rubbermaid Tilt Trucks</meta-description>
-		<product-code>HOP-0005</product-code>
+		<title>1.0 Cu. Yd. Standard Duty Rubbermaid Tilt Trucks</title>
+		<meta-title>Used 1.0 Cu. Yd. Standard Duty Rubbermaid Tilt Trucks</meta-title>
+		<meta-description>Used 1.0 Cu. Yd. Standard Duty Rubbermaid Tilt Trucks</meta-description>
+		<product-code>HOP-0010</product-code>
 		<pricing>
-			<list-price>912</list-price>
-			<asi-price>547.20</asi-price>
+			<list-price>687</list-price>
+			<asi-price>415</asi-price>
 			<as-low-as-price></as-low-as-price>
 		</pricing>
 		<related>
 			<1></1>
 		</related>
 		<category>
-			<name>used hoppers</name>
+			<name>Used Tilt Trucks</name>
 			<priority>997</priority>
 		</category>
 		<site-presence>
@@ -22,9 +22,9 @@
 			<is-visible>1</is-visible> <!-- 1 = true, 0 = false -->
 		</site-presence>
 		<attributes>
-			<attribute>
+			attribute>
 				<name>Capacity</name>
-				<value>2,000 lbs.</value>
+				<value>1,000 lbs.</value>
 			</attribute>
 			<attribute>
 				<name>cubic yard capacity</name>
@@ -53,28 +53,26 @@
 		</attributes>
 		<images> <!-- Include all pictures on the page, in both gallery and body. -->
 			<image>
-				<name>1.0HDbadge.png</name>
-				<placement>gallery</placement> <!-- gallery or body -->
-				<is-primary>0</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
-				<priority>1</priority> <!-- blank on body pictures -->
-				<alt>Used Rubbermaid Dump Hoppers - HD 1.0 Cu. Yd. Capacity</alt>
-			</image>
-			<image>
-				<name>1.0HDtransparent.png</name>
+				<name>1.0stdtransparent.png</name>
 				<placement>gallery</placement> <!-- gallery or body -->
 				<is-primary>1</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
 				<priority>1</priority> <!-- blank on body pictures -->
-				<alt>Used Rubbermaid Dump Hoppers - HD 1.0 Cu. Yd. Capacity</alt>
+				<alt>1.0 Cu. Yd. Standard Duty Rubbermaid Dump Hoppers</alt>
+			</image>
+				<image>
+				<name>1.0stdbadge.png</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>0</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt>1.0 Cu. Yd. Standard Duty Rubbermaid Dump Hoppers</alt>
 			</image>
 		</images>
 	</data>
 	<content>
 		<extra-short-description>
-		<ul>
-    <li>Heavy Duty Construction</li>
-    <li>Easy to Clean</li>
-    <li>1.0 Cu. Yd. Capacity&nbsp;</li>
-</ul>
+		<li>Standard Construction</li>
+<li>Easy to Clean</li>
+<li>1.0 Cu. Yd. Capacity&nbsp;</li>
 		</extra-short-description>
 		<short-description>
 		<li style="font-size: 16px; box-sizing: border-box; margin: 0px; padding: 0px; direction: ltr; transition: all 0.2s ease 0s; color: #313131; font-family: 'Open Sans', sans-serif; background-color: #ffffff;">Powder coated steel frame offers corrosion resistance</li>

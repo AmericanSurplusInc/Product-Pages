@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<category>
+	<data>
+		<title>Used Tilt Trucks</title>
+		<meta-title>Used Tilt Trucks | Utility, Standard Duty, and Heavy Duty Rubbermaid Tilt Trucks</meta-title>
+		<meta-description>Browse our selection of used tilt trucks and find the perfect tilt truck for your business at a price you'll love! Variety of tilt trucks in stock including utility tilt trucks, standard duty tilt trucks, and heavy duty tilt trucks.</meta-description>
+		<category-code>TILT</category-code>
+		<top-level-category>0</top-level-category>
+		<parent-categories>
+			<parent>Used Hoppers</parent>
+		</parent-categories>
+		<child-categories>
+			<child></child>
+		</child-categories>
+		<images>
+			<image>
+				<name>1cuydrubbermaidtilttruck.png</name>
+				<placement>gallery</placement> <!-- gallery or body, limit 1 gallery picture per category -->
+				<is-primary>1</is-primary>
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt>Used Rubbermaid Tilt Trucks are available now at American Surplus!</alt>
+			</image>
+		</images>
+	</data>
+	<content>
+		<extra-short-decription>
+			<ul>
+				<li>Easily transport bulk material</li>
+				<li>Durable Plastic</li>
+				<li>Genuine Rubbermaid</li>
+			</ul>
+		</extra-short-description>
+		<short-description>
+			<p>Tilt Trucks are a safe and easy solution for quickly transporting, handling, and dumping loads of bulk material or waste. Each tilt truck hopper is made from molded polyethylene, a durable plastic that will stand up to sharp, hot, heavy, or corrosive loads, offering years of reliable service.</p>
+			<p>American Surplus is proud to carry genuine Rubbermaid Tilt Trucks, offering unsurpassed industrial-strength construction that's built to last. Expand your fleet and start moving more material faster with used Rubbermaid Tilt Trucks!</p>
+		</short-description>
+		<long-description>
+			<p>Used utility tilt hoppers are counterbalanced for smooth controlled dumping of debris and other materials. Our used tilt hoppers have an angled front designed for easy dumping. Made from a sturdy thick plastic, tilt hoppers won’t dent, corrode, or absorb moisture. Wheels and axles are inset to prevent damage to the hopper and the building. ASI’s used utility tilt hoppers are made by Rubbermaid, and come in various duty levels, including utility, standard, and heavy duties, capable of handling a variety of capacities based on your needs.</p>
+			<p>Used tilt trucks made from high density plastic are more than capable of satisfying your application requirements. Plastic hopper tilt trucks easily allows one person to handle miscellaneous type waste and refuse removal. Finding the right tilt truck for you depends primarily on the size and weight of the loads you are looking to carry inside of the manual tilt hopper. Sizes available include 1/2 cu. yd, 1 cu. yd, 1 1/2 cu. yd., 2 cu. yd, and 2 1/2 cu. yd. tilt trucks. Depending on the size of the material you're trying to carry, you may need a large tilt truck to handle a larger load. The next feature to consider would be the weight of the material you're looking to carry. You may need to consider a heavy-duty tilt truck for carrying heavier loads, but a utility-grade tilt truck is a lower capacity option that may be useful for mail sorting applications. Tilt Trucks are balanced for tilting and emptying with minimum effort. A good choice and inexpensive.</p>
+		</long-description>
+	</content>
+</category>
