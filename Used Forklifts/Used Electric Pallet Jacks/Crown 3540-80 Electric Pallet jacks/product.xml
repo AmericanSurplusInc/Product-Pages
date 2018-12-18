@@ -1,51 +1,105 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <product>
 	<data>
-		<title></title>
-		<meta-title></meta-title>
-		<meta-description></meta-description>
-		<product-code></product-code>
+		<title>Crown 3540-80 Electric Pallet Jacks</title>
+		<meta-title>Used Crown 3540-80 Electric Pallet Jacks</meta-title>
+		<meta-description>Used Crown 3540-80 Electric Pallet Jacks</meta-description>
+		<product-code>EPJ-0010</product-code>
 		<pricing>
 			<list-price></list-price>
-			<asi-price></asi-price>
+			<asi-price>4,150</asi-price>
 			<as-low-as-price></as-low-as-price>
 		</pricing>
 		<related>
 			<1></1>
 		</related>
 		<category>
-			<name></name>
-			<priority></priority>
+			<name>Used Forklifts</name>
+			<priority>1000</priority>
 		</category>
 		<site-presence>
-			<backorder></backorder> <!-- 1 = true, 0 = false -->
-			<is-visible></is-visible> <!-- 1 = true, 0 = false -->
+			<backorder>0</backorder> <!-- 1 = true, 0 = false -->
+			<is-visible>1</is-visible> <!-- 1 = true, 0 = false -->
 		</site-presence>
 		<attributes>
 			<attribute>
-				<name></name>
-				<value></value>
+				<name>capacity</name>
+				<value>8,000 lbs.</value>
+			</attribute><attribute>
+				<name>Battery</name>
+				<value>24 V</value>
+			</attribute><attribute>
+				<name>Fork Dimensions</name>
+				<value>27" x 96"</value>
+			</attribute><attribute>
+				<name>Lift Height</name>
+				<value>6"</value>
+			</attribute><attribute>
+				<name>Pallet Jack Style</name>
+				<value>Ride-On</value>
+			</attribute><attribute>
+				<name>Brand</name>
+				<value>Crown</value>
+			</attribute><attribute>
+				<name>Model #</name>
+				<value>3540-80</value>
+			</attribute><attribute>
+				<name>Weight</name>
+				<value>3,372 lbs.</value>
+			</attribute><attribute>
+				<name>Battery Included</name>
+				<value>Yes</value>
+			</attribute><attribute>
+				<name>Charger Included</name>
+				<value>Yes</value>
+			</attribute><attribute>
+				<name>NMFC Code</name>
+				<value>189240</value>
 			</attribute>
 		</attributes>
 		<images> <!-- Include all pictures on the page, in both gallery and body. -->
 			<image>
-				<name></name>
-				<placement></placement> <!-- gallery or body -->
-				<is-primary></is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
-				<priority></priority> <!-- blank on body pictures -->
-				<alt></alt>
+				<name>Crown3540-80ElectricPalletJack_500x500-max.png</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>0</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt>Crown3540-80ElectricPalletJack</alt>
+			</image>
+			<image>
+				<name>extendedforks_500x500-max.png</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>1</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>0</priority> <!-- blank on body pictures -->
+				<alt>Crown3540-80ElectricPalletJack</alt>
+			</image>
+			<image>
+				<name>label_500x500-max.png</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary><0/is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt>Crown3540-80ElectricPalletJack</alt>
 			</image>
 		</images>
 	</data>
 	<content>
 		<extra-short-description>
-		
+		<ul>
+    <li>6000 lbs. capacity</li>
+    <li>27&frac12;" x 93" forks</li>
+    <li>24V&nbsp;</li>
+</ul>
 		</extra-short-description>
 		<short-description>
-		
+		<ul style="box-sizing: border-box; margin: 0px 0px 1.25em; padding: 0px 0px 0px 15px; direction: ltr; font-size: 16px; line-height: 1.6; list-style-position: outside; font-family: 'Open Sans', sans-serif; color: #454545; background-color: #ffffff;">
+    <li style="box-sizing: border-box; margin: 0px; padding: 0px; direction: ltr; transition: all 0.2s ease 0s;">Ride-On Style</li>
+    <li style="box-sizing: border-box; margin: 0px; padding: 0px; direction: ltr; transition: all 0.2s ease 0s;">8,000 lbs. Capacity</li>
+    <li style="box-sizing: border-box; margin: 0px; padding: 0px; direction: ltr; transition: all 0.2s ease 0s;">24V Battery &amp; Charger</li>
+</ul>
 		</short-description>
 		<long-description>
-		
+		<p id="about" style="box-sizing: border-box; margin: 0px 0px 1.25em; padding: 0px; direction: ltr; font-family: 'Open Sans', sans-serif; font-size: 16px; line-height: 1.6; text-rendering: optimizelegibility; color: #313131; background-color: #ffffff;">Crown&nbsp;Crown 3540-80 Electric Pallet Jacks are expertly designed to meet or exceed industry and government safety standards while providing a productive, comfortable lifting experience! Whether you're tasked with dock work, deliveries, stock replenishment, or heavy manufacturing, Crown's electric pallet jacks have the strength and durability to stand up to even the most difficult of tasks.</p>
+<p style="box-sizing: border-box; margin: 0px 0px 1.25em; padding: 0px; direction: ltr; font-family: 'Open Sans', sans-serif; font-size: 16px; line-height: 1.6; text-rendering: optimizelegibility; color: #313131; background-color: #ffffff;">Crown fork trucks feature a C channel design constructed from heavy-gauge 5/16" steel as well as boxed-in fork tips and replaceable steel wear blocks, maximizing durability to guarantee a longer service life with fewer overall repairs. Each&nbsp;Crown 3540-80 Pallet Jack is fitted with Crown's industry-leading drive unit, featuring a powerful AC motor, cast iron gear box, helical gearing, and shock-absorbing taper bearings. This drive unit delivers responsive acceleration, smooth direction changes, and precise control, allowing operators to quickly transport and position loads with confidence.</p>
+<p style="box-sizing: border-box; margin: 0px 0px 1.25em; padding: 0px; direction: ltr; font-family: 'Open Sans', sans-serif; font-size: 16px; line-height: 1.6; text-rendering: optimizelegibility; color: #313131; background-color: #ffffff;">At American Surplus, we test every used electric pallet jack that comes through our door to ensure complete functionality, and the Crown 3540-80 is no exception. By ensuring the quality of all equipment we stock, we are able to provide you with high quality equipment with like-new functionality at a fraction of the cost! We're so confident in our products that we offer a&nbsp;<a href="https://www.americansurplus.com/services/product-guarantee/" style="box-sizing: border-box; background: transparent; color: #0345a9; text-decoration-line: none; line-height: inherit; transition: all 0.2s ease 0s; border: 0px; outline: 0px !important;">30 Day Product Guarantee</a>&nbsp;On all lift equipment, including electric pallet jacks! So don't delay, call our experienced sales team today at&nbsp;<a href="tel:8008763736" style="box-sizing: border-box; background: transparent; color: #0345a9; text-decoration-line: none; line-height: inherit; transition: all 0.2s ease 0s; border: 0px; outline: 0px !important;">(800) 876-3736</a>&nbsp;for additional information and a free quote!</p>
 		</long-description>
 	</content>
 </product>
