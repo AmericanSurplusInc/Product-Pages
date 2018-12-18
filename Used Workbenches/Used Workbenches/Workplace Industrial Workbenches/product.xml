@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product>
+	<data>
+		<title>Used Workplace Industrial Workbench</title>
+		<meta-title>Used Workplace Industrial Workbench</meta-title>
+		<meta-description>Used Industrial Workbenches from Workplace Modular Systems are for sale now at American Surplus! Featuring a 6" drawer, spacious work surface, and 6 outlet power bank, these modular workbenches are the perfect choice for your facility at the perfect price of up to 60% off new! </meta-description>
+		<product-code>9303</product-code>
+		<pricing>
+			<list-price>$1150.00</list-price>
+			<asi-price>$495.00</asi-price>
+			<as-low-as-price></as-low-as-price>
+		</pricing>
+		<related>
+			<1>Used Storage Bins - AkroBins - 16" Wide</1>
+			<2>Used Storage Bins - AkroBins - 5" Wide</2>
+			<3>Used Storage Bins - AkroBins - 8" Wide</3>
+			<4>Used ASI Pallet Rack Workbenches</4>
+		</related>
+		<category>
+			<name>Used Workbenches</name>
+			<priority>1000</priority>
+		</category>
+		<site-presence>
+			<backorder>0</backorder> <!-- 1 = true, 0 = false -->
+			<is-visible>1</is-visible> <!-- 1 = true, 0 = false -->
+		</site-presence>
+		<attributes>
+			<attribute>
+				<name>Depth</name>
+				<value>30"</value>
+			</attribute>
+			<attribute>
+				<name>Width</name>
+				<value>60"</value>
+			</attribute>
+			<attribute>
+				<name>Brand</name>
+				<value>Workplace Modular Systems</value>
+			</attribute>
+			<attribute>
+				<name>Height to Surface</name>
+				<value>30-36"</value>
+			</attribute>
+			<attribute>
+				<name>Electrical System</name>
+				<value>6 Outlet Power Bank</value>
+			</attribute>
+			<attribute>
+				<name>FOB</name>
+				<value>Baltimore, MD</value>
+			</attribute>
+		</attributes>
+		<images> <!-- Include all pictures on the page, in both gallery and body. -->
+			<image>
+				<name>IndustrialWorkbenchTransparent.jpg</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>1</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt>Used Workplace Industrial Workbench</alt>
+			</image>
+			<image>
+				<name>WorkplaceIndustrialWorkbench.jpg</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>0</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>2</priority> <!-- blank on body pictures -->
+				<alt>Workplace Industrial Workbench</alt>
+			</image>
+			<image>
+				<name>IndustrialWorkbenchDrawer.jpg</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>0</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>3</priority> <!-- blank on body pictures -->
+				<alt>Used Industrial Workbench</alt>
+			</image>
+			<image>
+				<name>IndustrialWorkbenchOpenDrawer.jpg</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>0</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>4</priority> <!-- blank on body pictures -->
+				<alt>Used Industrial Workbench Drawer</alt>
+			</image>
+			<image>
+				<name>IndustrialWorkbenchBadge.jpg</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>0</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>5</priority> <!-- blank on body pictures -->
+				<alt>Used Workplace Industrial Workbench Badge</alt>
+			</image>
+		</images>
+	</data>
+	<content>
+		<extra-short-description>
+			<ul>
+				<li>Flexible, and Ergonomic</li>
+				<li>Customizable System</li>
+				<li>Durable, Spacious Worksurface</li>
+			</ul>
+		</extra-short-description>
+		<short-description>
+			<ul>
+				<li>A Durable, Flexible, and Ergonomic Workstation</li>
+				<li>Rear Beams Include Inserts For Further Customization</li>
+				<li>Laminate Desktop Provides Durability and Surface Protection</li>
+			</ul>
+		</short-description>
+		<long-description>
+			A Used Industrial Workbench by Workplace Modular Systems is a preferred choice for durable, flexible, and ergonomic workstations. Equipped with a 6-outlet power bank, 6" drawer, overhead shelf, and a spacious 60" x 30" laminate desktop, each industrial workbench has space for all of your equipment and product. Modular design provided by the rear beams allows you to customize your workbench to fit your exact needs as they change with accessories such as additional shelving, <a href="https://www.americansurplus.com/used-equipment/used-bins-and-used-totes/used-storage-bins/">louvered bin systems</a>, lighting mounts, and more.&nbsp;
+		</long-description>
+	</content>
+</product>
