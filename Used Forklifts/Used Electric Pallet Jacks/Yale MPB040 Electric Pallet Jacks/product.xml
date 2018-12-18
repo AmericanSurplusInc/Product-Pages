@@ -1,51 +1,111 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <product>
 	<data>
-		<title></title>
-		<meta-title></meta-title>
-		<meta-description></meta-description>
-		<product-code></product-code>
+		<title>Yale MPB040 Electric Pallet Jacks</title>
+		<meta-title>Used Yale MPB040 Electric Pallet Jacks</meta-title>
+		<meta-description>Used Yale MPB040 Electric Pallet Jacks</meta-description>
+		<product-code>EPJ-0003</product-code>
 		<pricing>
 			<list-price></list-price>
-			<asi-price></asi-price>
+			<asi-price>3200</asi-price>
 			<as-low-as-price></as-low-as-price>
 		</pricing>
 		<related>
 			<1></1>
 		</related>
 		<category>
-			<name></name>
-			<priority></priority>
+			<name>used Electric pallet Jacks</name>
+			<priority>1000</priority>
 		</category>
 		<site-presence>
-			<backorder></backorder> <!-- 1 = true, 0 = false -->
-			<is-visible></is-visible> <!-- 1 = true, 0 = false -->
+			<backorder>0</backorder> <!-- 1 = true, 0 = false -->
+			<is-visible>1</is-visible> <!-- 1 = true, 0 = false -->
 		</site-presence>
 		<attributes>
-			<attribute>
-				<name></name>
-				<value></value>
+			<attributes>
+			<name>capacity</name>
+				<value>4,000 lbs.</value>
+			</attribute><attribute>
+				<name>Battery</name>
+				<value>24 V</value>
+			</attribute><attribute>
+				<name>Fork Dimensions</name>
+				<value>27" x 48"</value>
+			</attribute><attribute>
+				<name>Lift Height</name>
+				<value>6"</value>
+			</attribute><attribute>
+				<name>Pallet Jack Style</name>
+				<value>Walk-Behind</value>
+			</attribute><attribute>
+				<name>Brand</name>
+				<value>Yale</value>
+			</attribute><attribute>
+				<name>Model #</name>
+				<value>MPB040</value>
+			</attribute><attribute>
+				<name>Weight</name>
+				<value>925 lbs. w/ Battery, 625 lbs. w/o Battery</value>
+			</attribute><attribute>
+				<name>Battery Included</name>
+				<value>Yes</value>
+			</attribute><attribute>
+				<name>Charger Included</name>
+				<value>No</value>
+			</attribute><attribute>
+				<name>NMFC Code</name>
+				<value>189240</value>
 			</attribute>
 		</attributes>
 		<images> <!-- Include all pictures on the page, in both gallery and body. -->
 			<image>
-				<name></name>
-				<placement></placement> <!-- gallery or body -->
-				<is-primary></is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
-				<priority></priority> <!-- blank on body pictures -->
-				<alt></alt>
+				<name>yaleElectricJack_500x500-max.png</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>1</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt>Yale MPB040 Electric Pallet Jacks</alt>
+			</image>
+			<image>
+				<name>IMG_3727_500x500-max.png</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>0</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt>Yale MPB040 Electric Pallet Jacks</alt>
+			</image>
+			<image>
+				<name>yaleElectricJack2_500x500-max.png</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>0</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt>Yale MPB040 Electric Pallet Jacks</alt>
+			</image>
+			<image>
+				<name>yaleMPB040Badge_500x500-max.png</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>0</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt>Yale MPB040 Electric Pallet Jacks</alt>
 			</image>
 		</images>
 	</data>
 	<content>
 		<extra-short-description>
-		
+		<ul>
+    <li>Walk-Behind Style</li>
+    <li>4,000 lbs. Capacity</li>
+    <li>24 Volt</li>
+</ul>
 		</extra-short-description>
 		<short-description>
-		
+		<ul>
+    <li>Tapered forks provide industry leading pallet entry and exit!</li>
+    <li>Lifts loads up to 4,000 lbs. as high as 6" with ease!</li>
+    <li>Standard 27" x 48" forks offer easy entry into any standard pallet</li>
+</ul>
 		</short-description>
 		<long-description>
-		
+		<p style="box-sizing: border-box; margin: 0px 0px 1.25em; padding: 0px; direction: ltr; font-family: 'Open Sans', sans-serif; font-size: 16px; line-height: 1.6; text-rendering: optimizelegibility; color: #313131; background-color: #ffffff;"><span style="box-sizing: border-box; transition: all 0.2s ease 0s;">Used Yale Electric Pallet Jack for sale at American Surplus is in stock. All used electric pallet jacks from ASI are cleaned, tested, painted and have a 30 day ASI guarantee. We make sure all functions are operational when you receive your truck! This electric pallet jack has a 4,000 lb. capacity. The forks on this unit are 27" x 48", and it is the ride on style of pallet jacks. It comes with a 24V battery. Call today to learn more about our used Yale electric pallet jacks and get a quote today.</span></p>
+<p style="box-sizing: border-box; margin: 0px 0px 1.25em; padding: 0px; direction: ltr; font-family: 'Open Sans', sans-serif; font-size: 16px; line-height: 1.6; text-rendering: optimizelegibility; color: #313131; background-color: #ffffff;"><span style="box-sizing: border-box; transition: all 0.2s ease 0s;"><strong style="box-sizing: border-box; line-height: inherit; color: #ff0000;">We can&rsquo;t list our entire inventory online, if you do not see what you are looking for, just ask! Quantity discounts available on used electric pallet jacks 40-60% off the price of new. Call 800-876-3736 for additional information &amp; a free quote. American Surplus will provide a quote on new equipment if used is unavailable. Nationwide shipping is available. Price and product availability subject to change without notice. Inventory is subject to prior sale.</strong></span></p>
 		</long-description>
 	</content>
 </product>
