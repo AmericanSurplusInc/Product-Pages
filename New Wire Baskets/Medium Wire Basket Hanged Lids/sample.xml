@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <product>
 	<data>
-		<title></title>
-		<meta-title></meta-title>
-		<meta-description></meta-description>
-		<product-code></product-code>
+		<title>Medium Wire Basket Hanged Lids</title>
+		<meta-title>Medium WorldTainer Wire Basket Hanged Lids</meta-title>
+		<meta-description>Medium WorldTainer Wire Basket Hanged Lids</meta-description>
+		<product-code>NWB-0006</product-code>
 		<pricing>
 			<list-price></list-price>
 			<asi-price></asi-price>
@@ -14,38 +14,77 @@
 			<1></1>
 		</related>
 		<category>
-			<name></name>
-			<priority></priority>
+			<name>Wire Baskets</name>
+			<priority>1009</priority>
 		</category>
 		<site-presence>
-			<backorder></backorder> <!-- 1 = true, 0 = false -->
-			<is-visible></is-visible> <!-- 1 = true, 0 = false -->
+			<backorder>0</backorder> <!-- 1 = true, 0 = false -->
+			<is-visible>1</is-visible> <!-- 1 = true, 0 = false -->
 		</site-presence>
 		<attributes>
-			<attribute>
-				<name></name>
-				<value></value>
+			attribute>
+				<name>Depth</name>
+				<value>32"</value>
 			</attribute>
-		</attributes>
+			<attribute>
+				<name>Width</name>
+				<value>40"</value>
+			</attribute>
+			<attribute>
+				<name>Brand</name>
+				<value>World Trainer</value>
+			</attribute>
+			<attribute>
+				<name>Eligible For 48 Hour Quick Ship</name>
+				<value>Yes</value>
+			</attribute>
 		<images> <!-- Include all pictures on the page, in both gallery and body. -->
 			<image>
-				<name></name>
-				<placement></placement> <!-- gallery or body -->
-				<is-primary></is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
-				<priority></priority> <!-- blank on body pictures -->
-				<alt></alt>
+				<name>worldtainermediumhangedlid_500x500-max.png</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>1</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt>Medium Wire Basket Hanged Lids</alt>
 			</image>
 		</images>
 	</data>
 	<content>
 		<extra-short-description>
-		
+		<li>Secure Your Basket</li>
+<li>32" x 40"</li>
+<li>48 Hour Quick Ship</li>
 		</extra-short-description>
 		<short-description>
-		
+		<ul>
+    <li>Secure Your Product During Transport</li>
+    <li>Limit access to specific baskets by padlocking your lid</li>
+    <li>Fits perfectly with our <a href="https://www.americansurplus.com/new-medium-wire-baskets.html">Medium Wire Baskets</a></li>
+</ul>
+<span class="__telerik_marker __telerik_marker_end"></span>
 		</short-description>
 		<long-description>
-		
+		<div class="row">
+<div class="large-4 columns">
+<h3>Fits Perfectly With...</h3>
+<hr />
+<div class="large-12 columns">
+<div class="large-5 columns">
+<a href="https://www.americansurplus.com/new-medium-wire-baskets.html"><img alt="Worldtainer Wire Baskets" src="/_resources/common/userfiles/image/newEquipment/New Wire Baskets/medium142-x-95.png" /></a>
+</div>
+<div class="large-7 columns">
+<h5><a href="https://www.americansurplus.com/new-medium-wire-baskets.html">Medium Wire Baskets</a></h5>
+<a style="border: 1px solid #0a47a8; background-color: #ffffff !important; color: #0a47a8 !important;" class="button" href="https://www.americansurplus.com/new-medium-wire-baskets.html">Shop Now -&gt;</a>
+</div>
+</div>
+</div>
+<div class="large-8 columns">
+<h3>WorldTainer Wire Baskets: Common-Sense, Scalable Bulk Storage
+</h3>
+<hr />
+<p>Wire Basket Hanged Lids are a great choice for when you want to prevent product from spilling out of your basket during transit, or when you're looking to secure the product inside a specific basket. The wire mesh design means any padlock could be used to lock down the lid, while the easy snap-on installation makes adjusting your system quick and easy if needed.</p>
+<p>American Surplus is proud to carry WorldTainer Wire Containers, the #1 selling wire basket in the world. WorldTainer manufactures each wire container to deliver superior strength, quality, and durability every time. With our factory direct connections and over 25 years of experience, we can pass more savings and quality onto you than anyone else in the industry! Call or request a quote today and see the difference American Surplus and WorldTainer can make for you AND your wallet!</p>
+</div>
+</div>
 		</long-description>
 	</content>
 </product>
