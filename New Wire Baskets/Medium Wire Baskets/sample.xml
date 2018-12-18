@@ -4,7 +4,7 @@
 		<title>Medium Wire Baskets</title>
 		<meta-title>New Medium Wire Baskets</meta-title>
 		<meta-description>New Medium Wire Baskets For Sale at ASI, 48 Hr Quick Ship, 20" Deep x 32" Wide x 22" Overall Height, 1/2 Front Drop Gate, Low Price Guarantee and Nationwide shipping on our new wire baskets</meta-description>
-		<product-code>375</product-code>
+		<product-code>376</product-code>
 		<pricing>
 			<list-price></list-price>
 			<asi-price></asi-price>
@@ -15,7 +15,7 @@
 		</related>
 		<category>
 			<name>Wire Baskets</name>
-			<priority>1000</priority>
+			<priority>1001</priority>
 		</category>
 		<site-presence>
 			<backorder>0</backorder> <!-- 1 = true, 0 = false -->
