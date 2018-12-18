@@ -1,28 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <product>
 	<data>
-		<title>Used 24" Wide Gravity Roller Conveyor</title>
-		<meta-title>Used 24" Wide Gravity Roller Conveyor</meta-title>
-		<meta-description>Used 24" Wide Gravity Roller Conveyor For Sale at American Surplus, Great Condition, 1.9" rollers on 3" centers, Ships nationwide, Easy to Install, Call 800-876-3736 to get a same day quote</meta-description>
-		<product-code>GRC-0010</product-code>
+		<title>Used 30" Wide Versa Gravity Roller Conveyor</title>
+		<meta-title>Used 30" Versa Wide Gravity Roller Conveyor</meta-title>
+		<meta-description>Used 30" Versa Wide Gravity Roller Conveyor For Sale at American Surplus, Great Condition, 1.9" rollers on 3" centers, Ships nationwide, Easy to Install, Call 800-876-3736 to get a same day quote</meta-description>
+		<product-code>GRC-0006</product-code>
 		<pricing>
 			<list-price></list-price>
 			<asi-price>Call or Request Quote</asi-price>
 			<as-low-as-price></as-low-as-price>
 		</pricing>
 		<related>
-			<1>Used 28" Wide Gravity Roller Conveyor</1>
-			<2>Used 18" Wide Gravity Roller Conveyor</2>
-			<3>Used PESA CWL P2 510 ED60 Conveyor Scale</3>
-			<4>Used Cable Emergency Stop (Safety Pull Cord)</4>
-			<5>Used Conveyor Barcode Scanners</5>
-			<6>Used H-Stand Conveyor Stands</6>
-			<7>Used Manual Conveyor Gates</7>
-			<8>Used Conveyor Walkovers</8>
 		</related>
 		<category>
 			<name>Used Gravity Roller Conveyor</name>
-			<priority>999</priority>
+			<priority>1000</priority>
 		</category>
 		<site-presence>
 			<backorder>0</backorder>
@@ -35,7 +27,7 @@
 			</attribute>
 			<attribute>
 				<name>Conveyor Bed Widths</name>
-				<value>24" Wide Conveyor Beds</value>
+				<value>30" Wide Conveyor Beds</value>
 			</attribute>
 			<attribute>
 				<name>Conveyor Roller Sizes</name>
@@ -46,19 +38,27 @@
 				<value>1.5", 3", 4.5", or 6" Roller Centers</value>
 			</attribute>
 		</attributes>
+		images> <!-- Include all pictures on the page, in both gallery and body. -->
+			<image>
+				<name>resized 30 versa_500x500-max.png</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>1</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt>Used 30" Wide Versa Gravity Roller Conveyor</alt>
+			</image>
+		</images>
 	</data>
 	<content>
 		<extra-short-description>
 			<ul>
-				<li>24" wide x 120" long conveyor</li>
-				<li>1.9" rollers on 3" centers</li>
-				<li>H-Stands Available</li>
-				<li>1.5 - 6" roller centers available</li>
-			</ul>
+    <li>Great Condition!</li>
+    <li>Heavy Duty Design</li>
+    <li>Quantity Discounts Available</li>
+</ul>
 		</extra-short-description>
 		<short-description>
 			<ul>
-				<li>24" wide x 120" long gravity conveyor beds</li>
+				<li>30" wide x 120" long gravity conveyor beds</li>
 				<li>1.9" conveyor rollers on 3" centers</li>
 				<li>H-Stands Available</li>
 				<li>Great Condition</li>
@@ -66,313 +66,8 @@
 			</ul>
 		</short-description>
 		<long-description>
-			<div class="large-12 columns">
-				<div class="row">
-					<div class="large-5 columns">
-						<img alt="" style="text-align: center; border: 1px solid #e3e3e3; padding: 5px; border-radius: 3px; box-shadow: rgba(0, 0, 0, 0.06) 0px 1px 3px, rgba(0, 0, 0, 0.12) 0px 1px 2px;" src="/_resources/common/userfiles/image/usedEquipment/usedConveyor/gravityRollerConveyor/customfits.png" />
-					</div>
-					<div class="large-7 columns">
-						<h1>We Build Great Systems at a Great Price</h1>
-						<hr />
-						<p>At American Surplus, we're proud to have spent over 27 years helping businesses save money while designing their warehouse logistics systems. It all starts in our facility, where our expert conveyor technicians prepare every order with care before leaving our building. When purchasing a used gravity conveyor system, it's important to make sure the product you're buying is in good condition and ready to offer years of reliable service. That's why we cut out the guesswork! Our conveyor technicians ensure every system leaving our facility is ready for a long, productive service life, leaving you with nothing but peace of mind (and a happy wallet!)</p>
-						<div class="row">
-							<div class="large-4 columns">
-								<a href="#" class="button" style="width: 100%;" data-reveal-id="quoteModal"> Request a Quote</a>
-							</div>
-							<div class="large-4 columns">
-								<a href="#accessories" class="button" style="border: 1px solid #0a47a8; width: 100%; color: #0a47a8 !important; background-color: #ffffff !important;">Browse Accessories</a>
-							</div>
-							<div class="large-4 columns">
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="large-12 columns">
-				<div class="row">
-					<div class="row">
-						<div class="large-6 columns" id="accessories">
-							<h1>We Carry Everything You'll Need!</h1>
-							<hr />
-							<div class="row">
-								<div class="large-12 columns">
-									<div class="row">
-										<div class="large-8 columns">
-											<p style="font-size: 12px;">Whatever your application, we have all the used 24" conveyor accessories that you'll need to setup an efficient, safe, and secure system while saving you money!</p>
-										</div>
-										<div class="large-4 columns">
-											<a href="https://www.americansurplus.com/used-equipment/used-conveyor-accessories/" class="button" style="border: 1px solid #0a47a8; width: 100%; color: #0a47a8 !important; background-color: #ffffff !important;"> Browse All Accessories</a>
-										</div>
-									</div>
-								</div>
-							</div>
-							<div style="position: sticky; top: 0px;" class="large-12 columns">
-								<div class="large-12 columns">
-									<div class="row">
-										<div class="large-4 columns">
-											<img alt="" src="https://www.americansurplus.com/_resources/common/userfiles/image/usedEquipment/conveyorAccessories/usedConveyorWalkovers/conveyorWalkover1000x666.png" />
-										</div>
-										<div class="large-8 columns">
-											<h3>Used Conveyor Walkovers</h3>
-											<p style="font-size: 12px;">Cross your lines safely and easily without halting production with used conveyor walkovers!</p>
-											<div class="row">
-												<div class="large-6 columns">
-													<a class="button" style="border: 1px solid #0a47a8; width: 100%; color: #0a47a8 !important; background-color: #ffffff !important;" href="https://www.americansurplus.com/used-conveyor-walkovers.html">Read More</a>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div class="large-12 columns">
-									<div class="row">
-										<div class="large-4 columns">
-											<img alt="" src="/_resources/common/userfiles/image/usedEquipment/usedConveyor/conimg/ManualGate[1].jpg" />
-										</div>
-										<div class="large-8 columns">
-											<h3>Used Conveyor Gates</h3>
-											<p style="font-size: 12px;">Create a convenient walkway through your conveyor line!<br />Manual and powered conveyor gates available!</p>
-											<div class="row">
-												<div class="large-6 columns">
-													<a class="button" style="border: 1px solid #0a47a8; width: 100%; color: #0a47a8 !important; background-color: #ffffff !important;" href="https://www.americansurplus.com/search/?Keywords=conveyor gates">Read More</a>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div class="large-12 columns">
-									<div class="row">
-										<div class="large-4 columns">
-											<img alt="" src="/_resources/common/userfiles/image/usedEquipment/usedConveyor/conimg/spur.png" />
-										</div>
-										<div class="large-8 columns">
-											<h3>Used Conveyor Spurs</h3>
-											<p style="font-size: 12px;">Need to handle merge/diverge applications on your line? We have used conveyor spurs for that! They're perfect for transferring product to or from a main conveyor line, to or from workstations, or similar applications.</p>
-											<div class="row">
-												<div class="large-6 columns">
-													<a class="button" style="border: 1px solid #0a47a8; width: 100%; color: #0a47a8 !important; background-color: #ffffff !important;" href="https://www.americansurplus.com/used-spur-conveyor-curves.html">Read More</a>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div class="large-12 columns">
-									<div class="row">
-										<div class="large-4 columns">
-											<img alt="" src="/_resources/common/userfiles/image/usedEquipment/usedConveyor/conimg/guardrail.png" />
-										</div>
-										<div class="large-8 columns">
-											<h3>Used Conveyor Guard Rails</h3>
-											<p style="font-size: 12px;">Need to protect your product from falling off the side of your line? Look no further than used conveyor guard rails!</p>
-											<div class="row">
-												<div class="large-6 columns">
-													<a class="button" style="border: 1px solid #0a47a8; width: 100%; color: #0a47a8 !important; background-color: #ffffff !important;" href="https://www.americansurplus.com/8used-conveyor-guard-rails.html">Read More</a>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="large-6 columns">
-							<h1>Find The Right Conveyor For You!</h1>
-							<hr />
-							<div class="row">
-								<div class="large-12 columns">
-									<div class="row">
-										<div class="large-7 columns">
-											<p style="font-size: 12px;">Every application is different, that's why at American Surplus we carry all the used 24" conveyor components necessary to cater to each customer's unique challenges!</p>
-										</div>
-										<div class="large-5 columns">
-											<img alt="" style="text-align: center; border: 1px solid #e3e3e3; padding: 5px; border-radius: 3px; box-shadow: rgba(0, 0, 0, 0.06) 0px 1px 3px, rgba(0, 0, 0, 0.12) 0px 1px 2px;" src="/_resources/common/userfiles/image/usedEquipment/usedConveyor/conimg/rollers.png" />
-										</div>
-									</div>
-								</div>
-								<div class="row">
-									<div class="large-12 columns">
-										<table style="overflow-x: auto;">
-											<tbody>
-												<tr>
-													<th><strong>Frame Material</strong></th>
-													<th><strong>Support Centers</strong></th>
-													<th><strong>Roller Dia. </strong></th>
-													<th><strong>Frame Cap. (lb./LF)</strong></th>
-													<th><strong>Roller Cap. (lb./LF)</strong></th>
-												</tr>
-												<tr>
-													<td>Steel</td>
-													<td>5'</td>
-													<td>1.38"</td>
-													<td>250</td>
-													<td>45</td>
-												</tr>
-												<tr>
-													<td></td>
-													<td></td>
-													<td>1.9"</td>
-													<td></td>
-													<td></td>
-												</tr>
-												<tr>
-													<td></td>
-													<td>10'</td>
-													<td>1.38"</td>
-													<td>31</td>
-													<td></td>
-												</tr>
-												<tr>
-													<td></td>
-													<td></td>
-													<td>1.9"</td>
-													<td></td>
-													<td></td>
-												</tr>
-												<tr>
-													<td>Aluminum</td>
-													<td>5'</td>
-													<td>1.38"</td>
-													<td>83</td>
-													<td>30</td>
-												</tr>
-												<tr>
-													<td></td>
-													<td></td>
-													<td>1.9"</td>
-													<td></td>
-													<td></td>
-												</tr>
-												<tr>
-													<td></td>
-													<td>10'</td>
-													<td>1.38"</td>
-													<td>10</td>
-													<td></td>
-												</tr>
-												<tr>
-													<td></td>
-													<td></td>
-													<td>1.9"</td>
-													<td></td>
-													<td></td>
-												</tr>
-											</tbody>
-										</table>
-									</div>
-								</div>
-								<div class="row">
-									<div class="large-12 columns">
-										<h1>Let Us Design Your System!</h1>
-										<hr />
-										<div class="row">
-											<div class="large-12 columns">
-												<div class="row">
-													<div class="large-7 columns">
-														<p style="font-size: 12px;">From simple runs to complex distribution centers, our in-house CAD Specialist can create detailed 2D drawings and stunning 3D renders of your system as part of your quote! With a drawing, visualizing your completed facility couldn't be easier!</p>
-														<a class="button" data-reveal-id="quoteModal" href="#">Get Started</a>
-														<a class="button" style="border: 1px solid #0a47a8; color: #0a47a8 !important; background-color: #ffffff !important;" href="https://www.americansurplus.com/services/layout-design-cad-drawings/">Learn More</a>
-													</div>
-													<div class="large-5 columns">
-														<img alt="" style="text-align: center; border: 1px solid #e3e3e3; padding: 5px; border-radius: 3px; box-shadow: rgba(0, 0, 0, 0.06) 0px 1px 3px, rgba(0, 0, 0, 0.12) 0px 1px 2px;" src="/_resources/common/userfiles/image/usedEquipment/usedConveyor/conimg/cadlayouts2.png" />
-													</div>
-												</div>
-											</div>
-											<div class="row">
-												<div class="large-12 columns">
-													<h1>Sell Us Your Old System!</h1>
-													<hr />
-													<div class="row">
-														<div class="large-12 columns">
-															<div class="row">
-																<div class="large-7 columns">
-																	<p style="font-size: 12px;">Before you throw it away, let us bid on your used equipment! From 24" gravity conveyor to shelving, racking, and everything in between, we'll pay top dollar for your used equipment!</p>
-																	<a class="button" style="border: 1px solid #0a47a8; color: #0a47a8 !important; background-color: #ffffff !important;" href="https://www.americansurplus.com/services/we-buy-used/">Learn More</a>
-																</div>
-																<div class="large-5 columns">
-																	<img alt="" style="text-align: center; border: 1px solid #e3e3e3; padding: 5px; border-radius: 3px; box-shadow: rgba(0, 0, 0, 0.06) 0px 1px 3px, rgba(0, 0, 0, 0.12) 0px 1px 2px;" src="https://www.americansurplus.com/_resources/cache/common/userfiles/image/weBuyUsed/weBuyUsed1_1000x1000-max.jpg" />
-																</div>
-															</div>
-														</div>
-													</div>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="large-12 columns">
-							<div class="row">
-								<div class="large-6 columns">
-									<h1>Featured Manufacturers</h1>
-									<hr />
-									<div class="row">
-										<div class="large-12 columns">
-											<div class="large-4 columns">
-												<img alt="" src="/_resources/common/userfiles/image/usedEquipment/usedConveyor/conimg/buschman.png" />
-											</div>
-											<div class="large-8 columns">
-												<h3>Buschman</h3>
-												<p style="font-size: 12px;">Acquired in 2009 by Intelligrated, the Buschman Company offered industry-leading solutions throughout the 1900s for many stages of product distribution for a diverse set of industries from retail mass distribution centers to pharmacheutical supply chains. Their pre-engineered, Made-in-America gravity conveyor systems have stood the test of time and are prepared to provide you many years of dedicated service!</p>
-												<div class="row">
-													<div class="large-6 columns">
-														<a class="button" style="border: 1px solid #0a47a8; color: #0a47a8 !important; background-color: #ffffff !important;" data-reveal-id="quoteModal" href="#">Request a quote</a>
-													</div>
-												</div>
-											</div>
-										</div>
-										<div class="large-12 columns">
-											<div class="large-4 columns">
-												<img alt="" src="/_resources/common/userfiles/image/usedEquipment/usedConveyor/conimg/hytrol.png" />
-											</div>
-											<div class="large-8 columns">
-												<h3>Hytrol</h3>
-												<p style="font-size: 12px;">With over 60 years of industry experience, Hytrol is one of the most recognizable names in conveyors and conveying accessories. Designed with sustainability, durability, and ease of use in mind, Every Hytrol gravity conveyor system delivers results and reliability where it matters most in your facility.</p>
-												<div class="row">
-													<div class="large-6 columns">
-														<a class="button" style="border: 1px solid #0a47a8; color: #0a47a8 !important; background-color: #ffffff !important;" data-reveal-id="quoteModal" href="#">Request a quote</a>
-													</div>
-												</div>
-											</div>
-										</div>
-										<div class="large-12 columns">
-											<div class="large-4 columns">
-												<img alt="" src="/_resources/common/userfiles/image/usedEquipment/usedConveyor/gravityRollerConveyor/rapistan.png" />
-											</div>
-											<div class="large-8 columns">
-												<h3>Rapistan</h3>
-												<p style="font-size: 12px;">Known throughout the second half of the 20th century as a leader in developing innovative supply chain solutions, Rapistan's name lives on through their reliable gravity conveyor systems, which continue to be used in facilities across America to this day. If one thing's for certain, you can trust a used Rapistain gravity roller conveyor system!</p>
-												<div class="row">
-													<div class="large-6 columns">
-														<a class="button" style="border: 1px solid #0a47a8; color: #0a47a8 !important; background-color: #ffffff !important;" data-reveal-id="quoteModal" href="#">Request a quote</a>
-													</div>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div class="large-6 columns" style="position: sticky; top: 0px;">
-									<h1>Questions? Just Ask!</h1>
-									<hr />
-									<div class="row">
-										<div class="large-12 columns">
-											<div class="row">
-												<div class="large-5 columns">
-													<img alt="" style="text-align: center; border: 1px solid #e3e3e3; padding: 5px; border-radius: 3px; box-shadow: rgba(0, 0, 0, 0.06) 0px 1px 3px, rgba(0, 0, 0, 0.12) 0px 1px 2px;" src="/_resources/common/userfiles/image/usedEquipment/usedConveyor/conimg/FrontYard.png" />
-												</div>
-												<div class="large-7 columns">
-													<p style="font-size: 12px;">We're here to help! Our sales team is ready to answer any questions you may have about our used 24" wide gravity conveyor inventory! If you want more information about any of the used equipment or services we offer, don't hesitate to request a quote online or call our office at <a href="tel:8008763736">(800) 876-3736</a>, we're sure one call is all it takes to see the difference American Surplus can make for you AND your wallet! </p>
-													<a class="button" data-reveal-id="quoteModal" href="#">Request a Quote</a>
-													<img alt="" style="height: 35px;" src="/_resources/common/userfiles/image/usedEquipment/usedConveyor/conimg/phone.png" />
-													<a style="color: #0a47a8 !important; background-color: #ffffff !important;">(800) 876-3736</a>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>			
+<p>This 30" Wide Gravity Roller Conveyor by Buschman is in stock now at American Surplus! Collected from a recent liquidation out of&nbsp;<a href="https://www.americansurplus.com/whitehall-pa-facility-liquidation/">Whitehall, PA</a>, it's only just now become available to us! Its durable, heavy duty design means that this gravity conveyor will stand up to tough loads, while the spacious 30" width means you can place sizable product on this conveyor without worries!</p>
+<p>&nbsp;This type of conveyor will often be configured as a permanent line, so don't let the process of designing your conveyor system get in your way! Ask American Surplus about our FREE on-site assessments and free CAD layouts of your system! We make the process of taking your warehouse from empty floor-space to logistics masterpiece easier and more affordable than you thought possible, call <a href="tel:8008763736">(800) 876-3736</a> or <a data-reveal-id="quoteModal" href="#">Request a Quote Online</a> today to see the difference American Surplus can make for you AND your wallet!</p>
 		</long-description>
 	</content>
 </product>
