@@ -1,51 +1,107 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <product>
 	<data>
-		<title></title>
-		<meta-title></meta-title>
-		<meta-description></meta-description>
-		<product-code></product-code>
+		<title>Crown WP-2300 Series Electric Pallet Jacks</title>
+		<meta-title>Used Crown WP-2300 Series Electric Pallet Jacks</meta-title>
+		<meta-description>Used Crown WP-2300 Series Electric Pallet Jacks are in stock at American Surplus! Featuring up to 4,500 lbs. of lift capacity, 6" of lift height, and industry leading internals.</meta-description>
+		<product-code>EPJ-0007</product-code>
 		<pricing>
 			<list-price></list-price>
 			<asi-price></asi-price>
-			<as-low-as-price></as-low-as-price>
+			<as-low-as-price>3000</as-low-as-price>
 		</pricing>
 		<related>
 			<1></1>
 		</related>
 		<category>
-			<name></name>
-			<priority></priority>
+			<name>Used Forklifts</name>
+			<priority>1000</priority>
 		</category>
 		<site-presence>
-			<backorder></backorder> <!-- 1 = true, 0 = false -->
-			<is-visible></is-visible> <!-- 1 = true, 0 = false -->
+			<backorder>0</backorder> <!-- 1 = true, 0 = false -->
+			<is-visible>1</is-visible> <!-- 1 = true, 0 = false -->
 		</site-presence>
 		<attributes>
 			<attribute>
-				<name></name>
-				<value></value>
+				<name>capacity</name>
+				<value>4,500 lbs.</value>
+			</attribute><attribute>
+				<name>Battery</name>
+				<value>24 V</value>
+			</attribute><attribute>
+				<name>Fork Dimensions</name>
+				<value>27" x 45"</value>
+			</attribute><attribute>
+				<name>Lift Height</name>
+				<value>6"</value>
+			</attribute><attribute>
+				<name>Pallet Jack Style</name>
+				<value>Walk-Behind</value>
+			</attribute><attribute>
+				<name>Brand</name>
+				<value>Crown</value>
+			</attribute><attribute>
+				<name>Model #</name>
+				<value>WP2345-45</value>
+			</attribute><attribute>
+				<name>Weight</name>
+				<value>1100 lbs. / 1,422 lbs.</value>
+			</attribute><attribute>
+				<name>Battery Included</name>
+				<value>Yes</value>
+			</attribute><attribute>
+				<name>Charger Included</name>
+				<value>Yes</value>
+			</attribute><attribute>
+				<name>NMFC Code</name>
+				<value>189240</value>
 			</attribute>
 		</attributes>
 		<images> <!-- Include all pictures on the page, in both gallery and body. -->
 			<image>
-				<name></name>
-				<placement></placement> <!-- gallery or body -->
-				<is-primary></is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
-				<priority></priority> <!-- blank on body pictures -->
-				<alt></alt>
+				<name>crownwp2300_500x500-max.png</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>1</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt>Crown WP-2300 Series Electric Pallet Jacks</alt>
+			</image>
+			<name>crownwp2300badge_500x500-max.png</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>0</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt>Crown WP-2300 Series Electric Pallet Jacks</alt>
+			</image>
+			<name>IMG_3746withblur_500x500-max.png</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>0</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt>Crown WP-2300 Series Electric Pallet Jacks</alt>
 			</image>
 		</images>
 	</data>
 	<content>
 		<extra-short-description>
-		
+		<ul>
+    <li>Walk-Behind Style</li>
+    <li>4,500 lbs. Capacity</li>
+    <li>24V Battery &amp; Charger</li>
+</ul>
 		</extra-short-description>
 		<short-description>
-		
+		<ul>
+    <li>Lift even the toughest loads in seconds with 4,500 lbs. of lifting capacity</li>
+    <li>The ergonomic, multi-function handle offers variable speed adjustment, brake override functionality, and more!</li>
+    <li><a href="https://www.americansurplus.com/used-24-volt-forklift-battery-chargers.html">24V Charger</a> and forklift battery  included with purchase!</li>
+</ul>
 		</short-description>
 		<long-description>
-		
+		<p id="about">Crown WP-2300 Series Electric Pallet Jacks are expertly designed to meet or exceed industry and government safety standards while providing a productive, comfortable lifting experience! Whether you're tasked with dock work, deliveries, stock replenishment, or heavy manufacturing, Crown's WP Series of electric pallet jacks have the strength and durability to stand up to even the most difficult of tasks.</p>
+<p>Crown fork trucks feature a C channel design constructed from heavy-gauge 5/16" steel as well as boxed-in fork tips and replaceable steel wear blocks, maximizing durability to guarantee a longer service life with fewer overall repairs. Each WP-2300 Pallet Jack is fitted with Crown's industry-leading drive unit, featuring a powerful AC motor, cast iron gear box, helical gearing, and shock-absorbing taper bearings. This drive unit delivers responsive acceleration, smooth direction changes, and precise control, allowing operators to quickly transport and position loads with confidence.</p>
+<p>The ergonomic, cast aluminum X10 handle provides the maximum strength and lasting durability every facility needs, especially for those operating in tight spaces. The hand grip and button positioning encourage a neutral wrist position to provide a comfortable, secure grip in any environment.</p>
+<p>At American Surplus, we test every used electric pallet jack that comes through our door to ensure complete functionality, and the Crown WP-2300 is no exception. By ensuring the quality of all equipment we stock, we are able to provide you with high quality equipment with like-new functionality at a fraction of the cost! We're so confident in our products that we offer a <a href="https://www.americansurplus.com/services/product-guarantee/">30 Day Product Guarantee</a> On all lift equipment, including electric pallet jacks! So don't delay, call our experienced sales team today at <a href="tel:8008763736">(800) 876-3736</a> for additional information and a free quote!</p>
+<h4>Crown WP-2300 Series Pallet Jack Documentation:</h4>
+<a href="/_resources/common/userfiles/file/EPJ-0007/wp2300.pdf">Crown WP-2300 Series Electric Pallet Jack Operator's Manual</a>
+<p style="font-size: 10px;">Price and product availability subject to change without notice. Inventory is subject to prior sale.</p>
 		</long-description>
 	</content>
 </product>
