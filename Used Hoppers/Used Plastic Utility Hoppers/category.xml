@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<category>
+	<data>
+		<title>Used Plastic Utility Hoppers</title>
+		<meta-title>Used Plastic Utility Hoppers</meta-title>
+		<meta-description>Browse our selection of used Plastic Utility Hoppers and find the perfect Plastic Utility Hoppers for your business at a price you'll love! Variety of Plastic Utility Hoppers in stock.</meta-description>
+		<category-code>Plastic Utility</category-code>
+		<top-level-category>0</top-level-category>
+		<parent-categories>
+			<parent>Used Hoppers</parent>
+		</parent-categories>
+		<child-categories>
+			<child></child>
+		</child-categories>
+		<images>
+			<image>
+				<name>IC-65.png</name>
+				<placement>gallery</placement> <!-- gallery or body, limit 1 gallery picture per category -->
+				<is-primary>1</is-primary>
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt>Used Plastic Utility Hoppers are available now at American Surplus!</alt>
+			</image>
+		</images>
+	</data>
+	<content>
+		<extra-short-decription>
+			<ul>
+				<li>Easily transport bulk material</li>
+				<li>Durable Plastic</li>
+				<li>Strong Axles and Casters</li>
+			</ul>
+		</extra-short-description>
+		<short-description>
+			<p>Plastic Utility Hoppers are a safe and easy solution for quickly transporting and handling loads of bulk material or waste. Each Plastic Utility Hopper is made from molded polyethylene, a durable plastic that will stand up to sharp, hot, heavy, or corrosive loads, offering years of reliable service and sits on an all welded steel frame..</p>
+			<p>American Surplus is proud to carry  Used Plastic Utility Hoppers, offering unsurpassed industrial-strength construction that's built to last. Expand your fleet and start moving more material faster with used used Plastic Utility Hoppers!</p>
+		</short-description>
+		<long-description>
+			<p>Made from a sturdy thick plastic, plastic utility hoppers won’t dent, corrode, or absorb moisture. Wheels and axles are inset to prevent damage to the hopper and the building.</p>
+			<p>Used plastic utility hoppers made from high density plastic are more than capable of satisfying your application requirements. Plastic utility hoppers easily allows one person to handle miscellaneous type waste and refuse removal. Finding the right utility hopper for you depends primarily on the size and weight of the loads you are looking to carry inside of the manual utility hoppers. Sizes available include 2.7 Cu. Yd. and  1.2 Cu. Yd.We also a smaller option measuring. Depending on the size of the material you're trying to carry, you may need a large utility hopper to handle a larger load.. A good choice and inexpensive.</p>
+		</long-description>
+	</content>
+</category>
