@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product>
+	<data>
+		<title>Junior Wire Baskets</title>
+		<meta-title>New Junior Wire Baskets</meta-title>
+		<meta-description>New Junior Wire Baskets For Sale at ASI, 48 Hr Quick Ship, 20" Deep x 32" Wide x 22" Overall Height, 1/2 Front Drop Gate, Low Price Guarantee and Nationwide shipping on our new wire baskets</meta-description>
+		<product-code>375</product-code>
+		<pricing>
+			<list-price></list-price>
+			<asi-price></asi-price>
+			<as-low-as-price></as-low-as-price>
+		</pricing>
+		<related>
+			<1></1>
+		</related>
+		<category>
+			<name>Wire Baskets</name>
+			<priority>1000</priority>
+		</category>
+		<site-presence>
+			<backorder>0</backorder> <!-- 1 = true, 0 = false -->
+			<is-visible>1</is-visible> <!-- 1 = true, 0 = false -->
+		</site-presence>
+		<attributes>
+			<attribute>
+				<name>Capacity</name>
+				<value>1,500 lbs.</value>
+			</attribute>
+			<attribute>
+				<name>Depth</name>
+				<value>20"</value>
+			</attribute>
+			<attribute>
+				<name>Height</name>
+				<value>18"</value>
+			</attribute>
+			<attribute>
+				<name>Width</name>
+				<value>32"</value>
+			</attribute>
+			<attribute>
+				<name>Brand</name>
+				<value></value>
+			</attribute>
+			<attribute>
+				<name>Eligible for 48 Hour Quick Ship</name>
+				<value>Yes</value>
+			</attribute>
+			<attribute>
+				<name>Usable Height</name>
+				<value>16"</value>
+			</attribute>
+		</attributes>
+		<images> <!-- Include all pictures on the page, in both gallery and body. -->
+			<image>
+				<name>juniorDimensions_500x500-max.png</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>1</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt>Junior Wire Baskets</alt>
+			</image>
+			<image>
+				<name>new-wire-baskets_500x500-max.JPG</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>1</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt>Junior Wire Baskets</alt>
+			</image>
+		</images>
+	</data>
+	<content>
+		<extra-short-description>
+		<ul>
+    <li>Collapsible and stackable</li>
+    <li>Half-front drop gate</li>
+    <li>48-Hour Quick Ship</li>
+</ul>
+		</extra-short-description>
+		<short-description>
+		<ul>
+    <li>Collapsible and stackable design</li>
+    <li>High quality electrogalvanized finish</li>
+    <li>Perfect for bulk storage applications</li>
+</ul>
+		</short-description>
+		<long-description>
+		<div class="row">
+<div class="large-4 columns">
+<h3>Accessorize Your Basket</h3>
+<hr />
+<div class="large-12 columns">
+<div class="large-5 columns">
+<a href="https://www.americansurplus.com/junior-wire-basket-dividers.html"><img alt="Worldtainer Dividers" src="/_resources/common/userfiles/image/newEquipment/New Wire Baskets/worldtainerdividers1-142-x-95.png" /></a>
+</div>
+<div class="large-7 columns">
+<h5><a href="https://www.americansurplus.com/junior-wire-basket-dividers.html">Junior Basket Dividers</a></h5>
+<a style="border: 1px solid #0a47a8; background-color: #ffffff !important; color: #0a47a8 !important;" class="button" href="https://www.americansurplus.com/junior-wire-basket-dividers.html">Shop Now -&gt;</a>
+</div>
+</div>
+<br />
+<div class="large-12 columns">
+<div class="large-5 columns">
+<a href="https://www.americansurplus.com/junior-wire-basket-hanged-lids.html"><img alt="Worldtainer Hanged Lids" src="/_resources/common/userfiles/image/newEquipment/New Wire Baskets/worldtainerhangedlid1-143-x-95.png" /></a>
+</div>
+<div class="large-7 columns">
+<h5><a href="https://www.americansurplus.com/junior-wire-basket-hanged-lids.html">Junior Hanged Lids</a></h5>
+<a style="border: 1px solid #0a47a8; background-color: #ffffff !important; color: #0a47a8 !important;" class="button" href="https://www.americansurplus.com/junior-wire-basket-hanged-lids.html">Shop Now -&gt;</a>
+</div>
+</div>
+</div>
+<div class="large-8 columns">
+<h3>WorldTainer Junior Wire Baskets: Common-Sense, Scalable Bulk Storage
+</h3>
+<hr />
+<p>New Junior Wire Baskets For Sale are in stock and ship within 48 hours. These are the smallest baskets we offer that are 20" Deep x 32" Wide x 22" Overall Height. They feature a standard 1/2 drop gate in the front of the wire basket. They are forkliftable and can collapse and stack as well. Our wire baskets are robotically welded at the feet and underside. We have multiple FOB shipping points available for our wire baskets to give you the best possible freight rate. Call our sales team for more information regarding these wire baskets, we have plenty of accessories available as well. You can also request a quote online to get started.</p>
+<p>American Surplus is proud to carry WorldTainer Wire Containers, the #1-selling wire basket in the world. WorldTainer manufactures each wire container to deliver superior strength, quality, and durability every time. With our factory direct connections and over 25 years of experience, we can pass more savings and quality onto you than anyone else in the industry! Call or request a quote today and see the difference American Surplus and WorldTainer can make for you AND your wallet!</p>
+<p style="color: red;"><strong>Custom designs and finishes are available, talk to our sales team! We can&rsquo;t list our entire inventory online, if you do not see what you are looking for, just ask! Quantity discounts available on new wire baskets. Call 800-876-3736 for additional information &amp; a free quote. Nationwide shipping is available. Price and product availability subject to change without notice. Inventory is subject to prior sale.</strong></p>
+</div>
+</div>
+		</long-description>
+	</content>
+</product>
