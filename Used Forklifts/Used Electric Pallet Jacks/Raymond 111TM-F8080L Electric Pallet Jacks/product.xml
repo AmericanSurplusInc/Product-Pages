@@ -1,51 +1,125 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <product>
 	<data>
-		<title></title>
-		<meta-title></meta-title>
-		<meta-description></meta-description>
-		<product-code></product-code>
+		<title>Raymond 111TM-F80L Electric Pallet Jacks</title>
+		<meta-title>Used Raymond 111TM-F80L Electric Pallet Jacks</meta-title>
+		<meta-description>Used Raymond 111TM-F80L Electric Pallet Jacks</meta-description>
+		<product-code>EPJ-0011</product-code>
 		<pricing>
 			<list-price></list-price>
-			<asi-price></asi-price>
+			<asi-price>3750</asi-price>
 			<as-low-as-price></as-low-as-price>
 		</pricing>
 		<related>
 			<1></1>
 		</related>
 		<category>
-			<name></name>
-			<priority></priority>
+			<name>Used Electric Pallet Jacks</name>
+			<priority>1000</priority>
 		</category>
 		<site-presence>
-			<backorder></backorder> <!-- 1 = true, 0 = false -->
-			<is-visible></is-visible> <!-- 1 = true, 0 = false -->
+			<backorder>0</backorder> <!-- 1 = true, 0 = false -->
+			<is-visible>1</is-visible> <!-- 1 = true, 0 = false -->
 		</site-presence>
 		<attributes>
-			<attribute>
-				<name></name>
-				<value></value>
+			<attributes>
+			<name>capacity</name>
+				<value>6,000 lbs.</value>
+			</attribute><attribute>
+				<name>Battery</name>
+				<value>12 V</value>
+			</attribute><attribute>
+				<name>Fork Dimensions</name>
+				<value>27" x 104"</value>
+			</attribute><attribute>
+				<name>Lift Height</name>
+				<value>6"</value>
+			</attribute><attribute>
+				<name>Pallet Jack Style</name>
+				<value>Walk-Behind</value>
+			</attribute><attribute>
+				<name>Brand</name>
+				<value>Raymond</value>
+			</attribute><attribute>
+				<name>Model #</name>
+				<value>111TM-F80L</value>
+			</attribute><attribute>
+				<name>Weight</name>
+				<value>	2,290 lbs.</value>
+			</attribute><attribute>
+				<name>Battery Included</name>
+				<value>Yes</value>
+			</attribute><attribute>
+				<name>Charger Included</name>
+				<value>Yes</value>
+			</attribute><attribute>
+				<name>NMFC Code</name>
+				<value>189240</value>
 			</attribute>
 		</attributes>
 		<images> <!-- Include all pictures on the page, in both gallery and body. -->
 			<image>
-				<name></name>
-				<placement></placement> <!-- gallery or body -->
-				<is-primary></is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
-				<priority></priority> <!-- blank on body pictures -->
-				<alt></alt>
+				<name>IMG_3757_500x500-max.png</name>
+				<placement>Gallery</placement> <!-- gallery or body -->
+				<is-primary>0</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt>Raymond 111TM-F80L Electric Pallet Jacks</alt>
+			</image>
+			<image>
+				<name>raymond3_500x500-max.png</name>
+				<placement>Gallery</placement> <!-- gallery or body -->
+				<is-primary>0</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt>Raymond 111TM-F80L Electric Pallet Jacks</alt>
+			</image>
+			<image>
+				<name>raymond2_500x500-max.png</name>
+				<placement>Gallery</placement> <!-- gallery or body -->
+				<is-primary>0</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt>Raymond 111TM-F80L Electric Pallet Jacks</alt>
+			</image>
+			<image>
+				<name>raymond_500x500-max.png</name>
+				<placement>Gallery</placement> <!-- gallery or body -->
+				<is-primary>1</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt>Raymond 111TM-F80L Electric Pallet Jacks</alt>
 			</image>
 		</images>
 	</data>
 	<content>
 		<extra-short-description>
-		
+		<ul style="box-sizing: border-box; margin: 0px 0px 1.25em; padding: 0px 0px 0px 15px; direction: ltr; font-size: 16px; line-height: 1.6; list-style-position: outside; font-family: 'Open Sans', sans-serif; color: #454545; background-color: #ffffff;">
+    <li style="box-sizing: border-box; margin: 0px; padding: 0px; direction: ltr; transition: all 0.2s ease 0s;">Walk- Behind Style</li>
+    <li style="box-sizing: border-box; margin: 0px; padding: 0px; direction: ltr; transition: all 0.2s ease 0s;">6,000 lbs. Capacity</li>
+    <li style="box-sizing: border-box; margin: 0px; padding: 0px; direction: ltr; transition: all 0.2s ease 0s;">24V Battery &amp; Charger</li>
+</ul>
 		</extra-short-description>
 		<short-description>
-		
+		<ul style="box-sizing: border-box; margin: 0px 0px 1.25em; padding: 0px 0px 0px 2.5em; direction: ltr; font-size: 16px; line-height: 1.6; list-style-position: outside; font-family: 'Open Sans', sans-serif; color: #313131; background-color: #ffffff;">
+    <li style="box-sizing: border-box; margin: 0px; padding: 0px; direction: ltr; transition: all 0.2s ease 0s;">
+    <p style="box-sizing: border-box; margin: 0px; padding: 0px; direction: ltr; transition: all 0.2s ease 0s;">Lift even the toughest loads in seconds with 6,000 lbs. of lifting capacity</p>
+    </li>
+    <li style="box-sizing: border-box; margin: 0px; padding: 0px; direction: ltr; transition: all 0.2s ease 0s;">The ergonomic, multi-function handle offers variable speed adjustment, and more!</li>
+    <li style="box-sizing: border-box; margin: 0px; padding: 0px; direction: ltr; transition: all 0.2s ease 0s;"><a href="https://www.americansurplus.com/used-24-volt-forklift-battery-chargers.html" style="box-sizing: border-box; background: transparent; color: #0345a9; text-decoration-line: none; line-height: inherit; transition: all 0.2s ease 0s; border: 0px; cursor: pointer; outline: 0px !important;">24V Charger</a>&nbsp;and forklift battery included with purchase!</li>
+</ul>
 		</short-description>
 		<long-description>
-		
+		<h5 style="box-sizing: border-box; margin: 0.2em 0px 0.5em; padding: 0px; direction: ltr; font-family: 'Open Sans', sans-serif; color: #333333; text-rendering: optimizelegibility; line-height: 1.4; font-size: 16px; background-color: #ffffff;"></h5>
+<h5 style="box-sizing: border-box; margin: 0.2em 0px 0.5em; padding: 0px; direction: ltr; font-family: 'Open Sans', sans-serif; color: #333333; text-rendering: optimizelegibility; line-height: 1.4; font-size: 16px; background-color: #ffffff;">The Premier Choice for Any Facility</h5>
+<h5 style="box-sizing: border-box; margin: 0.2em 0px 0.5em; padding: 0px; direction: ltr; font-family: 'Open Sans', sans-serif; color: #333333; text-rendering: optimizelegibility; line-height: 1.4; font-size: 16px; background-color: #ffffff;"><hr style="box-sizing: content-box; height: 0px; border-style: solid; border-color: #dddddd; border-image: initial; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; clear: both; margin: 1.25em 0px 1.1875em; color: #313131;" />
+</h5>
+<p style="font-size: 16px; box-sizing: border-box; margin: 0px 0px 1.25em; padding: 0px; direction: ltr; font-family: 'Open Sans', sans-serif; line-height: 1.6; text-rendering: optimizelegibility; color: #313131; text-align: justify; background-color: #ffffff;">Raymond offers a large variety of durable electric pallet jacks to satisfy your shipping, order picking, and transport needs. These pallet jacks are the walk-behind style powered pallet jack, and these trucks are designed to withstand the harshest applications, year after year with help from their heavy duty undercarriage. These trucks also take advantage of stainless steel pins as opposed to cheaper steel pins.&nbsp; These helps to prevent rust and corrosion which are damaging to the machine. Having the the stainless steel pins allows your bushings and undercarriage to last longer. These trucks also have tapered forks which will allow you easier entry and exit from pallets and around your facility.&nbsp;</p>
+<p style="font-size: 16px; box-sizing: border-box; margin: 0px 0px 1.25em; padding: 0px; direction: ltr; font-family: 'Open Sans', sans-serif; line-height: 1.6; text-rendering: optimizelegibility; color: #313131; text-align: justify; background-color: #ffffff;">The Raymond Electric Pallet Jack has a comfortable handle for hands of all sizes with controls that are easy to reach.&nbsp; These trucks have strong tail fork castings and reinforced battery box to allow to it last long and handle the most heavy loads.&nbsp;&nbsp;</p>
+<p style="font-size: 16px; box-sizing: border-box; margin: 0px 0px 1.25em; padding: 0px; direction: ltr; font-family: 'Open Sans', sans-serif; line-height: 1.6; text-rendering: optimizelegibility; color: #313131; background-color: #ffffff; text-align: justify;">Raymond Electric Pallet Jacks are engineered to handle a variety of applications -- whether you're trying to minimize overall footprint and operating costs in your facility, or maximize throughput, A Raymond Electric Pallet Jack will exceed your expectations.</p>
+<h5 style="box-sizing: border-box; margin: 0.2em 0px 0.5em; padding: 0px; direction: ltr; font-family: 'Open Sans', sans-serif; color: #333333; text-rendering: optimizelegibility; line-height: 1.4; font-size: 16px; text-align: justify; background-color: #ffffff;">The Quality Your Business Deserves at a Price You'll Love</h5>
+<p style="font-size: 16px; box-sizing: border-box; margin: 0px 0px 1.25em; padding: 0px; direction: ltr; font-family: 'Open Sans', sans-serif; line-height: 1.6; text-rendering: optimizelegibility; color: #313131; text-align: justify; background-color: #ffffff;">By choosing a used Raymond, you're making the right decision for your facility. Every Electric Pallet Jack has been tested to ensure its in peak operating condition. Making the choice to buy used guarantees you the no-hassle experience you'd expect direct from the manufacturer, complete with savings of up to 60% off the price of new!</p>
+<p style="font-size: 16px; box-sizing: border-box; margin: 0px 0px 1.25em; padding: 0px; direction: ltr; font-family: 'Open Sans', sans-serif; line-height: 1.6; text-rendering: optimizelegibility; color: #313131; background-color: #ffffff;">Used&nbsp;Raymond 111TM-F80L Electric Pallet Jacks For Sale at American Surplus are in Stock. All electric pallet jacks from ASI are cleaned, painted, and have our 30-day guarantee.They have a 6,000 lb. capacity, a 6" lift height and have a the extended forks to handle larger loads. They run off a 24V battery, sold included and we include the battery chargers with the electric pallet jack. Call our sales team for more specs and info on our Used Raymond 111TM-F80L Electric Pallet Jacks.</p>
+<p style="font-size: 16px; box-sizing: border-box; margin: 0px 0px 1.25em; padding: 0px; direction: ltr; font-family: 'Open Sans', sans-serif; line-height: 1.6; text-rendering: optimizelegibility; background-color: #ffffff; color: red;"><strong style="box-sizing: border-box; line-height: inherit;">We can&rsquo;t list our entire inventory online, if you do not see what you are looking for, just ask! Quantity discounts available on used reach trucks 40-60% off the price of new. Call 800-876-3736 for additional information &amp; a free quote. American Surplus will provide a quote on new equipment if used is unavailable. Nationwide shipping is available. Price and product availability subject to change without notice. Inventory is subject to prior sale.</strong></p>
+<h5 style="box-sizing: border-box; margin: 0.2em 0px 0.5em; padding: 0px; direction: ltr; font-family: 'Open Sans', sans-serif; color: #333333; text-rendering: optimizelegibility; line-height: 1.4; font-size: 16px; background-color: #ffffff;"><strong style="box-sizing: border-box; line-height: inherit;"><br />
+</strong></h5>
+<h5 style="box-sizing: border-box; margin: 0.2em 0px 0.5em; padding: 0px; direction: ltr; font-family: 'Open Sans', sans-serif; color: #333333; text-rendering: optimizelegibility; line-height: 1.4; font-size: 16px; background-color: #ffffff;"></h5>
 		</long-description>
 	</content>
 </product>
