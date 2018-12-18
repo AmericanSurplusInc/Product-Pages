@@ -22,7 +22,7 @@
 			<is-visible>1</is-visible> <!-- 1 = true, 0 = false -->
 		</site-presence>
 		<attributes>
-			attribute>
+			<attribute>
 				<name>Depth</name>
 				<value>32"</value>
 			</attribute>
