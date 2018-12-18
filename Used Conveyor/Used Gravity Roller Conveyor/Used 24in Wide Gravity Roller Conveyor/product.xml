@@ -46,6 +46,15 @@
 				<value>1.5", 3", 4.5", or 6" Roller Centers</value>
 			</attribute>
 		</attributes>
+		<images> <!-- Include all pictures on the page, in both gallery and body. -->
+			<image>
+				<name>Used-Gravity-Conveyor-11.png</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>1</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt>Used 24" Wide Gravity Roller Conveyor</alt>
+			</image>
+		</images>
 	</data>
 	<content>
 		<extra-short-description>
