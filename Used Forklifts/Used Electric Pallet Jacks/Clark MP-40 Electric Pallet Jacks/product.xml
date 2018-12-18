@@ -1,51 +1,109 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <product>
 	<data>
-		<title></title>
-		<meta-title></meta-title>
-		<meta-description></meta-description>
-		<product-code></product-code>
+		<title>Clark MP-40 Electric Pallet Jacks</title>
+		<meta-title>Used Clark MP-40 Electric Pallet Jacks</meta-title>
+		<meta-description>Used Clark MP-40 Electric Pallet Jacks</meta-description>
+		<product-code>EPJ-0009</product-code>
 		<pricing>
 			<list-price></list-price>
-			<asi-price></asi-price>
+			<asi-price>2495</asi-price>
 			<as-low-as-price></as-low-as-price>
 		</pricing>
 		<related>
 			<1></1>
 		</related>
 		<category>
-			<name></name>
-			<priority></priority>
+			<name>Used Electric pallet Jacks</name>
+			<priority>1001</priority>
 		</category>
 		<site-presence>
-			<backorder></backorder> <!-- 1 = true, 0 = false -->
-			<is-visible></is-visible> <!-- 1 = true, 0 = false -->
+			<backorder>0</backorder> <!-- 1 = true, 0 = false -->
+			<is-visible>1</is-visible> <!-- 1 = true, 0 = false -->
 		</site-presence>
 		<attributes>
-			<attribute>
-				<name></name>
-				<value></value>
+			<name>capacity</name>
+				<value>4,000 lbs.</value>
+			</attribute><attribute>
+				<name>Battery</name>
+				<value>12 V</value>
+			</attribute><attribute>
+				<name>Fork Dimensions</name>
+				<value>27" x 48"</value>
+			</attribute><attribute>
+				<name>Lift Height</name>
+				<value>6"</value>
+			</attribute><attribute>
+				<name>Pallet Jack Style</name>
+				<value>Walk-Behind</value>
+			</attribute><attribute>
+				<name>Brand</name>
+				<value>Clark</value>
+			</attribute><attribute>
+				<name>Model #</name>
+				<value>MP-40</value>
+			</attribute><attribute>
+				<name>Weight</name>
+				<value>1,495 lbs.</value>
+			</attribute><attribute>
+				<name>Battery Included</name>
+				<value>Yes</value>
+			</attribute><attribute>
+				<name>Charger Included</name>
+				<value>Yes</value>
+			</attribute><attribute>
+				<name>NMFC Code</name>
+				<value>189240</value>
 			</attribute>
 		</attributes>
 		<images> <!-- Include all pictures on the page, in both gallery and body. -->
 			<image>
-				<name></name>
-				<placement></placement> <!-- gallery or body -->
-				<is-primary></is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
-				<priority></priority> <!-- blank on body pictures -->
-				<alt></alt>
+				<name>clark40-1_500x500-max.png</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>1</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt>Clark MP-40 Electric Pallet Jacks</alt>
+			</image>
+			<image>
+				<name>clark40.png</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>0</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt>Clark MP-40 Electric Pallet Jacks</alt>
 			</image>
 		</images>
 	</data>
 	<content>
 		<extra-short-description>
-		
+		<ul>
+    <li>Walk-Behind Style</li>
+    <li>&nbsp;4,000 lb. Capacity</li>
+    <li>12V Battery &amp; Charger</li>
+</ul>
 		</extra-short-description>
 		<short-description>
-		
+		<ul>
+    <li>Lifts difficult loads easily with 4,000 lbs. of lifting capacity
+    </li>
+    <li><a href="12v battery page">12V Charger</a> &amp; battery included with purchase!
+    </li>
+    <li>Standard-sized forks fit most pallets
+    </li>
+</ul>
 		</short-description>
 		<long-description>
-		
+		<p>
+With this Clark Electric Pallet Jack you can move your loads easily and securely with minimal effort from the operator. This unit has a 12V battery and comes with a charger as well.
+</p>
+<p>
+This Clark Electric Pallet Jack is a very strong and durable unit to add to your facility's fleet.  The unit weighs in at just 1,495 lbs. with the battery. It is the walk-behind style of electric pallet jack. The Clark can lift up to 4,0000 lbs up to 6" off of the floor. It has a standard fork size of 27" x 48" and runs off of a 12V battery system.
+</p>
+<p>
+The handle on this unit is extremely functional and easy to use. With the easy to use controls the operator can go forward, backward and steer with ease.  Additionally without being required to move your hand from the handle the operator can also raise and lower the forks. The design also allows for operation with either hand. The handle when raised vertically also acts a brake increasing safety.
+</p>
+<p>
+At American Surplus, we test every used electric pallet jack that comes through our door to ensure complete functionality, and the Clark WP40 is no exception. By ensuring the quality of all equipment we stock, we are able to provide you with high quality equipment with like-new functionality at a fraction of the cost! We're so confident in our products that we offer a 30 Day Product Guarantee On all lift equipment, including electric pallet jacks! So don't delay, call our experienced sales team today at (800) 876-3736 for additional information and a free quote!
+</p>
 		</long-description>
 	</content>
 </product>
