@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <product>
 	<data>
-		<title></title>
-		<meta-title></meta-title>
-		<meta-description></meta-description>
-		<product-code></product-code>
+		<title>Senior Wire Basket Dividers</title>
+		<meta-title>Used Senior Wire Basket Dividers</meta-title>
+		<meta-description>Used Senior Wire Basket Dividers</meta-description>
+		<product-code>NWB-0003</product-code>
 		<pricing>
 			<list-price></list-price>
 			<asi-price></asi-price>
@@ -14,38 +14,79 @@
 			<1></1>
 		</related>
 		<category>
-			<name></name>
-			<priority></priority>
+			<name>Wire Baskets</name>
+			<priority>1006</priority>
 		</category>
 		<site-presence>
-			<backorder></backorder> <!-- 1 = true, 0 = false -->
-			<is-visible></is-visible> <!-- 1 = true, 0 = false -->
+			<backorder>0</backorder> <!-- 1 = true, 0 = false -->
+			<is-visible>1</is-visible> <!-- 1 = true, 0 = false -->
 		</site-presence>
 		<attributes>
 			<attribute>
-				<name></name>
-				<value></value>
+				<name>Depth</name>
+				<value>40"</value>
+			</attribute>
+			<attribute>
+				<name>Height</name>
+				<value>30"</value>
+			</attribute>
+			<attribute>
+				<name>Brand</name>
+				<value>World Trainer</value>
+			</attribute>
+			<attribute>
+				<name>Eligible For 48 Hour Quick Ship</name>
+				<value>Yes</value>
 			</attribute>
 		</attributes>
 		<images> <!-- Include all pictures on the page, in both gallery and body. -->
 			<image>
-				<name></name>
-				<placement></placement> <!-- gallery or body -->
-				<is-primary></is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
-				<priority></priority> <!-- blank on body pictures -->
-				<alt></alt>
+				<name>worldtainerseniordividers_500x500-max.png</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>1</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt>Senior Wire Basket Dividers</alt>
 			</image>
 		</images>
 	</data>
 	<content>
 		<extra-short-description>
-		
+		<ul>
+    <li>Easy Bulk Sortation</li>
+    <li>40" x 30"</li>
+    <li>48 Hour Quick Ship</li>
+</ul>
 		</extra-short-description>
 		<short-description>
-		
+		<ul>
+    <li>Makes bulk sortation quick and easy</li>
+    <li>Store multiple products in one basket!</li>
+    <li>Fits perfectly with our <a href="https://www.americansurplus.com/new-senior-wire-baskets.html">Senior Wire Baskets</a></li>
+</ul>
 		</short-description>
 		<long-description>
-		
+		<div class="row">
+<div class="large-4 columns">
+<h3>Fits Perfectly With...</h3>
+<hr />
+<div class="large-12 columns">
+<div class="large-5 columns">
+<a href="https://www.americansurplus.com/new-senior-wire-baskets.html"><img alt="Worldtainer Wire Baskets" src="/_resources/common/userfiles/image/newEquipment/New Wire Baskets/senior142-x-95.png" /></a>
+</div>
+<div class="large-7 columns">
+<h5><a href="https://www.americansurplus.com/new-senior-wire-baskets.html">Senior Wire Baskets</a></h5>
+<a style="border: 1px solid #0a47a8; background-color: #ffffff !important; color: #0a47a8 !important;" class="button" href="https://www.americansurplus.com/new-senior-wire-baskets.html">Shop Now -&gt;</a>
+</div>
+</div>
+</div>
+<div class="large-8 columns">
+<h3>WorldTainer Senior Wire Baskets: Common-Sense, Scalable Bulk Storage
+</h3>
+<hr />
+<p>Wire Basket Dividers are a perfect solution if you're looking to store multiple products in the same container, say in a sortation application.  Quick and easy clip-on installation means that you can setup your storage or sorting system in seconds; while nimbly reconfiguring in seconds to take on whatever your next challenge may be.</p>
+<p>American Surplus is proud to carry WorldTainer Wire Containers, the #1 selling wire basket in the world. WorldTainer manufactures each wire container to deliver superior strength, quality, and durability every time. With our factory direct connections and over 25 years of experience, we can pass more savings and quality onto you than anyone else in the industry! Call or request a quote today and see the difference American Surplus and WorldTainer can make for you AND your wallet!</p>
+</div>
+</div>
 		</long-description>
 	</content>
 </product>
