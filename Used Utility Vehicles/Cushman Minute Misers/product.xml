@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product>
+	<data>
+		<title>Cushman Minute Misers</title>
+		<meta-title>Used Cushman Minute Miser Electric Burden Carriers</meta-title>
+		<meta-description>Find general information, specifications, manufacturer documentation, and special pricing on Used Cushman Minute Miser Electric Utility Carts. Cushman Minute Misers are highly maneuverable, vehicles designed to carry your staff and their tools around your facility efficiently. Used Cushman Minute Misers are available at <!--DISCOUNT-->% off the price of new from American Surplus, buy quality used equipment and save!</meta-description>
+		<product-code>UTV-0001</product-code>
+		<pricing>
+			<list-price></list-price>
+			<asi-price></asi-price>
+			<as-low-as-price></as-low-as-price>
+		</pricing>
+		<related>
+			<1></1>
+		</related>
+		<category>
+			<name>Used Utility Vehicles</name>
+			<priority>1000</priority>
+		</category>
+		<site-presence>
+			<backorder>0</backorder> <!-- 1 = true, 0 = false -->
+			<is-visible>1</is-visible> <!-- 1 = true, 0 = false -->
+		</site-presence>
+		<attributes>
+			<attribute>
+				<name>Brand</name>
+				<value>Cushman</value>
+			</attribute>
+			<attribute>
+				<name>Motor</name>
+				<value>24V DC Series Direct Drive</value>
+			</attribute>
+			<attribute>
+				<name>Horsepower</name>
+				<value>1.5hp @ 2800rpm, 4.3hp @ 1200rpm</value>
+			</attribute>
+			<attribute>
+				<name>Battery</name>
+				<value>(4) 6V 225 Ah batteries</value>
+			</attribute>
+			<attribute>
+				<name>Charging System</name>
+				<value>115V/AC, 24V/DC, 25 amp built-in charger</value>
+			</attribute>
+			<attribute>
+				<name>Capacity</name>
+				<value>550 lbs., inc. 200 lbs. for Operator</value>
+			</attribute>
+			<attribute>
+				<name>Top Speed</name>
+				<value>10.5 mph</value>
+			</attribute>
+			<attribute>
+				<name>Steering</name>
+				<value>Handlebar</value>
+			</attribute>
+			<attribute>
+				<name>Height</name>
+				<value>39" to top of handlebar</value>
+			</attribute>
+			<attribute>
+				<name>Length</name>
+				<value>85"</value>
+			</attribute>
+			<attribute>
+				<name>Width</name>
+				<value>30"</value>
+			</attribute>
+			<attribute>
+				<name>Cargo Area</name>
+				<value>22.75" x 28.54" x 4"</value>
+			</attribute>
+			<attribute>
+				<name>Weight</name>
+				<value>690 lbs. w/ batteries</value>
+			</attribute>
+			<attribute>
+				<name>Range</name>
+				<value>Up to 35 Miles</value>
+			</attribute>
+			<attribute>
+				<name>NMFC Code</name>
+				<value></value>
+			</attribute>
+		</attributes>
+		<images> <!-- Include all pictures on the page, in both gallery and body. -->
+			<image>
+				<name></name>
+				<placement></placement> <!-- gallery or body -->
+				<is-primary></is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority></priority> <!-- blank on body pictures -->
+				<alt></alt>
+			</image>
+		</images>
+	</data>
+	<content>
+		<extra-short-description>
+			<ul>
+				<li></li>
+			</ul>
+		</extra-short-description>
+		<short-description>
+			<ul>
+				<li>
+		</short-description>
+		<long-description>
+		
+		</long-description>
+	</content>
+</product>
