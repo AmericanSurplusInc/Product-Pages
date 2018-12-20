@@ -11,7 +11,7 @@
 			<as-low-as-price></as-low-as-price>
 		</pricing>
 		<related>
-			<1></1>
+			<1>Cushman Minute Misers</1>
 		</related>
 		<category>
 			<name>Used Utility Vehicles</name>
@@ -110,8 +110,23 @@
 			</ul>
 		</short-description>
 		<long-description>
-			<p>The Taylor Dunn is designed to help your crew get around your facility efficiently. Featuring a quick and agile DC motor that offers top speeds of up to 10mph, your crew will never be too far from the next project. Despite their small profile, Taylor Dunn include room for up to two riders and a rear cargo deck. This allows your team to store the tools and parts they need to get the job done right the first time. 
-			<p>Used Taylor Dunn Personnel Carriers are now available at American Surplus at prices up to <!--DISCOUNT-->% off the price of new! Our inventory is always changing, so don't hesitate to call our office at <a href="tel:8008763736">(800) 876-3736</a> to speak to our sales team and get the latest updates on our inventory!</p>
+			<div id="documentation" class="large-6 columns">
+<h5>Taylor-Dunn Personnel Carrier Manufacturer Documentation</h5>
+<hr />
+<p><a href="https://www.dropbox.com/s/7lgn67ejr20fu74/ss536docmentation.pdf?dl=0" target="_blank">Taylor-Dunn SS-536 Manual</a></p>
+<p><a href="https://www.americansurplus.com/_resources/common/userfiles/file/UTV-0002/pg15specs.pdf" target="_blank">Taylor-Dunn SS-536 Spec Sheet</a></p>
+<p><a href="/_resources/common/userfiles/file/UTV-0002/ss-536-brochure.pdf" target="_blank">Taylor-Dunn SS-536 Brochure</a></p>
+<p style="font-size: 10px;"><em>*This documentation is accurate for the Taylor-Dunn SS-536</em><br />
+<em>**This brochure is accurate for current Taylor-Dunn Personnel Carriers</em></p>
+<br />
+<a class="button" data-reveal-id="quoteModal" href="#">Request a Quote</a><br />
+<a class="button" style="border: 1px solid #0a47a8; color: #0a47a8 !important; background-color: #ffffff !important;" href="#ctl00_ContentPlaceHolder_PageContent1_ProductDetail_pnlSingleItemDetail">Back to Top</a>
+</div>
+<div class="large-6 columns">
+<p>The Taylor Dunn is designed to help your crew get around your facility efficiently. Featuring a quick and agile DC motor that offers top speeds of up to 10 mph, your crew will never be too far from the next project. Despite their small profile, Taylor Dunn include room for up to two riders and a rear cargo deck. This allows your team to store the tools and parts they need to get the job done right the first time.
+</p>
+<p>Used Taylor Dunn Personnel Carriers are now available at American Surplus at prices up to <!--DISCOUNT-->% off the price of new! Our inventory is always changing, so don't hesitate to call our office at <a href="tel:8008763736">(800) 876-3736</a> to speak to our sales team and get the latest updates on our inventory!</p>
+</div>
 		</long-description>
 	</content>
 </product>
