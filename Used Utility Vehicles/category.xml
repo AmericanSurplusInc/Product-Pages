@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<category>
+	<data>
+		<title>Used Utility Vehicles</title>
+		<meta-title>Used Utility Vehicles | Taylor-Dunn, Cushman, and More | Burden Carriers, Personnel Carriers, Utility Vehicles, Stockchasers,and More | American Surplus: America's #1 Used Material Handling Equipment Dealer</meta-title>
+		<meta-description>American Surplus carries a wide variety of used utility vehicles from leading manufacturers including Taylor-Dunn, Cushman, and More. Find pricing information, manufacturer documentation, and shipping details for used utility vehicles at American Surplus. </meta-description>
+		<category-code>UTV</category-code>
+		<top-level-category>1</top-level-category>
+		<parent-categories>
+			<parent></parent>
+		</parent-categories>
+		<child-categories>
+			<child></child>
+		</child-categories>
+		<images>
+			<image>
+				<name>usedUtilityVehicles.png</name>
+				<placement>gallery</placement> <!-- gallery or body, limit 1 gallery picture per category -->
+				<is-primary>1</is-primary>
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt>Used Utility Vehicles from manufacturers including Cushman, Columbia, and Taylor-Dunn</alt>
+			</image>
+		</images>
+	</data>
+	<content>
+		<extra-short-decription>
+			<ul>
+				<li>Reduce Travel Times</li>
+				<li>Optimize Efficiency</li>
+				<li>Cushman, Taylor-Dunn</li>
+			</ul>
+		</extra-short-description>
+		<short-description>
+			<p>On the production floor, time is money; And long walks hauling equipment around your facility means wasted minutes for your entire team. But with the help of utility vehicles such as stockchasers, burden carriers, and personnel carriers, you can help your crew take those valuable minutes back with a fleet of quick and agile utility vehicles.</p>
+			<p>At American Surplus, we carry genuine used utility vehicles from leading manufacturers such as Cushman and Taylor-Dunn (including industry staples such as the <a href="#">Cushman Minute Miser</a>) at discount prices up to 60% off the cost of new! Don't miss out on our low prices on used Cushman utility vehicles, Taylor-Dunn personnel carriers, and more; Request a quote online or call our sales team at <a href="tel:8008763736">(800) 876-3736</a> to learn how you can save your crew valuable
+		</short-description>
+		<long-description>
+		
+		</long-description>
+	</content>
+</category>
