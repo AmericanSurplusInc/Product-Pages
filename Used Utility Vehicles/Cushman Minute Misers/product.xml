@@ -121,15 +121,17 @@
 				<li>550 lb. Capacity supports your staff and their toolboxes</li>
 				<li>Powder coated welded steel frame & diamond plate body stands up to harsh environments</li>
 			</ul>
+			<a class="button" style="color: #0a47a8 !important; border: 1px solid #0a47a8; background-color: #ffffff !important;" href="#documentation">Browse Documentation</a>
 		</short-description>
 		<long-description>
-			<div class="large-6 columns">
+			<div id="documentation" class="large-6 columns">
 				<h5>Cushman Minute Miser Manufacturer Documentation</h5>
 				<hr />
-				<a href="#" target="_blank">Cushman Minute Miser 898320B Parts and Maintenance Manual*</a>
-				<a href="#" target="_blank">Cushman Minute Miser 898320B Full Specification Sheet*</a>
-				<a href="#" target="_blank">Cushman Minute Miser Brochure</a>
+				<a href="/_resources/common/userfiles/file/UTV-0001/cushmanMinuteMiserDocumentation.pdf" target="_blank">Cushman Minute Miser 898320B Parts and Maintenance Manual*</a>
+				<a href="/_resources/common/userfiles/file/UTV-0001/cushmanMinuteMiserSpecifications.pdf" target="_blank">Cushman Minute Miser 898320B Full Specification Sheet*</a>
+				<a href="/_resources/common/userfiles/file/UTV-0001/minute_miser_10-4-16.pdf" target="_blank">Cushman Minute Miser Brochure</a>
 				<p style="font-size: 10px;"><em>*This documentation is accurate for the following Cushman Minute Miser models: 898320A, 898320B, 898320EE, 898323, 898323EE</p>
+				<a class="button" data-reveal-id="quoteModal" href="#">Request a Quote</a>
 			</div>
 			<div class="large-6 columns">
 				<p>The Cushman Minute Miser is designed to help your crew get around your facility efficiently, reducing travel times and cutting wasted moments out of your team's schedule. Long walks around the warehouse are wasted minutes, and the Cushman Minute Miser is your way to take those precious minutes back. Featuring a quick and agile DC motor that offers top speeds of up to 10mph, your crew will never be too far from the next project. Despite their small profile, Cushmman Minute Misers include room for up to two riders, with the second seat being convertible into into a cargo deck, giving your team's fleet the flexibility they need to set the standard for productivity every day.</p>
