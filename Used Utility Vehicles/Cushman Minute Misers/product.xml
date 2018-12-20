@@ -92,17 +92,24 @@
 				<alt>Cushman Minute Miser Burden Carriers</alt>
 			</image>
 			<image>
+				<name>usedCushmanMinuteMisers.png</name>
+				<placement>gallery</placement>
+				<is-primary>0</is-primary>
+				<priority>2</priority>
+				<alt>Used Cushman Minute Miser</alt>
+			</image>
+			<image>
 				<name>CushmanMinuteMiserInstrumentPanel.png</name>
 				<placement>gallery</placement> <!-- gallery or body -->
 				<is-primary>0</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
-				<priority>2</priority> <!-- blank on body pictures -->
+				<priority>3</priority> <!-- blank on body pictures -->
 				<alt>Cushman Minute Miser Instrument Panel</alt>
 			</image>
 			<image>
 				<name>CushmanMinuteMiserBadge.png</name>
 				<placement>gallery</placement> <!-- gallery or body -->
 				<is-primary>0</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
-				<priority>3</priority> <!-- blank on body pictures -->
+				<priority>4</priority> <!-- blank on body pictures -->
 				<alt>Used Cushman Minute Miser Badge</alt>
 			</image>
 		</images>
@@ -136,7 +143,7 @@
 				<a class="button" style="color: #0a47a8 !important; background-color: #ffffff !important; border: 1px solid #0a47a8;" href="#ctl00_ContentPlaceHolder_PageContent1_ProductDetail_pnlSingleItemDetail">Back to Top</a>
 			</div>
 			<div class="large-6 columns">
-				<h3>The Cushman Minute Miser: Reliable, Agile Personnel Transport for Your Facility</h3>
+				<h3>The Cushman Minute Miser:<br />Reliable, Agile Personnel Transport for Your Facility</h3>
 				<p>The Cushman Minute Miser is designed to help your crew get around your facility efficiently, reducing travel times and cutting wasted moments out of your team's schedule. Long walks around the warehouse are wasted minutes, and the Cushman Minute Miser is your way to take those precious minutes back. Featuring a quick and agile DC motor that offers top speeds of up to 10mph, your crew will never be too far from the next project. Despite their small profile, Cushmman Minute Misers include room for up to two riders, with the second seat being convertible into into a cargo deck, giving your team's fleet the flexibility they need to set the standard for productivity every day.</p>
 				<p>Used Cushman Minute Miser Utility Vehicles are now available at American Surplus at prices up to 56% off the price of new! Our inventory is always changing, so don't hesitate to call our office at <a href="tel:8008763736">(800) 876-3736</a> to speak to our sales team and get the latest updates on our inventory!</p>
 			</div>
