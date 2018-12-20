@@ -130,9 +130,10 @@
 				<a href="/_resources/common/userfiles/file/UTV-0001/cushmanMinuteMiserDocumentation.pdf" target="_blank">Cushman Minute Miser 898320B Parts and Maintenance Manual*</a><br />
 				<a href="/_resources/common/userfiles/file/UTV-0001/cushmanMinuteMiserSpecifications.pdf" target="_blank">Cushman Minute Miser 898320B Full Specification Sheet*</a><br />
 				<a href="/_resources/common/userfiles/file/UTV-0001/minute_miser_10-4-16.pdf" target="_blank">Cushman Minute Miser Brochure**</a><br />
-				<p style="font-size: 10px;"><em>*This documentation is accurate for the following Cushman Minute Miser models: 898320A, 898320B, 898320EE, 898323, 898323EE</em></p><br />
-				<p style="font-size: 10px;"><em>**This brochure is accurate for model year 2016 and newer Cushman Minute Misers</em></a><br />
-				<a class="button" data-reveal-id="quoteModal" href="#">Request a Quote</a>
+				<p style="font-size: 10px;"><em>*This documentation is accurate for the following Cushman Minute Miser models: 898320A, 898320B, 898320EE, 898323, 898323EE</em><br />
+				<em>**This brochure is accurate for model year 2016 and newer Cushman Minute Misers</em></a></p><br />
+				<a class="button" data-reveal-id="quoteModal" href="#">Request a Quote</a><br />
+				<a class="button" style="color: #0a47a8 !important; background-color: #ffffff !important; border: 1px solid #0a47a8;" href="#ctl00_ContentPlaceHolder_PageContent1_ProductDetail_pnlSingleItemDetail">Back to Top</a>
 			</div>
 			<div class="large-6 columns">
 				<h3>The Cushman Minute Miser: Reliable, Agile Personnel Transport for Your Facility</h3>
