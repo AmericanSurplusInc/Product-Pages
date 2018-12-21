@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product>
+	<data>
+		<title>Columbia ParCar Expediter 21 </title>
+		<meta-title>Used Columbia ParCar Expediter 21</meta-title>
+		<meta-description>Find general information, specifications, manufacturer documentation, and special pricing on Used Columbia ParCar Expediters. Columbia ParCar Expediters are highly maneuverable, vehicles designed to carry your staff and their tools around your facility efficiently. UsedColumbia ParCar Expediters are available at 50% off the price of new from American Surplus, buy quality used equipment and save!</meta-description>
+		<product-code>UTV-0003</product-code>
+		<pricing>
+			<list-price>6081</list-price>
+			<asi-price>3295</asi-price>
+			<as-low-as-price></as-low-as-price>
+		</pricing>
+		<related>
+			<1>Cushman Minute Misers</1>
+			<2>Taylor-Dunn Personnel Carriers</2>
+		</related>
+		<category>
+			<name>Used Utility Vehicles</name>
+			<priority>1000</priority>
+		</category>
+		<site-presence>
+			<backorder>0</backorder> <!-- 1 = true, 0 = false -->
+			<is-visible>1</is-visible> <!-- 1 = true, 0 = false -->
+		</site-presence>
+		<attributes>
+			<attribute>
+				<name>Brand</name>
+				<value>Columbia</value>
+			</attribute>
+			<attribute>
+				<name>Motor</name>
+				<value>24 Volt, NEMA class H temperature rated, Separately excited</value>
+			</attribute>
+			<attribute>
+				<name>Horsepower</name>
+				<value>5.2 HP @ 875 rpm</value>
+			</attribute>
+			<attribute>
+				<name>Battery</name>
+				<value>(4) 6V 225 Ah batteries</value>
+			</attribute>
+			<attribute>
+				<name>Charging System</name>
+				<value>Built in, micro-processor controlled,fully sealed, global 110-240 V AC, 50/60 Hz</value>
+			</attribute>
+			<attribute>
+				<name>Capacity</name>
+				<value>750 lbs.</value>
+			</attribute>
+			<attribute>
+				<name>Top Speed</name>
+				<value>8 mph</value>
+			</attribute>
+			<attribute>
+				<name>Steering</name>
+				<value>Handlebar</value>
+			</attribute>
+			<attribute>
+				<name>Height</name>
+				<value>46.5"</value>
+			</attribute>
+			<attribute>
+				<name>Length</name>
+				<value>84"</value>
+			</attribute>
+			<attribute>
+				<name>Width</name>
+				<value>28.5"</value>
+			</attribute>
+			<attribute>
+				<name>Cargo Area</name>
+				<value>21.5" x 26"</value>
+			</attribute>
+			<attribute>
+				<name>Weight</name>
+				<value>855 lbs. w/ batteries</value>
+			</attribute>
+			<attribute>
+				<name>NMFC Code</name>
+				<value>188860</value>
+			</attribute>
+		</attributes>
+		<images> <!-- Include all pictures on the page, in both gallery and body. -->
+			<image>
+				<name>columbia.png</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>0</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt>Columbia ParCar Expediter 21</alt>
+			</image>
+			<image>
+				<name>columbia1.png</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>0</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt>Columbia ParCar Expediter 21</alt>
+			</image>
+			<image>
+				<name>columbia2.png</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>1</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt>Columbia ParCar Expediter 21</alt>
+			</image>
+			<image>
+				<name>columbia2.png</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>0</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt>Columbia ParCar Expediter 21</alt>
+			</image>
+		</images>
+	</data>
+	<content>
+		<extra-short-description>
+			<ul>
+				<li>24V Electric Drivetrain</li>
+				<li>9 MPH Top Speed</li>
+				<li>750 lbs. Capacity</li>
+			</ul>
+		</extra-short-description>
+		<short-description>
+			<ul>
+				<li>24 Volt, NEMA Motor moves your team around the warehouse in moments instead of minutes</li>
+				<li>750 lb. Capacity supports your staff and their toolboxes</li>
+				<li>Welded steel frame & 14 gauge diamond plate body stands up to harsh environments</li>
+			</ul>
+			<a class="button" style="border: 1px solid #0a47a8; color: #0a47a8 !important; background-color: #ffffff !important;" href="#documentation">Browse Documentation</a>
+		</short-description>
+		<long-description>
+			<div id="documentation" class="large-6 columns">
+<h5>Columbia ParCar Expediter 21 Manufacturer Documentation</h5>
+<hr />
+<p><a href="/_resources/common/userfiles/file/UTV-0003/Columbia-Manual.pdf" target="_blank">Columbia ParCar Expediter 21 Manual</a></p>
+<p><a href="/_resources/common/userfiles/file/UTV-0003/Columbia-Specs-pdf.pdf" target="_blank">Columbia ParCar Expediter 21 Spec Sheet</a></p>
+<p><a href="/_resources/common/userfiles/file/UTV-0003/sale_brochure-expediter.pdf" target="_blank">Columbia ParCar Expediter 21 Brochure</a></p>
+<p style="font-size: 10px;"><em>*This documentation is accurate for the<em style="font-size: 10px;">&nbsp;Columbia ParCar Expediter 21</em></em><br />
+<em>**This brochure is accurate for current year Columbia ParCar Expediter 21&nbsp;</em></p>
+<br />
+<a class="button" data-reveal-id="quoteModal" href="#">Request a Quote</a><br />
+<a class="button" style="border: 1px solid #0a47a8; color: #0a47a8 !important; background-color: #ffffff !important;" href="#ctl00_ContentPlaceHolder_PageContent1_ProductDetail_pnlSingleItemDetail">Back to Top</a>
+</div>
+<div class="large-6 columns">
+<p>The Columbia ParCar Expediter 21 is designed to help your crew get around your facility efficiently. Featuring a quick and agile DC motor that offers top speeds of up to 8 mph, your crew will never be too far from the next project. Despite their small profile, Taylor Dunn include room for up to two riders and a rear cargo deck. This allows your team to store the tools and parts they need to get the job done right the first time.
+</p>
+<p>Used Columbia Expediter  are now available at American Surplus at prices up to 50 off the price of new! Our inventory is always changing, so don't hesitate to call our office at <a href="tel:8008763736">(800) 876-3736</a> to speak to our sales team and get the latest updates on our inventory!</p>
+</div>
+		</long-description>
+	</content>
+</product>
