@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product>
+	<data>
+		<title>Taylor Dunn Personnel Carriers </title>
+		<meta-title>Used Taylor Dunn Personnel Carriers</meta-title>
+		<meta-description>Find general information, specifications, manufacturer documentation, and special pricing on Used Taylor Dunn Personnel Carriers. Taylor Dunn Personnel Carriers are highly maneuverable, vehicles designed to carry your staff and their tools around your facility efficiently. Used Taylor Dunn Personnel Carriers are available at 50% off the price of new from American Surplus, buy quality used equipment and save!</meta-description>
+		<product-code>UTV-0002</product-code>
+		<pricing>
+			<list-price>6500</list-price>
+			<asi-price>3595</asi-price>
+			<as-low-as-price></as-low-as-price>
+		</pricing>
+		<related>
+			<1>Cushman Minute Misers</1>
+		</related>
+		<category>
+			<name>Used Utility Vehicles</name>
+			<priority>1000</priority>
+		</category>
+		<site-presence>
+			<backorder>0</backorder> <!-- 1 = true, 0 = false -->
+			<is-visible>1</is-visible> <!-- 1 = true, 0 = false -->
+		</site-presence>
+		<attributes>
+			<attribute>
+				<name>Brand</name>
+				<value>Taylor Dunn</value>
+			</attribute>
+			<attribute>
+				<name>Motor</name>
+				<value>24V DC Series Wound Motor</value>
+			</attribute>
+			<attribute>
+				<name>Horsepower</name>
+				<value>4.5hp @ 935, 4.5hp</value>
+			</attribute>
+			<attribute>
+				<name>Battery</name>
+				<value>(4) 6V 217 Ah batteries</value>
+			</attribute>
+			<attribute>
+				<name>Charging System</name>
+				<value>Built-in, 24V, 600 Watt, 25 Amp, 110 VAC, w/ Interlock </value>
+			</attribute>
+			<attribute>
+				<name>Capacity</name>
+				<value>600 lbs.</value>
+			</attribute>
+			<attribute>
+				<name>Top Speed</name>
+				<value>9 mph</value>
+			</attribute>
+			<attribute>
+				<name>Steering</name>
+				<value>Handlebar</value>
+			</attribute>
+			<attribute>
+				<name>Height</name>
+				<value>41.5" to top of handlebar</value>
+			</attribute>
+			<attribute>
+				<name>Length</name>
+				<value>86.5"</value>
+			</attribute>
+			<attribute>
+				<name>Width</name>
+				<value>30"</value>
+			</attribute>
+			<attribute>
+				<name>Cargo Area</name>
+				<value>30" x 19"</value>
+			</attribute>
+			<attribute>
+				<name>Weight</name>
+				<value>701 lbs. w/ batteries</value>
+			</attribute>
+			<attribute>
+				<name>Range</name>
+				<value>Up to 20 Miles</value>
+			</attribute>
+			<attribute>
+				<name>NMFC Code</name>
+				<value></value>
+			</attribute>
+		</attributes>
+		<images> <!-- Include all pictures on the page, in both gallery and body. -->
+			<image>
+				<name>taylordunn.png</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>1</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt>Taylor Dunn Personnel Carriers</alt>
+			</image>
+			
+		</images>
+	</data>
+	<content>
+		<extra-short-description>
+			<ul>
+				<li>24V Electric Drivetrain</li>
+				<li>9 MPH Top Speed</li>
+				<li>600 lbs. Capacity</li>
+			</ul>
+		</extra-short-description>
+		<short-description>
+			<ul>
+				<li>24V Series Wound Motor moves your team around the warehouse in moments instead of minutes</li>
+				<li>600 lb. Capacity supports your staff and their toolboxes</li>
+				<li>Welded steel frame & 16 gauge diamond plate body stands up to harsh environments</li>
+			</ul>
+		</short-description>
+		<long-description>
+			<div id="documentation" class="large-6 columns">
+<h5>Taylor-Dunn Personnel Carrier Manufacturer Documentation</h5>
+<hr />
+<p><a href="https://www.dropbox.com/s/7lgn67ejr20fu74/ss536docmentation.pdf?dl=0" target="_blank">Taylor-Dunn SS-536 Manual</a></p>
+<p><a href="https://www.americansurplus.com/_resources/common/userfiles/file/UTV-0002/pg15specs.pdf" target="_blank">Taylor-Dunn SS-536 Spec Sheet</a></p>
+<p><a href="/_resources/common/userfiles/file/UTV-0002/ss-536-brochure.pdf" target="_blank">Taylor-Dunn SS-536 Brochure</a></p>
+<p style="font-size: 10px;"><em>*This documentation is accurate for the Taylor-Dunn SS-536</em><br />
+<em>**This brochure is accurate for current Taylor-Dunn Personnel Carriers</em></p>
+<br />
+<a class="button" data-reveal-id="quoteModal" href="#">Request a Quote</a><br />
+<a class="button" style="border: 1px solid #0a47a8; color: #0a47a8 !important; background-color: #ffffff !important;" href="#ctl00_ContentPlaceHolder_PageContent1_ProductDetail_pnlSingleItemDetail">Back to Top</a>
+</div>
+<div class="large-6 columns">
+<p>The Taylor Dunn is designed to help your crew get around your facility efficiently. Featuring a quick and agile DC motor that offers top speeds of up to 10 mph, your crew will never be too far from the next project. Despite their small profile, Taylor Dunn include room for up to two riders and a rear cargo deck. This allows your team to store the tools and parts they need to get the job done right the first time.
+</p>
+<p>Used Taylor Dunn Personnel Carriers are now available at American Surplus at prices up to <!--DISCOUNT-->% off the price of new! Our inventory is always changing, so don't hesitate to call our office at <a href="tel:8008763736">(800) 876-3736</a> to speak to our sales team and get the latest updates on our inventory!</p>
+</div>
+		</long-description>
+	</content>
+</product>
