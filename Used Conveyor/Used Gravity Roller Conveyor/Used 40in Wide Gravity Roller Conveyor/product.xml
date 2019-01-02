@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <product>
 	<data>
-		<title>Used 24" Wide Gravity Roller Conveyor</title>
-		<meta-title>Used 24" Wide Gravity Roller Conveyor</meta-title>
-		<meta-description>Used 24" Wide Gravity Roller Conveyor For Sale at American Surplus, Great Condition, 1.9" rollers on 3" centers, Ships nationwide, Easy to Install, Call 800-876-3736 to get a same day quote</meta-description>
-		<product-code>GRC-0010</product-code>
+		<title>Used 40" Wide Gravity Roller Conveyor</title>
+		<meta-title>Used 40" Wide Gravity Roller Conveyor</meta-title>
+		<meta-description>Used 40" Wide Gravity Roller Conveyor For Sale at American Surplus, Great Condition, 1.9" rollers on 3" centers, Ships nationwide, Easy to Install, Call 800-876-3736 to get a same day quote</meta-description>
+		<product-code>GRC-0026</product-code>
 		<pricing>
 			<list-price></list-price>
 			<asi-price>Call or Request Quote</asi-price>
 			<as-low-as-price></as-low-as-price>
 		</pricing>
 		<related>
-			<1>Used 28" Wide Gravity Roller Conveyor</1>
-			<2>Used 18" Wide Gravity Roller Conveyor</2>
+			<1>Used 48" Wide Gravity Roller Conveyor</1>
+			<2>Used 36" Wide Gravity Roller Conveyor</2>
 			<3>Used PESA CWL P2 510 ED60 Conveyor Scale</3>
 			<4>Used Cable Emergency Stop (Safety Pull Cord)</4>
 			<5>Used Conveyor Barcode Scanners</5>
@@ -35,7 +35,7 @@
 			</attribute>
 			<attribute>
 				<name>Conveyor Bed Widths</name>
-				<value>24" Wide Conveyor Beds</value>
+				<value>40" Wide Conveyor Beds</value>
 			</attribute>
 			<attribute>
 				<name>Conveyor Roller Sizes</name>
@@ -46,11 +46,18 @@
 				<value>1.5", 3", 4.5", or 6" Roller Centers</value>
 			</attribute>
 		</attributes>
+		<image>
+				<name>Used-Gravity-Conveyor-11.png</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>1</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt>Used 40" Wide Gravity Roller Conveyor</alt>
+			</image>
 	</data>
 	<content>
 		<extra-short-description>
 			<ul>
-				<li>24" wide x 120" long conveyor</li>
+				<li>40" wide x 120" long conveyor</li>
 				<li>1.9" rollers on 3" centers</li>
 				<li>H-Stands Available</li>
 				<li>1.5 - 6" roller centers available</li>
@@ -58,7 +65,7 @@
 		</extra-short-description>
 		<short-description>
 			<ul>
-				<li>24" wide x 120" long gravity conveyor beds</li>
+				<li>40" wide x 120" long gravity conveyor beds</li>
 				<li>1.9" conveyor rollers on 3" centers</li>
 				<li>H-Stands Available</li>
 				<li>Great Condition</li>
@@ -98,7 +105,7 @@
 								<div class="large-12 columns">
 									<div class="row">
 										<div class="large-8 columns">
-											<p style="font-size: 12px;">Whatever your application, we have all the used 24" conveyor accessories that you'll need to setup an efficient, safe, and secure system while saving you money!</p>
+											<p style="font-size: 12px;">Whatever your application, we have all the used 40" conveyor accessories that you'll need to setup an efficient, safe, and secure system while saving you money!</p>
 										</div>
 										<div class="large-4 columns">
 											<a href="https://www.americansurplus.com/used-equipment/used-conveyor-accessories/" class="button" style="border: 1px solid #0a47a8; width: 100%; color: #0a47a8 !important; background-color: #ffffff !important;"> Browse All Accessories</a>
@@ -180,7 +187,7 @@
 								<div class="large-12 columns">
 									<div class="row">
 										<div class="large-7 columns">
-											<p style="font-size: 12px;">Every application is different, that's why at American Surplus we carry all the used 24" conveyor components necessary to cater to each customer's unique challenges!</p>
+											<p style="font-size: 12px;">Every application is different, that's why at American Surplus we carry all the used 40" conveyor components necessary to cater to each customer's unique challenges!</p>
 										</div>
 										<div class="large-5 columns">
 											<img alt="" style="text-align: center; border: 1px solid #e3e3e3; padding: 5px; border-radius: 3px; box-shadow: rgba(0, 0, 0, 0.06) 0px 1px 3px, rgba(0, 0, 0, 0.12) 0px 1px 2px;" src="/_resources/common/userfiles/image/usedEquipment/usedConveyor/conimg/rollers.png" />
@@ -283,7 +290,7 @@
 														<div class="large-12 columns">
 															<div class="row">
 																<div class="large-7 columns">
-																	<p style="font-size: 12px;">Before you throw it away, let us bid on your used equipment! From 24" gravity conveyor to shelving, racking, and everything in between, we'll pay top dollar for your used equipment!</p>
+																	<p style="font-size: 12px;">Before you throw it away, let us bid on your used equipment! From 40" gravity conveyor to shelving, racking, and everything in between, we'll pay top dollar for your used equipment!</p>
 																	<a class="button" style="border: 1px solid #0a47a8; color: #0a47a8 !important; background-color: #ffffff !important;" href="https://www.americansurplus.com/services/we-buy-used/">Learn More</a>
 																</div>
 																<div class="large-5 columns">
@@ -359,7 +366,7 @@
 													<img alt="" style="text-align: center; border: 1px solid #e3e3e3; padding: 5px; border-radius: 3px; box-shadow: rgba(0, 0, 0, 0.06) 0px 1px 3px, rgba(0, 0, 0, 0.12) 0px 1px 2px;" src="/_resources/common/userfiles/image/usedEquipment/usedConveyor/conimg/FrontYard.png" />
 												</div>
 												<div class="large-7 columns">
-													<p style="font-size: 12px;">We're here to help! Our sales team is ready to answer any questions you may have about our used 24" wide gravity conveyor inventory! If you want more information about any of the used equipment or services we offer, don't hesitate to request a quote online or call our office at <a href="tel:8008763736">(800) 876-3736</a>, we're sure one call is all it takes to see the difference American Surplus can make for you AND your wallet! </p>
+													<p style="font-size: 12px;">We're here to help! Our sales team is ready to answer any questions you may have about our used 40" wide gravity conveyor inventory! If you want more information about any of the used equipment or services we offer, don't hesitate to request a quote online or call our office at <a href="tel:8008763736">(800) 876-3736</a>, we're sure one call is all it takes to see the difference American Surplus can make for you AND your wallet! </p>
 													<a class="button" data-reveal-id="quoteModal" href="#">Request a Quote</a>
 													<img alt="" style="height: 35px;" src="/_resources/common/userfiles/image/usedEquipment/usedConveyor/conimg/phone.png" />
 													<a style="color: #0a47a8 !important; background-color: #ffffff !important;">(800) 876-3736</a>
