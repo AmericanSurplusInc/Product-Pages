@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product>
+	<data>
+		<title>Hallowell Full Door Gravity Latch Ventilated Lockers</title>
+		<meta-title>Used Hallowell Full Door Gravity Latch Ventilated Lockers</meta-title>
+		<meta-description></meta-description>
+		<product-code>UFDL-0001</product-code>
+		<pricing>
+			<list-price></list-price>
+			<asi-price></asi-price>
+			<as-low-as-price>$79.95 / Door</as-low-as-price>
+		</pricing>
+		<related>
+			<1></1>
+		</related>
+		<category>
+			<name>Used Full Door Lockers</name>
+			<priority>1000</priority>
+		</category>
+		<site-presence>
+			<backorder>0</backorder> <!-- 1 = true, 0 = false -->
+			<is-visible>1</is-visible> <!-- 1 = true, 0 = false -->
+		</site-presence>
+		<attributes>
+			<attribute>
+				<name>Brand</name>
+				<value>Hallowell</value>
+			</attribute>
+			<attribute>
+				<name>Locker Dimensions</name>
+				<value>12"W x 11"D x 70"H</value>
+			</attribute>
+			<attribute>
+				<name>Height to Shelf</name>
+				<value>60"</value>
+			</attribute>
+			<attribute>
+				<name>Bank Dimensions</name>
+				<value>36"W x 12"D x 78"H</value>
+			</attribute>
+			<attribute>
+				<name>Ventilated</name>
+				<value>Yes</value>
+			</attribute>
+			<attribute>
+				<name>Latch Style</name>
+				<value>Gravity Latch</value>
+			</attribute>
+		</attributes>
+		<images> <!-- Include all pictures on the page, in both gallery and body. -->
+			<image>
+				<name>lockertransparent.png</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>1</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt>Hallowell Full Door Gravity Latch Ventilated Lockers</alt>
+			</image>
+			<image>
+				<name>lockerblur.png</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>0</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt>Hallowell Full Door Gravity Latch Ventilated Lockers</alt>
+			</image>
+			<image>
+				<name>openlocker.png</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>0</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>2</priority> <!-- blank on body pictures -->
+				<alt>Hallowell Full Door Gravity Latch Ventilated Lockers</alt>
+			</image>
+			<image>
+				<name>coathook.png</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>0</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>3</priority> <!-- blank on body pictures -->
+				<alt>Hallowell Full Door Gravity Latch Ventilated Lockers</alt>
+			</image>
+			<image>
+				<name>badge.png</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>0</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>4</priority> <!-- blank on body pictures -->
+				<alt>Hallowell Full Door Gravity Latch Ventilated Lockers</alt>
+			</image>
+
+
+		</images>
+	</data>
+	<content>
+		<extra-short-description>
+			<ul style="box-sizing: border-box; margin: 0px 0px 1.25em; padding: 0px 0px 0px 15px; direction: ltr; font-size: 16px; line-height: 1.6; list-style-position: outside; font-family: 'Open Sans', sans-serif; color: #454545; background-color: #ffffff;">
+				<li style="box-sizing: border-box; margin: 0px; padding: 0px; direction: ltr; transition: all 0.2s ease 0s;">12" Wide x 11" Deep x 70" High</li>
+				<li style="box-sizing: border-box; margin: 0px; padding: 0px; direction: ltr; transition: all 0.2s ease 0s;">Has coat hook</li>
+				<li style="box-sizing: border-box; margin: 0px; padding: 0px; direction: ltr; transition: all 0.2s ease 0s;">Pad-lockable Doors</li>
+			</ul>
+		</extra-short-description>
+		<short-description>
+			<ul style="box-sizing: border-box; margin: 0px 0px 1.25em; padding: 0px 0px 0px 2.5em; direction: ltr; font-size: 16px; line-height: 1.6; list-style-position: outside; font-family: 'Open Sans', sans-serif; color: #313131; background-color: #ffffff;">
+				<li style="box-sizing: border-box; margin: 0px; padding: 0px; direction: ltr; transition: all 0.2s ease 0s;">Used Full Door Lockers</li>
+				<li style="box-sizing: border-box; margin: 0px; padding: 0px; direction: ltr; transition: all 0.2s ease 0s;">12" Wide x 11" Deep x 70" High</li>
+				<li style="box-sizing: border-box; margin: 0px; padding: 0px; direction: ltr; transition: all 0.2s ease 0s;">Has coat hook or hanger bar</li>
+				<li style="box-sizing: border-box; margin: 0px; padding: 0px; direction: ltr; transition: all 0.2s ease 0s;">Padlockable Doors</li>
+				<li style="box-sizing: border-box; margin: 0px; padding: 0px; direction: ltr; transition: all 0.2s ease 0s;">Ships Nationwide</li>
+			</ul>
+		</short-description>
+		<long-description>
+			<p style="box-sizing: border-box; margin: 0px 0px 1.25em; padding: 0px; direction: ltr; font-family: 'Open Sans', sans-serif; font-size: 16px; line-height: 1.6; text-rendering: optimizelegibility; color: #313131; background-color: #ffffff;">Used Full Door Lockers For Sale at American Surplus. These style lockers are the most common and are also the largest of the lockers we have to offer. The ones pictured here are 12" wide, 11" deep and 71" high. They help maximize space and are perfect for storing personal items and clothing. They feature a coat hook inside and are padlockable, locks sold separately. Call our sales team and learn more about our Used Full Door Lockers.</p>
+			<p style="box-sizing: border-box; margin: 0px 0px 1.25em; padding: 0px; direction: ltr; font-family: 'Open Sans', sans-serif; font-size: 16px; line-height: 1.6; text-rendering: optimizelegibility; background-color: #ffffff; color: red;"><strong style="box-sizing: border-box; line-height: inherit;">We can&rsquo;t list our entire inventory online, if you do not see what you are looking for, just ask! Quantity discounts available on used full door lockers 40-60% off the price of new. Call 800-876-3736 for additional information &amp; a free quote. American Surplus will provide a quote on new equipment if used is unavailable. Nationwide shipping is available. Price and product availability subject to change without notice. Inventory is subject to prior sale.</strong></p>
+		</long-description>
+	</content>
+</product>

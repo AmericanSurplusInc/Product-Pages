@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product>
+	<data>
+		<title>Penco Vanguard Metal Storage Lockers</title>
+		<meta-title>Used Penco Vanguard Metal Storage Lockers</meta-title>
+		<meta-description>Used Penco Vanguard Full Door Metal Storage Lockers are in stock at American Surplus! These padlockable storage lockers by Penco are perfect for a school or office application due to their durable 24GA steel construction. With quantity discounts and nationwide shipping available, customers can save up to 60% off the cost of new on Penco Vanguard Metal Storage Lockers purchased through American Surplus!</meta-description>
+		<product-code>FDL-0002</product-code>
+		<pricing>
+			<list-price></list-price>
+			<asi-price></asi-price>
+			<as-low-as-price>$79.95 / Door</as-low-as-price>
+		</pricing>
+		<related>
+			<1>Hallowell Full Door Gravity Latch Ventilated Lockers</1>
+		</related>
+		<category>
+			<name>Used Full Door Lockers</name>
+			<priority>1000</priority>
+		</category>
+		<site-presence>
+			<backorder>0</backorder> <!-- 1 = true, 0 = false -->
+			<is-visible>1</is-visible> <!-- 1 = true, 0 = false -->
+		</site-presence>
+		<attributes>
+			<attribute>
+				<name>Brand</name>
+				<value>Penco</value>
+			</attribute>
+			<attribute>
+				<name>Locker Dimensions</name>
+				<value>12" x 12" x 58"</value>
+			</attribute>
+			<attribute>
+				<name>Height to Shelf</name>
+				<value>49"</value>
+			</attribute>
+			<attribute>
+				<name>Ventilated</name>
+				<value>Yes</value>
+			</attribute>
+			<attribute>
+				<name>Latch Style</name>
+				<value>Tamper-proof latch clip w/ 9/32" padlock hole</value>
+			</attribute>
+			<attribute>
+				<name>Color</name>
+				<value>710 Sagebrush Yellow</value>
+			</attribute>
+		</attributes>
+		<images> <!-- Include all pictures on the page, in both gallery and body. -->
+			<image>
+				<name>pencoFullDoorLockers.png</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>1</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt>Used Penco Vanguard Full Door Lockers</alt>
+			</image>
+			<image>
+				<name>pencoVanguardLockersOpen.png</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>0</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>2</priority> <!-- blank on body pictures -->
+				<alt>Used Penco Vanguard Metal Storage Lockers</alt>
+			</image>
+			<image>
+				<name>pencoVanguardFullDoorLockers.png</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>0</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>3</priority> <!-- blank on body pictures -->
+				<alt>Penco Vanguard Full Door Storage Lockers</alt>
+			</image>
+			<image>
+				<name>PencoVanguardFullDoorLockerBadge.png</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>0</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>4</priority> <!-- blank on body pictures -->
+				<alt>Penco Vanguard Locker Badge</alt>
+			</image>
+		</images>
+	</data>
+	<content>
+		<extra-short-description>
+			<ul>
+				<li>Pad-lockable latch</li>
+				<li>12"W x 12"D x 58"H</li>
+				<li>24 GA Steel</li>
+			</ul>
+		</extra-short-description>
+		<short-description>
+			<ul>
+				<li>Knocked-Down steel design withstands daily use and abuse</li>
+				<li>Coat hanger and shelf included with locker</li>
+				<li>Pad-lockable latch offers optional quick and easy security</li>
+			</ul>
+		</short-description>
+		<long-description>
+			<p>Penco's Vanguard series full door lockers are the gold standard of what it takes to withstand the daily use and abuse typically dealt to a locker. Vanguard's Knocked Down design made with strong 24-gauge steel offers superior security and durability where it matters most. Featuring a coat hook and shelf, they're the perfect choice for storing personal items at school or the office.</p>
+			<p>We can't list our entire inventory online; if you don't see what you're looking for, just ask! Quantity discounts available on used Penco full door lockers at up to 40-60% off the cost of new. Call <a href="tel:8008763736">(800) 876-3736</a> for additional information & a free quote. American Surplus will provide a quote on new equipment if used is unavailable. Nationwide shipping is available. Price and product availability are subject to change without notice. Inventory is subject to prior sale.</p>
+		</long-description>
+	</content>
+</product>
