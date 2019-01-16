@@ -26,8 +26,16 @@
 		</site-presence>
 		<attributes>
 			<attribute>
-				<name>Lift Table Capacity</name>
-				<value>4,000 lbs.</value>
+				<name>Brand</name>
+				<value>Carl Stahl American Lifting</value>
+			</attribute>
+			<attribute>
+				<name>Travel Range</name>
+				<value>10-35"</value>
+			</attribute>
+			<attribute>
+				<name>Capacity</name>
+				<value>4,500 lbs.</value>
 			</attribute>
 			<attribute>
 				<name>Lift Table Platform Size</name>
@@ -35,7 +43,11 @@
 			</attribute>
 			<attribute>
 				<name>Operation</name>
-				<value>Electric</value>
+				<value>Air-Actuated</value>
+			</attribute>
+			<attribute>
+				<name>Controls</name>
+				<value>Foot-Pedal Control</value>
 			</attribute>
 		</attributes>
 		<images> <!-- Include all pictures on the page, in both gallery and body. -->
