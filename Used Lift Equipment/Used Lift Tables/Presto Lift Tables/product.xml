@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <product>
 	<data>
-		<title>Used Presto Lift Table</title>
-		<meta-title>Used Presto Lift Table</meta-title>
-		<meta-description>Used Presto Lift Table For Sale at American Surplus, in stock, 1,100 lb. capacity, 36" x 48" platform, 42" lift height, nationwide shipping, visit our site for more information on Used Presto Lift Tables.</meta-description>
+		<title>Presto Lift Tables</title>
+		<meta-title>Used Presto Lift Tables</meta-title>
+		<meta-description>Used Presto Lift Tables are For Sale at American Surplus, in stock, 1,100 lb. capacity, 36" x 48" platform, 42" lift height, nationwide shipping, visit our site for more information on Used Presto Lift Tables.</meta-description>
 		<product-code>7203</product-code>
 		<pricing>
 			<list-price>2599.00</list-price>
@@ -34,6 +34,15 @@
 				<name>Operation</name>
 				<value>Electric</value>
 			</attribute>
+			<attribute>
+				<name>Lift Height</name>
+				<value>42"</value>
+			</attribute>
+			<attribute>
+				<name>Brand</name>
+				<value>Presto</value>
+			</attribute>
+			
 		</attributes>
 		<images> <!-- Include all pictures on the page, in both gallery and body. -->
 			<image>

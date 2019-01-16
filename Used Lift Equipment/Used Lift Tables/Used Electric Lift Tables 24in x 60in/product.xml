@@ -27,7 +27,7 @@
 		<attributes>
 			<attribute>
 				<name>Lift Table Capacity</name>
-				<value>1,500 lbs.</value>
+				<value>4,000 lbs.</value>
 			</attribute>
 			<attribute>
 				<name>Lift Table Platform Size</name>
@@ -35,7 +35,7 @@
 			</attribute>
 			<attribute>
 				<name>Operation</name>
-				<value>Spring-Loaded</value>
+				<value>Electric</value>
 			</attribute>
 		</attributes>
 		<images> <!-- Include all pictures on the page, in both gallery and body. -->
