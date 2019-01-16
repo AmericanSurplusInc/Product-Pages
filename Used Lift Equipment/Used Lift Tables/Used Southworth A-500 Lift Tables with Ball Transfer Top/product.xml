@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product>
+	<data>
+		<title>Used Southworth A-500 Lift Tables w/ Ball Transfer Top</title>
+		<meta-title>Used Southworth A-500 Lift Tables w/ Ball Transfer Top</meta-title>
+		<meta-description>Used Southworth A-500 Lift Tables w/ Ball Transfer Top For Sale at American Surplus, In Stock, 1,100 lb. capacity, Nationwide shipping, 24" x 36" platform, call for more information regarding our Used Southworth A-500 Lift Tables w/ Ball Transfer Tops</meta-description>
+		<product-code>199</product-code>
+		<pricing>
+			<list-price></list-price>
+			<asi-price>695.00</asi-price>
+			<as-low-as-price></as-low-as-price>
+		</pricing>
+		<related>
+			<1>196</1>
+			<2>195</2>
+			<3>198</3>
+			<4>197</4>
+		</related>
+		<category>
+			<name>Used Lift Tables</name>
+			<priority>1000</priority>
+		</category>
+		<site-presence>
+			<backorder>0</backorder> <!-- 1 = true, 0 = false -->
+			<is-visible>1</is-visible> <!-- 1 = true, 0 = false -->
+		</site-presence>
+		<attributes>
+			<attribute>
+				<name>Lift Table Capacity</name>
+				<value>1,100 lbs.</value>
+			</attribute>
+			<attribute>
+				<name>Lift Table Platform Size</name>
+				<value>24" x 36"</value>
+			</attribute>
+			<attribute>
+				<name>Operation</name>
+				<value>Hydraulic</value>
+			</attribute>
+		</attributes>
+		<images> <!-- Include all pictures on the page, in both gallery and body. -->
+			<image>
+				<name>lifttablewithtransfer.jpg</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>1</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt></alt>
+			</image>
+		</images>
+	</data>
+	<content>
+		<extra-short-description>
+			<ul>
+				<li>Ball Transfer Top</li>
+				<li>1,100 lb. capacity</li>
+				<li>24" x 36" platform</li>
+			</ul>
+		</extra-short-description>
+		<short-description>
+			<ul>
+				<li>Used Southworth A-500 Lift Tables</li>
+				<li>Ball Transfer Top</li>
+				<li>1,100 lb. capacity</li>
+				<li>24" x 36" platform</li>
+				<li>Lift Height: 44"</li>
+			</ul>
+		</short-description>
+		<long-description>
+			<p>Used Southworth A-500 Lift Tables w/ Ball Transfer Top For Sale at American Surplus are in stock. These are very convenient if you have the need for a ball transfer table on top of your lift table. They have a 24" x 36" platform that has a ball transfer table attached to it. The steel balls can be raised and lowered above the table to move your item with ease. They have a 1,100 lb. capacity and a lift height of 44". Call our sales department to get more information on our Used Southworth A-500 Lift Tables w/ Ball Transfer Top.</p>
+			<p style="color: red;"><strong>We can&rsquo;t list our entire inventory online, if you do not see what you are looking for, just ask! Quantity discounts available on used lift tables 40-60% off the price of new. Call 800-876-3736 for additional information &amp; a free quote. American Surplus will provide a quote on new equipment if used is unavailable. Nationwide shipping is available. Price and product availability subject to change without notice. Inventory is subject to prior sale.</strong></p>
+		</long-description>
+	</content>
+</product>

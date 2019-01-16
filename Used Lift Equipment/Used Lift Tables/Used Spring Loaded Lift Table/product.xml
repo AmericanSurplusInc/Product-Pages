@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product>
+	<data>
+		<title>Used Spring Loaded Lift Table</title>
+		<meta-title>Used Spring Loaded Lift Table</meta-title>
+		<meta-description>Used Spring Loaded Lift Table For Sale at American Surplus, in stock, 1,500 lb. capacity, 20" x 40" platform, self-adjusting lift height, nationwide shipping, visit our site for more information on Used Spring Loaded Lift Tables.</meta-description>
+		<product-code>7200</product-code>
+		<pricing>
+			<list-price></list-price>
+			<asi-price>2595.00</asi-price>
+			<as-low-as-price></as-low-as-price>
+		</pricing>
+		<related>
+			<1></1>
+		</related>
+		<category>
+			<name>Used Lift Tables</name>
+			<priority>1000</priority>
+		</category>
+		<site-presence>
+			<backorder>0</backorder> <!-- 1 = true, 0 = false -->
+			<is-visible>1</is-visible> <!-- 1 = true, 0 = false -->
+		</site-presence>
+		<attributes>
+			<attribute>
+				<name>Lift Table Capacity</name>
+				<value>1,500 lbs.</value>
+			</attribute>
+			<attribute>
+				<name>Lift Table Platform Size</name>
+				<value>24" x 60"</value>
+			</attribute>
+			<attribute>
+				<name>Operation</name>
+				<value>Spring-Loaded</value>
+			</attribute>
+		</attributes>
+		<images> <!-- Include all pictures on the page, in both gallery and body. -->
+			<image>
+				<name>springLoaded.png</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>1</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt></alt>
+			</image>
+			<image>
+				<name>springLoaded.JPG</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>0</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt></alt>
+			</image>
+		</images>
+	</data>
+	<content>
+		<extra-short-description>
+			<li>20" x 40" Platform</li>
+			<li>Self-adjusting height</li>
+			<li>Capacity: 1,500 lbs</li>
+		</extra-short-description>
+		<short-description>
+			<ul>
+				<li>20" x 40" Platform</li>
+				<li>Self-adjusting height based on weight</li>
+				<li>Capacity: 1,500 lbs</li>
+			</ul>
+		</short-description>
+		<long-description>
+			<li>20" x 40" Platform</li>
+			<li>Self-adjusting height based on weight</li>
+			<li>Capacity: 1,500 lbs</li>
+		</long-description>
+	</content>
+</product>

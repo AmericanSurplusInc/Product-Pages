@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product>
+	<data>
+		<title>Used Electric Lift Tables 24" x 60" </title>
+		<meta-title>Used Electric Lift Tables 24" x 60" </meta-title>
+		<meta-description>Used Electric Lift Tables For Sale at ASI,  24" x 60"  platform, electric powered, 4,000 lb. capacity, in stock, American Mfg, learn more about our used electric lift tables</meta-description>
+		<product-code>195</product-code>
+		<pricing>
+			<list-price></list-price>
+			<asi-price>2595.00</asi-price>
+			<as-low-as-price></as-low-as-price>
+		</pricing>
+		<related>
+			<1>196</1>
+			<2>198</2>
+			<3>199</3>
+			<4>197</4>
+		</related>
+		<category>
+			<name>Used Lift Tables</name>
+			<priority>1000</priority>
+		</category>
+		<site-presence>
+			<backorder>0</backorder> <!-- 1 = true, 0 = false -->
+			<is-visible>1</is-visible> <!-- 1 = true, 0 = false -->
+		</site-presence>
+		<attributes>
+			<attribute>
+				<name>Lift Table Capacity</name>
+				<value>1,500 lbs.</value>
+			</attribute>
+			<attribute>
+				<name>Lift Table Platform Size</name>
+				<value>24" x 60"</value>
+			</attribute>
+			<attribute>
+				<name>Operation</name>
+				<value>Spring-Loaded</value>
+			</attribute>
+		</attributes>
+		<images> <!-- Include all pictures on the page, in both gallery and body. -->
+			<image>
+				<name>IMG_0441.JPG</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>1</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt></alt>
+			</image>
+		</images>
+	</data>
+	<content>
+		<extra-short-description>
+			<ul>
+				<li>24" x 60" Platform</li>
+				<li>Electric Powered Foot Pedal</li>
+				<li>4,000 lb. capacity </li>
+			</ul>
+		</extra-short-description>
+		<short-description>
+			<ul>
+				<li>Used Electric Lift Tables</li>
+				<li>24" x 60" Platform</li>
+				<li>Electric Powered with Foot Pedal</li>
+				<li>4,000 lb. capacity </li>
+				<li>Ships Nationwide</li>
+			</ul>
+		</short-description>
+		<long-description>
+			<p>Used Electric Lift Tables For Sale at American Surplus are in stock. These lift tables have a 24" x 60"  platform and are electric powered with a foot pedal. They have a two ton, 4,000 lb. capacity. They are made by the manufacturer American. Call our sales team today and learn more about our used electric lift tables.</p>
+			<p style="color: red;"><strong>We can&rsquo;t list our entire inventory online, if you do not see what you are looking for, just ask! Quantity discounts available on used lift tables 40-60% off the price of new. Call 800-876-3736 for additional information &amp; a free quote. American Surplus will provide a quote on new equipment if used is unavailable. Nationwide shipping is available. Price and product availability subject to change without notice. Inventory is subject to prior sale.</strong></p>
+		</long-description>
+	</content>
+</product>

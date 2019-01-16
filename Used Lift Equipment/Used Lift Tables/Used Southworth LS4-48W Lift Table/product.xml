@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product>
+	<data>
+		<title>Used Southworth LS4-48W Lift Table</title>
+		<meta-title>Used Southworth LS4-48W Lift Table</meta-title>
+		<meta-description>Used Southworth LS4-48W Lift Table For Sale at ASI, 4,000 lb. capacity, 48" x 66" platform, 3.2 HP motor, In Stock and ready to ship, learn more information about our Used Southworth LS4-48W Lift Table</meta-description>
+		<product-code>197</product-code>
+		<pricing>
+			<list-price></list-price>
+			<asi-price>3500.00</asi-price>
+			<as-low-as-price></as-low-as-price>
+		</pricing>
+		<related>
+			<1>196</1>
+			<2>195</2>
+			<3>198</3>
+			<4>199</4>
+		</related>
+		<category>
+			<name>Used Lift Tables</name>
+			<priority>1000</priority>
+		</category>
+		<site-presence>
+			<backorder>0</backorder> <!-- 1 = true, 0 = false -->
+			<is-visible>1</is-visible> <!-- 1 = true, 0 = false -->
+		</site-presence>
+		<attributes>
+			<attribute>
+				<name>Lift Table Capacity</name>
+				<value>4,000 lbs.</value>
+			</attribute>
+			<attribute>
+				<name>Lift Table Platform Size</name>
+				<value>48" x 66"</value>
+			</attribute>
+			<attribute>
+				<name>Operation</name>
+				<value>Electric</value>
+			</attribute>
+		</attributes>
+		<images> <!-- Include all pictures on the page, in both gallery and body. -->
+			<image>
+				<name>southworth.JPG</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>1</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt></alt>
+			</image>
+		</images>
+	</data>
+	<content>
+		<extra-short-description>
+			<ul>
+				<li>4,000 lb. capacity</li>
+				<li>48" x 66" Platform</li>
+				<li>3.2 HP Motor</li>
+			</ul>
+		</extra-short-description>
+		<short-description>
+			<ul>
+				<li>Used Southworth LS4-48W Lift Table</li>
+				<li>4,000 lb. capacity</li>
+				<li>48" x 66" Platform</li>
+				<li>3.2 HP Motor</li>
+				<li>Ships Nationwide</li>
+			</ul>
+		</short-description>
+		<long-description>
+			<p>Used Southworth LS4-48W Lift Table for sale at American Surplus is in stock. This lift table has a massive 48" wide x 66" deep platform. The platform has a 4,000 lb. (two ton) capacity. It runs off of a 3.2 HP motor. When lowered, the overall height of this lift table is only 22" high. Call our salesman to learn more about this Used Southworth LS4-48W Lift Table.</p>
+			<p style="color: red;"><strong>We can&rsquo;t list our entire inventory online, if you do not see what you are looking for, just ask! Quantity discounts available on used lift tables 40-60% off the price of new. Call 800-876-3736 for additional information &amp; a free quote. American Surplus will provide a quote on new equipment if used is unavailable. Nationwide shipping is available. Price and product availability subject to change without notice. Inventory is subject to prior sale.</strong></p>
+		</long-description>
+	</content>
+</product>

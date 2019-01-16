@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product>
+	<data>
+		<title>Used Presto Lift Table</title>
+		<meta-title>Used Presto Lift Table</meta-title>
+		<meta-description>Used Presto Lift Table For Sale at American Surplus, in stock, 1,100 lb. capacity, 36" x 48" platform, 42" lift height, nationwide shipping, visit our site for more information on Used Presto Lift Tables.</meta-description>
+		<product-code>7203</product-code>
+		<pricing>
+			<list-price>2599.00</list-price>
+			<asi-price>1495.00</asi-price>
+			<as-low-as-price></as-low-as-price>
+		</pricing>
+		<related>
+			<1></1>
+		</related>
+		<category>
+			<name>Used Lift Tables</name>
+			<priority>1000</priority>
+		</category>
+		<site-presence>
+			<backorder>0</backorder> <!-- 1 = true, 0 = false -->
+			<is-visible>1</is-visible> <!-- 1 = true, 0 = false -->
+		</site-presence>
+		<attributes>
+			<attribute>
+				<name>Lift Table Capacity</name>
+				<value>1,100 lbs.</value>
+			</attribute>
+			<attribute>
+				<name>Lift Table Platform Size</name>
+				<value>36" x 48"</value>
+			</attribute>
+			<attribute>
+				<name>Operation</name>
+				<value>Electric</value>
+			</attribute>
+		</attributes>
+		<images> <!-- Include all pictures on the page, in both gallery and body. -->
+			<image>
+				<name>IMG_3446.JPG</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>1</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt></alt>
+			</image>
+		</images>
+	</data>
+	<content>
+		<extra-short-description>
+			<ul>
+				<li>Platform: 36" x 48"</li>
+				<li>Raised Height: 42"</li>
+				<li>Capacity: 1,100 lbs</li>
+			</ul>
+		</extra-short-description>
+		<short-description>
+			<li>Platform: 36" x 48"</li>
+			<li>Raised Height: 42"</li>
+			<li>Capacity: 1,100 lbs</li>
+		</short-description>
+		<long-description>
+			<span style="background-color: #ffffff; font-family: verdana, geneva, sans-serif; font-size: 13px; color: #484a4d;">Used lift tables are an efficient solution for lifting, transporting, and positioning loads. A scissor style mechanism is used to raise and lower goods to the appropriate height. Presto Lift tables are made of heavy duty gauge steel frames, and are available used in electrically controlled.</span>
+			<div style="text-align: center;">
+				<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/zFt1u8towOk?autoplay=0" frameborder="0"></iframe>
+			</div>
+		</long-description>
+	</content>
+</product>

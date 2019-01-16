@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product>
+	<data>
+		<title>Used Handling Specialty Lift Table</title>
+		<meta-title>Used Handling Specialty Lift Table</meta-title>
+		<meta-description>Used Handling Specialty Lift Table For Sale at American Surplus, in stock, 2,500 lb. capacity, 24" x 36" platform, 42" lift height, nationwide shipping, visit our site for more information on Used Handling Specialty Lift Tables.</meta-description>
+		<product-code>7201</product-code>
+		<pricing>
+			<list-price></list-price>
+			<asi-price></asi-price>
+			<as-low-as-price></as-low-as-price>
+		</pricing>
+		<related>
+			<1></1>
+		</related>
+		<category>
+			<name>Used Lift Tables</name>
+			<priority>1000</priority>
+		</category>
+		<site-presence>
+			<backorder>0</backorder> <!-- 1 = true, 0 = false -->
+			<is-visible>1</is-visible> <!-- 1 = true, 0 = false -->
+		</site-presence>
+		<attributes>
+			<attribute>
+				<name>Lift Table Capacity</name>
+				<value>2,500 lbs.</value>
+			</attribute>
+			<attribute>
+				<name>Lift Table Platform Size</name>
+				<value>30" x 42"</value>
+			</attribute>
+			<attribute>
+				<name>Operation</name>
+				<value>Pneumatic</value>
+			</attribute>
+		</attributes>
+		<images> <!-- Include all pictures on the page, in both gallery and body. -->
+			<image>
+				<name>lift-table-transparent.png</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>1</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt>Used Handling Specialty Lift Table</alt>
+			</image>
+			<image>
+				<name>lift-table.png</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>0</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt>Used Handling Specialty Lift Table</alt>
+			</image>
+		</images>
+	</data>
+	<content>
+		<extra-short-description>
+			<ul>
+				<li>Platform: 30" x 42"</li>
+				<li>Lift Height: 42"</li>
+				<li>Capacity: 2,500 lbs</li>
+			</ul>
+		</extra-short-description>
+		<short-description>
+			<li>Platform: 30" x 42"</li>
+			<li>Lift Height: 42"</li>
+			<li>Capacity: 2,500 lbs</li>
+		</short-description>
+		<long-description>
+			<p style="border: 0px none; margin: 0px; padding: 0px; font-size: 13.3333px; color: #484a4d; background-color: #ffffff;"><span style="font-size: 16px;">A Used Handling Specialty Lift Table is an efficient solution for lifting, transporting, and positioning loads. A scissor style mechanism is used to raise and lower goods to the appropriate height. &nbsp;This lift table is made of heavy duty steel frames, and is also pneumatically controlled. This particular lift table from Handling Specialty has a total capacity of 2,500 lbs, with a lift height of 42 inches.</span>&nbsp;</p>
+		</long-description>
+	</content>
+</product>
