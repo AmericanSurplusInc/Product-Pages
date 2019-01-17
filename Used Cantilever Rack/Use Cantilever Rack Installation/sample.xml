@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product>
+	<data>
+		<title>Used Cantilever Rack Installation</title>
+		<meta-title>Used Cantilever Rack Installation</meta-title>
+		<meta-description>Used Cantilever Rack Installations available nationwide by American Surplus. Trained professionals, CAD layouts, and on schedule</meta-description>
+		<product-code>28Install</product-code>
+		<pricing>
+			<list-price></list-price>
+			<asi-price></asi-price>
+			<as-low-as-price></as-low-as-price>
+		</pricing>
+		<related>
+			<1>27</1>
+			<2>34</2>
+			<3>28</3>
+			<4>357</4>
+		</related>
+		<category>
+			<name>Used Cantilever Rack</name>
+			<priority>9</priority>
+		</category>
+		<site-presence>
+			<backorder></backorder> <!-- 1 = true, 0 = false -->
+			<is-visible>1</is-visible> <!-- 1 = true, 0 = false -->
+		</site-presence>
+		<attributes>
+			<attribute>
+				<name></name>
+				<value></value>
+			</attribute>
+		</attributes>
+		<images> <!-- Include all pictures on the page, in both gallery and body. -->
+			<image>
+				<name>used-cantilever-rack-installation.JPG</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>0</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt>used cantilever rack installs</alt>
+			</image>
+			<image>
+				<name>used-cantilever-rack-installation-2.JPG</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>1</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt>used cantilever rack installation</alt>
+			</image>
+		</images>
+	</data>
+	<content>
+		<extra-short-description>
+		<ul>
+    <li>Installation of cantilever rack</li>
+    <li>Professional, efficient service</li>
+    <li>CAD Layouts provided</li>
+</ul>
+		</extra-short-description>
+		<short-description>
+		<ul>
+    <li>Cantilever rack installation is available</li>
+    <li>Professional, efficient service</li>
+    <li>CAD Layouts provided to aid installers</li>
+    <li>Get a quote today!</li>
+</ul>
+		</short-description>
+		<long-description>
+		<p>Used Cantilever Rack Installation by American Surplus is available nationwide. We have a network of professional installers to help you get your product installed. Our CAD department can provide a conceptual drawing to help aid the installation process. Let us help you get your cantilever rack installed so you can load your products and store your materials.</p>
+		</long-description>
+	</content>
+</product>

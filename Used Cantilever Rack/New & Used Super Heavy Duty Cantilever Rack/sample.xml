@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product>
+	<data>
+		<title>New & Used Super Heavy Duty Cantilever Rack</title>
+		<meta-title>New & Used Super Heavy Duty Cantilever Rack</meta-title>
+		<meta-description>New & Used Super Heavy Duty Cantilever Rack for sale at American Surplus, In Stock & Very Affordable Cantilever Rack, Free Same Day Quote & CAD Layouts Available for super heavy duty cantilever rack</meta-description>
+		<product-code>27</product-code>
+		<pricing>
+			<list-price></list-price>
+			<asi-price></asi-price>
+			<as-low-as-price>$779/starter bay</as-low-as-price>
+		</pricing>
+		<related>
+			<1>31</1>
+			<2>30</2>
+			<3>29</3>
+			<4>28</4>
+			<5>32</5>
+			<6>33</6>
+			<7>35</7>
+			<8>34</8>
+		</related>
+		<category>
+			<name>Used Cantilever Rack</name>
+			<priority>1</priority>
+		</category>
+		<site-presence>
+			<backorder></backorder> <!-- 1 = true, 0 = false -->
+			<is-visible>1</is-visible> <!-- 1 = true, 0 = false -->
+		</site-presence>
+		<attributes>
+			<attribute>
+				<name>Cantilever Arm Sizes</name>
+				<value>	36", 48", 52" and 60" Long</value>
+			</attribute>
+			<attribute>
+				<name>Cantilever Base Sizes</name>
+				<value>	36", 48", 52" and 60" Long</value>
+			</attribute>
+			<attribute>
+				<name>Cantilever Brace Set Sizes</name>
+				<value>48" to 84" Wide</value>
+			</attribute>
+			<attribute>
+				<name>Cantilever Upright Sizes</name>
+				<value>	96" , 144" and 192" Tall</value>
+			</attribute>
+			<attribute>
+				<name>Installation Available</name>
+				<value>Yes</value>
+			</attribute>
+			<attribute>
+				<name>Financing Available</name>
+				<value>Yes</value>
+			</attribute>
+		</attributes>
+		<images> <!-- Include all pictures on the page, in both gallery and body. -->
+			<image>
+				<name>cantilever.jpg</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>0</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt></alt>
+			</image>
+			<image>
+				<name>cantilever-2.jpg</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>0</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt></alt>
+			</image>
+			<image>
+				<name>cantilever-cad1.jpg</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>0</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt></alt>
+			</image>
+			<image>
+				<name>cantilever-cad2.jpg</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>0</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt></alt>
+			</image>
+			<image>
+				<name>cantilever-rack-installed.jpg</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>0</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt>new cantilever rack</alt>
+			</image>
+			<image>
+				<name>IMG_0851_500x500-max.JPG</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>0</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt>new cantilever rack</alt>
+			</image>
+			<image>
+				<name>IMG_0852.JPG</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>0</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt></alt>
+			</image>
+			<image>
+				<name>superheavyduty.png</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>1</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt></alt>
+			</image>
+		</images>
+	</data>
+	<content>
+		<extra-short-description>
+		<ul>
+    <li>In Stock, Click for Inventory</li>
+    <li>Single or Double Sided</li>
+    <li>New Trees, Refurbished Arms</li>
+</ul>
+		</extra-short-description>
+		<short-description>
+		<ul>
+    <li>Super Heavy Duty Cantilever Rack</li>
+    <li>Prices above are for a starter bay, including 2 uprights, 4 arms, 2 bases and brace set</li>
+    <li>In Stock, See Below for Available Sizes</li>
+    <li>Available as Single or Double Sided</li>
+    <li>Mix of New Uprights and Bases with Refurbished Arms</li>
+    <li>Excellent Quality</li>
+</ul>
+		</short-description>
+		<long-description>
+		<h3 style="text-align: center;"><span style="font-size: 32px;">New Super Heavy Duty Cantilever Rack Prices</span></h3>
+<p style="text-align: center;"><span style="font-size: 18px; color: #ff7800;">Quantity Discounts Available! Call (800) 876-3736 or Request a Quote for More Info!</span></p>
+<table width="100%" cellpadding="10" align="center">
+    <tbody>
+        <tr>
+            <td><strong>COMPONENT</strong></td>
+            <td><strong>SIZE</strong><br />
+            </td>
+            <td><strong>DS/SS CAPACITY</strong><br />
+            </td>
+            <td><strong>WEIGHTS</strong></td>
+            <td style="color: #168800;"><strong>OUR PRICE</strong><br />
+            </td>
+        </tr>
+        <tr>
+            <td>New Cantilever Rack Uprights</td>
+            <td>W8 x 96"</td>
+            <td>20,000/10,000<br />
+            </td>
+            <td>144</td>
+            <td style="color: #168800;">$199.00</td>
+        </tr>
+        <tr>
+            <td>New Cantilever Rack Uprights<br />
+            </td>
+            <td>W8 x 144"<br />
+            </td>
+            <td>20,000/10,000</td>
+            <td>216</td>
+            <td style="color: #168800;">$299.00</td>
+        </tr>
+        <tr>
+            <td>New Cantilever Rack Uprights<br />
+            </td>
+            <td>W8 x 192"<br />
+            </td>
+            <td>20,000/10,000</td>
+            <td>288</td>
+            <td style="color: #168800;">$399.00</td>
+        </tr>
+        <tr>
+            <td><strong>COMPONENT</strong>&nbsp;</td>
+            <td><strong>&nbsp;<strong>SIZE</strong></strong></td>
+            <td>&nbsp;</td>
+            <td><strong><strong>WEIGHTS</strong></strong><br />
+            </td>
+            <td style="color: #168800;"><strong>OUR PRICE</strong><br />
+            </td>
+        </tr>
+        <tr>
+            <td>New Cantilever Rack Bases</td>
+            <td>DC/W8 x 36"</td>
+            <td>&nbsp;</td>
+            <td>54</td>
+            <td style="color: #168800;">$95.00</td>
+        </tr>
+        <tr>
+            <td>New Cantilever Rack Bases<br />
+            </td>
+            <td>DC/W8 x 48"<br />
+            </td>
+            <td>&nbsp;</td>
+            <td>72</td>
+            <td style="color: #168800;">$105.00</td>
+        </tr>
+        <tr>
+            <td>New Cantilever Rack Bases<br />
+            </td>
+            <td>DC/W8 x 52"<br />
+            </td>
+            <td>&nbsp;</td>
+            <td>76.5</td>
+            <td style="color: #168800;">$115.00</td>
+        </tr>
+        <tr>
+            <td>New Cantilever Rack Bases<br />
+            </td>
+            <td>DC/W8 x 60"<br />
+            </td>
+            <td>&nbsp;</td>
+            <td>90</td>
+            <td style="color: #168800;">$125.00</td>
+        </tr>
+        <tr>
+            <td>&nbsp;<strong>COMPONENT</strong></td>
+            <td><strong>&nbsp;<strong>SIZE</strong></strong></td>
+            <td><strong>SS CAPACITY</strong><br />
+            </td>
+            <td><strong><strong>WEIGHTS</strong></strong><br />
+            </td>
+            <td style="color: #168800;"><strong>OUR PRICE</strong><br />
+            </td>
+        </tr>
+        <tr>
+            <td>Refurbished Cantilever Rack Arms</td>
+            <td>L3 x 36"</td>
+            <td>1,500 Ea</td>
+            <td>12&nbsp;</td>
+            <td style="color: #168800;">$22.00</td>
+        </tr>
+        <tr>
+            <td>Refurbished Cantilever Rack Arms<br />
+            </td>
+            <td>L3 x 48"</td>
+            <td>1,100 Ea</td>
+            <td>16</td>
+            <td style="color: #168800;">$24.50</td>
+        </tr>
+        <tr>
+            <td>Refurbished Cantilever Rack Arms<br />
+            </td>
+            <td>DC3 x 36"</td>
+            <td>2,000 Ea</td>
+            <td>24.3</td>
+            <td style="color: #168800;">$29.95</td>
+        </tr>
+        <tr>
+            <td>Refurbished Cantilever Rack Arms<br />
+            </td>
+            <td>DC3 x 46"</td>
+            <td>1,750 Ea</td>
+            <td>32</td>
+            <td style="color: #168800;">$32.00</td>
+        </tr>
+        <tr>
+            <td>Refurbished Cantilever Rack Arms<br />
+            </td>
+            <td>DC3 X 48"</td>
+            <td>1,800 Ea</td>
+            <td>32.8</td>
+            <td style="color: #168800;">$34.50</td>
+        </tr>
+        <tr>
+            <td>Refurbished Cantilever Rack Arms<br />
+            </td>
+            <td>DC4 x 36"</td>
+            <td>3,000 Ea</td>
+            <td>28.8</td>
+            <td style="color: #168800;">$35.00</td>
+        </tr>
+        <tr>
+            <td>Refurbished Cantilever Rack Arms<br />
+            </td>
+            <td>DC4 x 48"</td>
+            <td>2,500 Ea</td>
+            <td>40</td>
+            <td style="color: #168800;">$39.50</td>
+        </tr>
+        <tr>
+            <td>Refurbished Cantilever Rack Arms<br />
+            </td>
+            <td>DC4 x 52"</td>
+            <td>2,000 Ea</td>
+            <td>40.4</td>
+            <td style="color: #168800;">$44.00</td>
+        </tr>
+        <tr>
+            <td>IB5 Refurb. Cantilever Rack Arms</td>
+            <td>DC6 x 60"</td>
+            <td>&nbsp;2,500 Ea</td>
+            <td>85</td>
+            <td style="color: #168800;">$55.00</td>
+        </tr>
+        <tr>
+            <td>&nbsp;<strong>COMPONENT</strong></td>
+            <td><strong><strong>SIZE</strong></strong><br />
+            </td>
+            <td><br />
+            </td>
+            <td><strong>WEIGHTS</strong><br />
+            </td>
+            <td style="color: #168800;"><strong>OUR PRICE</strong><br />
+            </td>
+        </tr>
+        <tr>
+            <td>New Cantilever Rack Horizontal Brace&nbsp;</td>
+            <td>48"</td>
+            <td>&nbsp;</td>
+            <td>60</td>
+            <td style="color: #168800;">$19.95</td>
+        </tr>
+        <tr>
+            <td>New Cantilever Rack Horizontal Brace <br />
+            </td>
+            <td>60"</td>
+            <td>&nbsp;</td>
+            <td>75</td>
+            <td style="color: #168800;">$24.95</td>
+        </tr>
+        <tr>
+            <td>New Cantilever Rack Horizontal Brace <br />
+            </td>
+            <td>72"</td>
+            <td>&nbsp;</td>
+            <td>90</td>
+            <td style="color: #168800;">$29.95</td>
+        </tr>
+        <tr>
+            <td>New Cantilever Rack Horizontal Brace <br />
+            </td>
+            <td>84"</td>
+            <td>&nbsp;</td>
+            <td>105</td>
+            <td style="color: #168800;">$39.95</td>
+        </tr>
+        <tr>
+            <td>&nbsp;<strong>COMPONENT</strong></td>
+            <td><strong>SIZE</strong><br />
+            </td>
+            <td><br />
+            </td>
+            <td><strong>WEIGHTS</strong><br />
+            </td>
+            <td style="color: #168800;"><strong>OUR PRICE</strong><br />
+            </td>
+        </tr>
+        <tr>
+            <td>New Cantilever Rack X Brace</td>
+            <td>48"</td>
+            <td>&nbsp;</td>
+            <td>60</td>
+            <td style="color: #168800;">$79.00</td>
+        </tr>
+        <tr>
+            <td>New Cantilever Rack X Brace<br />
+            </td>
+            <td>60"</td>
+            <td>&nbsp;</td>
+            <td>75</td>
+            <td style="color: #168800;">$89.00</td>
+        </tr>
+        <tr>
+            <td>New Cantilever Rack X Brace<br />
+            </td>
+            <td>72"&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>90</td>
+            <td style="color: #168800;">$99.00</td>
+        </tr>
+        <tr>
+            <td>New Cantilever Rack X Brace<br />
+            </td>
+            <td>84"</td>
+            <td>&nbsp;</td>
+            <td>105</td>
+            <td style="color: #168800;">$109.00</td>
+        </tr>
+    </tbody>
+</table>
+<br />
+<p>&nbsp;</p>
+<p>New &amp; Used Cantilever Rack is our most popular style of cantilever rack. It has the highest capacity out of all of our cantilever rack at American Surplus. It is constructed of I-beam style material and comes in a variety of sizes and configurations. When needing to store large quantities of lumber, pipe and/or other large bulky items, cantilever rack is an ideal solution. Our prices are very affordable and the quality of the product is outstanding. This style is a mix of both new and used material, with the uprights and bases being new, and the arms being refurbished in our warehouse. The uprights have holes going all the way up the column so you can customize the heights of each of your levels per your needs.</p>
+<p>&nbsp;</p>
+<p style="color: red;"><strong>We can&rsquo;t list our entire inventory online, if you do not see what you are looking for, just ask! Quantity discounts available on used cantilever rack 40-60% off the price of new. Call 800-876-3736 for additional information &amp; a free quote. American Surplus will provide a quote on new equipment if used is unavailable. Nationwide shipping is available. Price and product availability subject to change without notice. Inventory is subject to prior sale.</strong></p>
+		</long-description>
+	</content>
+</product>

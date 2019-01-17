@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product>
+	<data>
+		<title>Used Lumber Rack</title>
+		<meta-title>Used Lumber Rack For Sale</meta-title>
+		<meta-description>Used Lumber Rack For Sale at American Surplus, In Stock, Nationwide shipping, perfect for storing lumber, plywood, and much more</meta-description>
+		<product-code>28L</product-code>
+		<pricing>
+			<list-price></list-price>
+			<asi-price></asi-price>
+			<as-low-as-price></as-low-as-price>
+		</pricing>
+		<related>
+			<1>28</1>
+			<2>30</2>
+			<3>29</3>
+			<4>35</4>
+			<5>32</5>
+			<6>33</6>
+			<7>34</7>
+			<8>27</8>
+			<9>31</9>
+		</related>
+		<category>
+			<name>Used Cantilever Rack</name>
+			<priority>6</priority>
+		</category>
+		<site-presence>
+			<backorder>0</backorder> <!-- 1 = true, 0 = false -->
+			<is-visible>1</is-visible> <!-- 1 = true, 0 = false -->
+		</site-presence>
+		<attributes>
+			<attribute>
+				<name></name>
+				<value></value>
+			</attribute>
+		</attributes>
+		<images> <!-- Include all pictures on the page, in both gallery and body. -->
+			<image>
+				<name>used-lumber-rack-1.jpg</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>0</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt>used lumber rack</alt>
+			</image>
+			<image>
+				<name>used-lumber-rack-2.jpg</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>0</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt>used lumber racking</alt>
+			</image>
+			<image>
+				<name>used-lumber-rack-3.jpg</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>0</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt>used lumber racks</alt>
+			</image>
+			<image>
+				<name>used-lumber-rack-5.jpg</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>1</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt>used lumber racks</alt>
+			</image>
+		</images>
+	</data>
+	<content>
+		<extra-short-description>
+		<ul>
+    <li>In Stock, Click for Inventory</li>
+    <li>Perfect for storing lumber</li>
+    <li>Variety of sizes available</li>
+</ul>
+		</extra-short-description>
+		<short-description>
+		<ul>
+    <li>Used Lumber Rack In Stock </li>
+    <li>Also known as used cantilever rack</li>
+    <li>Perfect for storing lumber</li>
+    <li>Variety of sizes available</li>
+</ul>
+		</short-description>
+		<long-description>
+		<p>Used Lumber Rack, also known as cantilever rack is in stock at American Surplus. We have a variety of sizes to offer and each has a different capacity. Our used lumber rack is I-beam material and has a wide range of uses. If you are not sure what style lumber rack is right for you just call and speak with a member of our sales team. Our sizes that we have in stock are below.  Used cantilever rack is affordable and ships nationwide. Organize your lumber, plywood, and other wood products with ease.</p>
+<p style="color: red;"><strong>We can&rsquo;t list our entire inventory online, if you do not see what you are looking for, just ask! Quantity discounts available on used lumber rack 40-60% off the price of new. Call 800-876-3736 for additional information &amp; a free quote. American Surplus will provide a quote on new equipment if used is unavailable. Nationwide shipping is available. Price and product availability subject to change without notice. Inventory is subject to prior sale.</strong></p>
+		</long-description>
+	</content>
+</product>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product>
+	<data>
+		<title>Used Cantilever Rack Systems</title>
+		<meta-title>Used Cantilever Rack Systems</meta-title>
+		<meta-description>Used Cantilever Rack Systems are a specialty at American Surplus, we design systems no matter how big or small the job is, we offer free CAD layouts and site visits with our cantilever rack systems</meta-description>
+		<product-code>34</product-code>
+		<pricing>
+			<list-price></list-price>
+			<asi-price></asi-price>
+			<as-low-as-price></as-low-as-price>
+		</pricing>
+		<related>
+			<1>31</1>
+			<2>30</2>
+			<3>29</3>
+			<4>28</4>
+			<5>32</5>
+			<6>33</6>
+			<7>35</7>
+			<8>27</8>
+		</related>
+		<category>
+			<name>Used Cantilever Rack</name>
+			<priority>8</priority>
+		</category>
+		<site-presence>
+			<backorder></backorder> <!-- 1 = true, 0 = false -->
+			<is-visible>1</is-visible> <!-- 1 = true, 0 = false -->
+		</site-presence>
+		<attributes>
+			<attribute>
+				<name></name>
+				<value></value>
+			</attribute>
+		</attributes>
+		<images> <!-- Include all pictures on the page, in both gallery and body. -->
+			<image>
+				<name>cantilever-cad1.jpg</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>0</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt></alt>
+			</image>
+			<image>
+				<name>cantilever-cad2.jpg</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>0</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt></alt>
+			</image>
+			<image>
+				<name>cantilever-cad3.jpg</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>0</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt></alt>
+			</image>
+			<image>
+				<name>cantilever-cad4.jpg</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>0</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt></alt>
+			</image>
+			<image>
+				<name>cantilever-rack-american-surplus.jpg</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>0</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt>cantilever rack american surplus</alt>
+			</image>
+			<image>
+				<name>cantilever-rack-american-surplus-2.jpg</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>0</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt>cantilever racks</alt>
+			</image><image>
+				<name>used-cantilever-rack-system.jpg</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>1</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority></priority> <!-- blank on body pictures -->
+				<alt>cantilever rack</alt>
+			</image>
+		</images>
+	</data>
+	<content>
+		<extra-short-description>
+		<ul>
+    <li>Nationwide shipping</li>
+    <li>Free CAD layout with quote</li>
+    <li>Designing systems since 1991</li>
+</ul>
+		</extra-short-description>
+		<short-description>
+		<ul>
+    <li>Used Cantilever Rack Systems</li>
+    <li>Nationwide shipping and installation</li>
+    <li>Free CAD layout with your quote</li>
+    <li>We've been designing cantilever rack systems since 1991</li>
+    <li>Call Today 800-876-3736</li>
+</ul>
+		</short-description>
+		<long-description>
+		<p>American Surplus has been designing used cantilever rack systems for over 25 years. We have been able to provide quality, affordable solutions to our customers nationwide and take pride in the material we provide. Our in house CAD designer works with our sales team to provide a conceptual CAD layout to match your quote. We offer a wide variety of cantilever rack in terms of both capacities, and sizes. No matter what you are trying to store, American Surplus has the solution for you and your business. We also offer an enclosed option which allows for safety, security, and keeps material clean. Call our sales team today and learn more about what types of used cantilever rack systems we can provide and get a quote fast. </p>
+<p style="color: red;"><strong>We can&rsquo;t list our entire inventory online, if you do not see what you are looking for, just ask! Quantity discounts available on used cantilever rack 40-60% off the price of new. Call 800-876-3736 for additional information &amp; a free quote. American Surplus will provide a quote on new equipment if used is unavailable. Nationwide shipping is available. Price and product availability subject to change without notice. Inventory is subject to prior sale.</strong></p>
+		</long-description>
+	</content>
+</product>

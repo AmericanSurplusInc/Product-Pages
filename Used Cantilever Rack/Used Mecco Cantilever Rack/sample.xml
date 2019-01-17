@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product>
+	<data>
+		<title>Used Meco Cantilever Rack</title>
+		<meta-title>Used Meco Cantilever Rack</meta-title>
+		<meta-description>Used Meco Cantilever Rack for sale at American Surplus, 96" tall and quantity discounts are available, ships nationwide, call today for a free same day quote on cantilever rack 800-876-3736</meta-description>
+		<product-code>32</product-code>
+		<pricing>
+			<list-price></list-price>
+			<asi-price></asi-price>
+			<as-low-as-price></as-low-as-price>
+		</pricing>
+		<related>
+			<1>28</1>
+			<2>30</2>
+			<3>29</3>
+			<4>35</4>
+			<5>31</5>
+			<6>33</6>
+			<7>34</7>
+			<8>27</8>
+		</related>
+		<category>
+			<name>Used Cantilever Rack</name>
+			<priority>11</priority>
+		</category>
+		<site-presence>
+			<backorder>0</backorder> <!-- 1 = true, 0 = false -->
+			<is-visible>1</is-visible> <!-- 1 = true, 0 = false -->
+		</site-presence>
+		<attributes>
+			<attribute>
+				<name>Cantilever Arm Sizes</name>
+				<value>18" Long</value>
+			</attribute>
+			<attribute>
+				<name>Cantilever Base Sizes</name>
+				<value>23" Long</value>
+			</attribute>
+			<attribute>
+				<name>Cantilever Brace Set Sizes</name>
+				<value>24" to 48" Wide</value>
+			</attribute>
+			<attribute>
+				<name>Cantilever Upright Sizes</name>
+				<value>96" Tall</value>
+			</attribute>
+		</attributes>
+		<images> <!-- Include all pictures on the page, in both gallery and body. -->
+			<image>
+				<name>meco.png</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>1</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt></alt>
+			</image>
+			<image>
+				<name>IMG_0847.JPG</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary></is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority></priority> <!-- blank on body pictures -->
+				<alt></alt>
+			</image>
+			<image>
+				<name>IMG_0845.JPG</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>0</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt></alt>
+			</image>
+			<image>
+				<name>cantilever.jpg</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>0</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt></alt>
+			</image>
+		</images>
+	</data>
+	<content>
+		<extra-short-description>
+		<ul>
+    <li>In Stock, Click for Inventory</li>
+    <li>Single or Double Sided</li>
+    <li>Tabs Help Hold Product</li>
+</ul>
+		</extra-short-description>
+		<short-description>
+		<ul>
+    <li>Used Meco Cantilever Rack</li>
+    <li>Prices above are for a starter bay, including 2 uprights, 4 arms, 2 bases and brace set</li>
+    <li>In Stock, See Below for Available Sizes</li>
+    <li>Available as Single or Double Sided</li>
+    <li>Tabs on Arms to Help Hold Product on each Level</li>
+</ul>
+		</short-description>
+		<long-description>
+		<p>Used Meco Style Cantilever Rack is another type of lighter duty cantilever rack. We only have one size configuration available in this style. The uprights are 96" tall, the bases are 23" long and the arms are 18" long. You can set up the rack to be 24" or 48" wide depending on the material you are trying to store. The arms feature a lip on the end that helps the product stay on each level. This cantilever rack is very affordable and easy to assemble. It is a great investment if you are only needing to store short items and materials. Call our sales team to learn more about meco style cantilever rack and see how we can help you become more efficient in your warehouse storage. </p>
+<p style="color: red;"><strong>We can&rsquo;t list our entire inventory online, if you do not see what you are looking for, just ask! Quantity discounts available on used cantilever rack 40-60% off the price of new. Call 800-876-3736 for additional information &amp; a free quote. American Surplus will provide a quote on new equipment if used is unavailable. Nationwide shipping is available. Price and product availability subject to change without notice. Inventory is subject to prior sale.</strong></p>
+		</long-description>
+	</content>
+</product>

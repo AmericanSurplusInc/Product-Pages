@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product>
+	<data>
+		<title>Used Speedrack Cantilever Rack</title>
+		<meta-title>Used Speedrack Cantilever Rack</meta-title>
+		<meta-description>Used Speedrack Cantilever Rack for sale by American Surplus, we have 192" tall units in stock, we ship nationwide and can provide free CAD layouts with your quote, speak with our sales team about which type of cantilever rack is right for you </meta-description>
+		<product-code>33</product-code>
+		<pricing>
+			<list-price></list-price>
+			<asi-price></asi-price>
+			<as-low-as-price>$425/starter bay</as-low-as-price>
+		</pricing>
+		<related>
+			<1>28</1>
+			<2>29</2>
+			<3>32</3>
+			<4>35</4>
+			<5>31</5>
+			<6>30</6>
+			<7>34</7>
+			<8>27</8>
+		</related>
+		<category>
+			<name>Used Cantilever Rack</name>
+			<priority>10</priority>
+		</category>
+		<site-presence>
+			<backorder>0</backorder> <!-- 1 = true, 0 = false -->
+			<is-visible>1</is-visible> <!-- 1 = true, 0 = false -->
+		</site-presence>
+		<attributes>
+			<attribute>
+				<name>Cantilever Arm Sizes</name>
+				<value>48" Long</value>
+			</attribute>
+			<attribute>
+				<name>Cantilever Base Sizes</name>
+				<value>48" Long</value>
+			</attribute>
+			<attribute>
+				<name>Cantilever Brace Set Sizes</name>
+				<value>	48" Wide</value>
+			</attribute>
+			<attribute>
+				<name>Cantilever Upright Sizes</name>
+				<value>192" Tall</value>
+			</attribute>
+		</attributes>
+		<images> <!-- Include all pictures on the page, in both gallery and body. -->
+			<image>
+				<name>cantilever.jpg</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>0</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt></alt>
+			</image>
+				<image>
+				<name>IMG_2552.JPG</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>1</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt></alt>
+			</image>
+		</images>
+	</data>
+	<content>
+		<extra-short-description>
+		<ul>
+    <li>In Stock, Click for Inventory</li>
+    <li>Single or Double Sided</li>
+    <li>Tabs to help hold product</li>
+</ul>
+		</extra-short-description>
+		<short-description>
+		<ul>
+    <li>Used Speedrack Cantilever Rack</li>
+    <li>Prices above are for a starter bay, including 2 uprights, 4 arms, 2 bases and brace set</li>
+    <li>In Stock, See Below for Available Sizes</li>
+    <li>Available as Single or Double Sided</li>
+    <li>Arms feature tabs to help hold product on level</li>
+</ul>
+		</short-description>
+		<long-description>
+		<p>Used speedrack cantilever rack is available in uprights that are 192" tall, with bases and arms that are 48" long. The brace sets we have for this cantilever rack are 48" wide. This style cantilever rack is perfect for lumber, wood, piping, and other long items that can't be stored on traditional selective pallet rack. We ship this product nationwide and can provide free CAD layouts and same day quotes for you. Save big with used cantilever rack and get a quote today. This cantilever rack features lips on the end of each arm that is an added feature to help keep the materials on each level. If you are not sure which type is right for you, just call and speak with a member of our sales staff.</p>
+<p style="color: red;"><strong>We can&rsquo;t list our entire inventory online, if you do not see what you are looking for, just ask! Quantity discounts available on used cantilever rack 40-60% off the price of new. Call 800-876-3736 for additional information &amp; a free quote. American Surplus will provide a quote on new equipment if used is unavailable. Nationwide shipping is available. Price and product availability subject to change without notice. Inventory is subject to prior sale.</strong></p>
+		</long-description>
+	</content>
+</product>

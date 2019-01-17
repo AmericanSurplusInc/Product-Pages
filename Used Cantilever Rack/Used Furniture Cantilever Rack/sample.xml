@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product>
+	<data>
+		<title>Used Furniture Cantilever Rack</title>
+		<meta-title>Used Furniture Cantilever Rack</meta-title>
+		<meta-description>Used Furniture Cantilever Rack for Sale at American Surplus, In Stock and ships nationwide, call our sales team to design your furniture cantilever rack and save 40-60% compared to new.</meta-description>
+		<product-code>35</product-code>
+		<pricing>
+			<list-price></list-price>
+			<asi-price></asi-price>
+			<as-low-as-price></as-low-as-price>
+		</pricing>
+		<related>
+			<1>31</1>
+			<2>30</2>
+			<3>29</3>
+			<4>28</4>
+			<5>32</5>
+			<6>33</6>
+			<7>34</7>
+			<8>27</8>
+		</related>
+		<category>
+			<name>used Cantilever Rack</name>
+			<priority>7</priority>
+		</category>
+		<site-presence>
+			<backorder></backorder> <!-- 1 = true, 0 = false -->
+			<is-visible>1</is-visible> <!-- 1 = true, 0 = false -->
+		</site-presence>
+		<attributes>
+			<attribute>
+				<name>Cantilever Arm Sizes</name>
+				<value>36", 48", 52" and 60" Long</value>
+			</attribute>
+			<attribute>
+				<name>Cantilever Base Sizes	</name>
+				<value>36", 48", 52" and 60" Long</value>
+			</attribute>
+			<attribute>
+				<name>Cantilever Brace Set Sizes</name>
+				<value>48" to 84" Wide</value>
+			</attribute>
+			<attribute>
+				<name>Cantilever Upright Sizes</name>
+				<value>	96" , 144" and 192" Tall</value>
+			</attribute>
+		</attributes>
+		<images> <!-- Include all pictures on the page, in both gallery and body. -->
+			<image>
+				<name>used-furniture-cantilever-rack.jpg</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>1</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt></alt>
+			</image>
+		</images>
+	</data>
+	<content>
+		<extra-short-description>
+		<ul>
+    <li>Includes decking to create level</li>
+    <li>Perfect for furniture storage</li>
+    <li>Store other large bulk items</li>
+</ul>
+		</extra-short-description>
+		<short-description>
+		<ul>
+    <li>Used Furniture Cantilever Rack</li>
+    <li>Installation and nationwide shipping available</li>
+    <li>Includes decking to create solid level</li>
+    <li>Perfect for any type of furniture storage application</li>
+    <li>Not limited to furniture, store other large bulk items</li>
+</ul>
+		</short-description>
+		<long-description>
+		<p>Used furniture cantilever rack is perfect for storing any type of furniture items and other large bulky items. Such as: chairs, couches, desks, cabinets, matresses, beds and more. Plywood and wire decking is installed across the cantilever arms to create a solid level. Used furniture cantilever rack allows for storage without front obstructions. The benefits include being able to store a variety of loads with different lengths anywhere along the entire level.</p>
+<p style="color: red;"><strong>We can&rsquo;t list our entire inventory online, if you do not see what you are looking for, just ask! Quantity discounts available on used cantilever rack 40-60% off the price of new. Call 800-876-3736 for additional information &amp; a free quote. American Surplus will provide a quote on new equipment if used is unavailable. Nationwide shipping is available. Price and product availability subject to change without notice. Inventory is subject to prior sale.</strong></p>
+		</long-description>
+	</content>
+</product>
