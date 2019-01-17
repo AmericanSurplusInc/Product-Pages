@@ -6,6 +6,7 @@
 		<meta-description></meta-description>
 		<product-code></product-code>
 		<pricing>
+			<list-price></list-price>
 			<asi-price></asi-price>
 			<as-low-as-price></as-low-as-price>
 		</pricing>
