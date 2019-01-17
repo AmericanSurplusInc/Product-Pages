@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <product>
 	<data>
-		<title>Raymond EASI R30TT Reach Trucks</title>
-		<meta-title>Raymond EASI R30TT Reach Trucks</meta-title>
-		<meta-description>Raymond Narrow Aisle Reach Trucks are engineered to handle a variety of applications -- whether you're trying to minimize overall footprint and operating costs in your facility, or maximize throughput, A Raymond Reach Truck will exceed your expectations.</meta-description>
-		<product-code>B0007</product-code>
+		<title>Used Raymond EAS1R40TT Reach Trucks - 276" Lift Height</title>
+		<meta-title>Used Raymond EAS1R40TT Reach Trucks - 276" Lift Height</meta-title>
+		<meta-description>Used Raymond EAS1R40TT Reach Trucks - 276" Lift Height For Sale at ASI, In Stock, 4,000 lb capacity, 36V, Low Prices, Nationwide Shipping, 40-60% off retail prices of Used Raymond EAS1R40TT Reach Trucks - 276" Lift Height</meta-description>
+		<product-code>152</product-code>
 		<pricing>
 			<list-price></list-price>
-			<asi-price></asi-price>
-			<as-low-as-price></as-low-as-price>
+			<asi-price>12495.00</asi-price>
+			<as-low-as-price>$8,995.00 without Reconditioned 36V Battery</as-low-as-price>
 		</pricing>
 		<related>
-			<1></1>
+			<1>151</1>
+			<2>153</2>
 		</related>
 		<category>
 			<name>Used Reach Trucks</name>
@@ -23,75 +24,52 @@
 		</site-presence>
 		<attributes>
 			<attribute>
-				<name>Capacity</name>
-				<value>3,000 lbs.</value>
+				<name>Battery</name>
+				<value>36V (Battery Sold Separately, Battery Charger Included with Reach Truck)</value>
 			</attribute>
 			<attribute>
 				<name>Battery</name>
-				<value>36V, 850 AH Capacity</value>
+				<value>36V (Battery Charger Included with Reach Truck)</value>
+			</attribute>
+			<attribute>
+				<name>Forklift Capacity</name>
+				<value>4,000 lbs</value>
 			</attribute>
 			<attribute>
 				<name>Lift Height</name>
-				<value>252"</value>
+				<value>276" Lift Height</value>
 			</attribute>
 		</attributes>
 		<images> <!-- Include all pictures on the page, in both gallery and body. -->
 			<image>
-				<name>raymondEasiR30TT_1.png</name>
+				<name>used-reach-truck-raymond.JPG</name>
 				<placement>gallery</placement> <!-- gallery or body -->
 				<is-primary>1</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
 				<priority>1</priority> <!-- blank on body pictures -->
-				<alt>Raymond EASI-R30TT Reach Trucks</alt>
+				<alt>used raymond reach truck</alt>
 			</image>
 			<image>
-				<name>raymondEasiR30TT_2</name>
-				<placement>gallery</placement> <!-- gallery or body -->
-				<is-primary>0</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
-				<priority>1</priority> <!-- blank on body pictures -->
-				<alt>Used Raymond EASI R30TT Reach Truck</alt>
-			</image>
-			<image>
-				<name>raymondEasiR30TT_3</name>
-				<placement>gallery</placement> <!-- gallery or body -->
-				<is-primary>0</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
-				<priority>1</priority> <!-- blank on body pictures -->
-				<alt>Raymond EASI-R30TT Reach Truck Operator Compartment</alt>
-			</image>
-			<image>
-				<name>raymondEasiR30TT_4</name>
-				<placement>gallery</placement> <!-- gallery or body -->
-				<is-primary>0</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
-				<priority>1</priority> <!-- blank on body pictures -->
-				<alt>Raymond EASI-R30TT Reach Truck Undercarraige</alt>
-			</image>
-			<image>
-				<name>raymondEasiR30TT_5</name>
-				<placement>gallery</placement> <!-- gallery or body -->
-				<is-primary>0</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
-				<priority>1</priority> <!-- blank on body pictures -->
-				<alt>Raymond EASI-R30TT Forks</alt>
-			</image>
-			<image>
-				<name>raymondEasiR30TT_6</name>
-				<placement>gallery</placement> <!-- gallery or body -->
-				<is-primary>0</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
-				<priority>1</priority> <!-- blank on body pictures -->
-				<alt>Raymond EASI-R30TT Deep Reach System</alt>
+				<name>IMG_9940.jpg</name>
+				<placement>gallery</placement>
+				<is-primary>0</is-primary>
+				<priority>2</priority>
+				<alt></alt>
 			</image>
 		</images>
 	</data>
 	<content>
 		<extra-short-description>
 			<ul>
-				<li>Preferred Choice for Narrow Aisles</li>
-				<li>3,000 Lb. Capacity</li>
-				<li>252" Lift Height</li>
+				<li>4,000 lb. capacity</li>
+				<li>276" Lift Height</li>
+				<li>36 Volt</li>
 			</ul>
 		</extra-short-description>
 		<short-description>
+			<p><span style="font-size: 14px; color: #1c8702;">ASI Price includes Reach Truck, (1) Reconditioned, load-tested 36V battery, and 36V Battery Charger</span></p>
 			<ul>
 				<li>Raymond Reach Trucks are the preferred choice for picking product in narrow aisles</li>
-				<li>A smaller, lighter footprint compared to a standard forklift means greater access to narrower aisles as well as fewer charges, maximizing productivity and storage density while minimizing downtime</li>
+				<li>A smaller, lighter footprint compared to a standard forklift means greater access to narrower aisles as well as fewer charges, maximizing productivity &amp; storage density while minimizing downtime.</li>
 				<li>Deep-Reach forks allow for increased storage density versus single-deep storage</li>
 			</ul>
 		</short-description>
@@ -103,7 +81,7 @@
 			</div>
 			</div>
 			<div class="small-12 large-6 columns">
-			<h3>The Raymond EASI R30TT Narrow Aisle Reach Truck:</h3>
+			<h3>The Raymond EASI R40TT Narrow Aisle Reach Truck:</h3>
 			<h5>The Premier Choice for Any Facility</h5>
 			<hr />
 			<p style="text-align: justify;">Raymond Narrow Aisle Reach Trucks are engineered to handle a variety of applications -- whether you're trying to minimize overall footprint and operating costs in your facility, or maximize throughput, A Raymond Reach Truck will exceed your expectations.</p>
@@ -158,7 +136,7 @@
 			<hr />
 			</div>
 			<div class="small-11 columns small-centered">
-			<p style="font-size: 12px; text-align: justify;">The Raymond EASI-R30TT comes equipped with an exclusive Deep-Reach system, allowing the operator to reach deeper into your racks than whats possible with static forks, maximizing storage density. Deeper storage in narrower aisles? You know your supply chain will thank you.</p>
+			<p style="font-size: 12px; text-align: justify;">The Raymond EASI-R40TT comes equipped with an exclusive Deep-Reach system, allowing the operator to reach deeper into your racks than whats possible with static forks, maximizing storage density. Deeper storage in narrower aisles? You know your supply chain will thank you.</p>
 			&nbsp;
 			</div>
 			</div>
@@ -197,7 +175,7 @@
 			<hr />
 			</div>
 			<div class="small-11 columns small-centered">
-			<p style="font-size: 12px; text-align: justify;">The Raymond EASI-R30TT comes equipped with an exclusive Deep-Reach system, allowing the operator to reach deeper into your racks than whats possible with static forks, maximizing storage density. Deeper storage in narrower aisles? You know your supply chain will thank you.</p>
+			<p style="font-size: 12px; text-align: justify;">The Raymond EASI-R40TT comes equipped with an exclusive Deep-Reach system, allowing the operator to reach deeper into your racks than whats possible with static forks, maximizing storage density. Deeper storage in narrower aisles? You know your supply chain will thank you.</p>
 			&nbsp;
 			</div>
 			</div>
@@ -218,7 +196,7 @@
 			<hr />
 			</div>
 			<div class="small-11 columns small-centered">
-			<p style="font-size: 12px; text-align: justify;">Raymond Narrow Aisle Reach Trucks are known for maintaining stability at the most dizzying of heights.  The EASI-R30TT is capable of safely lifting 3,000 lbs. up to 234" in the air in spaces as narrow as 6 feet. With those kinds of stats, there isn't a pallet position in your facility thats out of reach.</p>
+			<p style="font-size: 12px; text-align: justify;">Raymond Narrow Aisle Reach Trucks are known for maintaining stability at the most dizzying of heights.  The EASI-R40TT is capable of safely lifting 3,300 lbs. up to 276" (or 4,500 lbs. up to 240") in the air in spaces as narrow as 6 feet. With those kinds of stats, there isn't a pallet position in your facility thats out of reach.</p>
 			&nbsp;
 			</div>
 			</div>
@@ -258,7 +236,7 @@
 			<hr />
 			</div>
 			<div class="small-11 columns small-centered">
-			<p style="font-size: 12px; text-align: justify;">Raymond Narrow Aisle Reach Trucks are known for maintaining stability at the most dizzying of heights.  The EASI-R30TT is capable of safely lifting 3,000 lbs. up to 234" in the air in spaces as narrow as 6 feet. With those kinds of stats, there isn't a pallet position in your facility thats out of reach.</p>
+			<p style="font-size: 12px; text-align: justify;">Raymond Narrow Aisle Reach Trucks are known for maintaining stability at the most dizzying of heights.  The EASI-R40TT is capable of safely lifting 3,300 lbs. up to 276" (or 4,500 lbs. up to 240") in the air in spaces as narrow as 6 feet. With those kinds of stats, there isn't a pallet position in your facility thats out of reach.</p>
 			&nbsp;
 			</div>
 			</div>
@@ -322,8 +300,7 @@
 			<p style="font-size: 12px; text-align: justify;">At American Surplus, we take pride in the fact that we make it faster and easier to get a custom quote than anyone else in the industry! Our experienced sales team will guide you through the entire process, from picking out the perfect product to fit your needs, all the way to delivery and installation.</p>
 			<p style="font-size: 12px; text-align: justify;">With a free assessment, free CAD Layouts, and more included, all you need to do is get in touch and we'll take care of the rest. Give us a call today and see why American Surplus is America's #1 Used Material Handling Equipment Dealer!</p>
 			<div style="visibility: visible; text-align: center;">
-			<a href="#" class="button">Request a Quote...</a>
-			<h6>...Or call us at (800) 876-3736 Today!</h6>
+			<h6>Call us at (800) 876-3736 Today!</h6>
 			</div>
 			</div>
 			</div>
@@ -368,8 +345,7 @@
 			<p style="font-size: 12px; text-align: justify;">At American Surplus, we take pride in the fact that we make it faster and easier to get a custom quote than anyone else in the industry! Our experienced sales team will guide you through the entire process, from picking out the perfect product to fit your needs, all the way to delivery and installation.</p>
 			<p style="font-size: 12px; text-align: justify;">With a free assessment, free CAD Layouts, and more included, all you need to do is get in touch and we'll take care of the rest. Give us a call today and see why American Surplus is America's #1 Used Material Handling Equipment Dealer!</p>
 			<div style="text-align: center;">
-			<a href="#" class="button">Request a Quote...</a>
-			<h6>...Or call us at (800) 876-3736 Today!</h6>
+			<h6>Call us at (800) 876-3736 Today!</h6>
 			</div>
 			</div>
 			</div>

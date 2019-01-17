@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product>
+	<data>
+		<title>Used Raymond 740R45TT Reach Trucks</title>
+		<meta-title>Used Raymond 740R45TT Reach Trucks</meta-title>
+		<meta-description>Used Raymond 740R45TT Reach Trucks For Sale at ASI, In Stock, 280" Lift Height, Cleaned, Painted, 4,500 lb. capacity, call today for a quote on Used Raymond 740R45TT Reach Truck
+</meta-description>
+		<product-code>151</product-code>
+		<pricing>
+			<list-price></list-price>
+			<asi-price>8995.00</asi-price>
+			<as-low-as-price></as-low-as-price>
+		</pricing>
+		<related>
+			<1>153</1>
+			<2>152</2>
+		</related>
+		<category>
+			<name>Used Reach Trucks</name>
+			<priority>1000</priority>
+		</category>
+		<site-presence>
+			<backorder>0</backorder> <!-- 1 = true, 0 = false -->
+			<is-visible>1</is-visible> <!-- 1 = true, 0 = false -->
+		</site-presence>
+		<attributes>
+			<attribute>
+				<name>Battery</name>
+				<value>36V (Battery Sold Separately, Battery Charger Included with Reach Truck</value>
+			</attribute>
+			<attribute>
+				<name>Forklift Capacity</name>
+				<value>4,500 lbs.</value>
+			</attribute>
+			<attribute>
+				<name>Lift Height</name>
+				<value>280" Lift Height</value>
+			</attribute>
+		</attributes>
+		<images> <!-- Include all pictures on the page, in both gallery and body. -->
+			<image>
+				<name>IMG_1100.jpg</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>1</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt></alt>
+			</image>
+		</images>
+	</data>
+	<content>
+		<extra-short-description>
+			<ul>
+				<li>4,500 lb. capacity</li>
+				<li>280" Lift Height</li>
+				<li>36 Volt</li>
+			</ul>
+		</extra-short-description>
+		<short-description>
+			<ul>
+				<li>Raymond 740R45TT Reach Truck</li>
+				<li>2006</li>
+				<li>4,500 lb. capacity</li>
+				<li>280" Lift Height</li>
+				<li>36 Volt</li>
+			</ul>
+		</short-description>
+		<long-description>
+			<p>Used Raymond 740R45TT Reach Trucks For Sale at American Surplus are in Stock. All forklifts from ASI are cleaned, painted, and have our 30-day guarantee. These trucks were made in 2006 by Raymond. They have a 4,500 lb. capacity and a 280" lift height. They also feature a sideshifter for better handling. They run off a 36V battery, sold separately and we include the battery chargers with the reach truck. Call our sales team for more specs and info on our Used Raymond 740R45TT Reach Trucks.</p>
+			<p style="color: red;"><strong>We can&rsquo;t list our entire inventory online, if you do not see what you are looking for, just ask! Quantity discounts available on used reach trucks 40-60% off the price of new. Call 800-876-3736 for additional information &amp; a free quote. American Surplus will provide a quote on new equipment if used is unavailable. Nationwide shipping is available. Price and product availability subject to change without notice. Inventory is subject to prior sale.</strong></p>
+		</long-description>
+	</content>
+</product>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product>
+	<data>
+		<title>Used Raymond EAS1R40TT Reach Trucks - 267" Lift Height</title>
+		<meta-title>Used Raymond EAS1R40TT Reach Trucks - 267" Lift Height</meta-title>
+		<meta-description>Used Raymond EAS1R40TT Reach Trucks - 267" Lift Height For Sale at American Surplus, 4,000 lb. capacity, In Stock, Cleaned & Painted, 40-60% off retail prices on Used Raymond EAS1R40TT Reach Trucks</meta-description>
+		<product-code>153</product-code>
+		<pricing>
+			<list-price></list-price>
+			<asi-price>8995.00</asi-price>
+			<as-low-as-price></as-low-as-price>
+		</pricing>
+		<related>
+			<1>151</1>
+			<2>152</2>
+		</related>
+		<category>
+			<name>Used Reach Trucks</name>
+			<priority>1000</priority>
+		</category>
+		<site-presence>
+			<backorder>0</backorder> <!-- 1 = true, 0 = false -->
+			<is-visible>1</is-visible> <!-- 1 = true, 0 = false -->
+		</site-presence>
+		<attributes>
+			<attribute>
+				<name>Battery</name>
+				<value>36V (Battery Sold Separately, Battery Charger Included with Reach Truck)</value>
+			</attribute>
+			<attribute>
+				<name>Forklift Capacity</name>
+				<value>4,000 lbs.</value>
+			</attribute>
+			<attribute>
+				<name>Lift Height</name>
+				<value>267" Lift Height</value>
+			</attribute>
+		</attributes>
+		<images> <!-- Include all pictures on the page, in both gallery and body. -->
+			<image>
+				<name>used-reach-truck-raymond.JPG</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>1</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>0</priority> <!-- blank on body pictures -->
+				<alt>used raymond eas1r40tt reach truck</alt>
+			</image>
+			<image>
+				<name>reach truck.png</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>0</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt></alt>
+			</image>
+			<image>
+				<name>used-reach-truck-raymond.png</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>0</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt></alt>
+			</image>
+			<image>
+				<name>IMG_9940_500x500-max.JPG</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>0</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>2</priority> <!-- blank on body pictures -->
+				<alt></alt>
+			</image>
+		</images>
+	</data>
+	<content>
+		<extra-short-description>
+			<ul>
+				<li>267" Lift Height</li>
+				<li>4,000 lb. Capacity</li>
+				<li>36V</li>
+			</ul>
+		</extra-short-description>
+		<short-description>
+			<ul>
+				<li>Raymond EAS1R40TT Reach Trucks</li>
+				<li>267" Lift Height</li>
+				<li>4,000 lb. Capacity</li>
+				<li>2006-2008</li>
+				<li>36V</li>
+			</ul>
+		</short-description>
+		<long-description>
+			<p>Used Raymond EAS1R40TT Reach Trucks are in stock at ASI. We have these reach trucks with a 267" lift height and a 4,000 lb. capacity. They were built 2006-2008 and run using a 36V battery. The batteries are sold separately however we include battery charger with the price of the reach truck. For better handling and manueverability, our trucks have a sideshifter. Our reach trucks are cleaned, painted, and come with our 30-day guarantee. Call today for a quote on our Used Raymond EAS1R40TT Reach Trucks.</p>
+			<p style="color: red;"><strong>We can&rsquo;t list our entire inventory online, if you do not see what you are looking for, just ask! Quantity discounts available on used reach trucks 40-60% off the price of new. Call 800-876-3736 for additional information &amp; a free quote. American Surplus will provide a quote on new equipment if used is unavailable. Nationwide shipping is available. Price and product availability subject to change without notice. Inventory is subject to prior sale.</strong></p>
+		</long-description>
+	</content>
+</product>
