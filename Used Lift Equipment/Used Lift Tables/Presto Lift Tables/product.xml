@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <product>
 	<data>
-		<title>Presto Lift Tables</title>
-		<meta-title>Used Presto Lift Tables</meta-title>
-		<meta-description>Used Presto Lift Tables are For Sale at American Surplus, in stock, 1,100 lb. capacity, 36" x 48" platform, 42" lift height, nationwide shipping, visit our site for more information on Used Presto Lift Tables.</meta-description>
+		<title>Presto XL36- Scissor Lift Tables</title>
+		<meta-title>Used Presto XL36- Scissor Lift Tables | American Surplus - America's #1 Used Material Handling Equipment Dealer</meta-title>
+		<meta-description>Used Presto XL36- Scissor Lift Tables are For Sale at American Surplus, in stock, 1,100 lb. capacity, 36" x 48" platform, 42" lift height, nationwide shipping, visit our site for more information on Used Presto XL36- Scissor Lift Tables.</meta-description>
 		<product-code>7203</product-code>
 		<pricing>
 			<list-price>2599.00</list-price>
@@ -35,12 +35,28 @@
 				<value>Electric</value>
 			</attribute>
 			<attribute>
-				<name>Lift Height</name>
-				<value>42"</value>
+				<name>Controls</name>
+				<value></value>
+			</attribute>
+			<attribute>
+				<name>Travel Range<name>
+				<value></value>
+			</attribute>
+			<attribute>
+				<name>Lifting Speed</name>
+				<value></value>
+			</attribute>
+			<attribute>
+				<name>Power Requirement?????</name>
+				<value></value>
 			</attribute>
 			<attribute>
 				<name>Brand</name>
 				<value>Presto</value>
+			</attribute>
+			<attribute>
+				<name>Weight</name>
+				<value></value>
 			</attribute>
 			
 		</attributes>
