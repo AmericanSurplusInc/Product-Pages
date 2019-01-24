@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product>
+	<data>
+		<title>Crown 20M Walk-Behind Electric Stackers</title>
+		<meta-title>Used Crown 20M Walk-Behind Electric Stackers</meta-title>
+		<meta-description>Used Crown 20M Walk-Behind Electric Stackers in stock at American Surplus. Nationwide shipping available!</meta-description>
+		<product-code>ST-0002</product-code>
+		<pricing>
+			<list-price></list-price>
+			<asi-price>$3495</asi-price>
+			<as-low-as-price></as-low-as-price>
+		</pricing>
+		<related>
+			<1>Multiton Swift EMC-62 Stackers</1>
+			<2>Crown PE 4500 Series Electric Pallet Jacks</2>
+			<3>Crown 3540-80 Electric Pallet Jacks</3>
+			<4>Crown WP-2300 Series Electric Pallet Jacks</4>
+			<5>Crown PTH-50 Manual Pallet Jacks</5>
+		</related>
+		<category>
+			<name>Used Stackers</name>
+			<priority>1</priority>
+		</category>
+		<site-presence>
+			<backorder>0</backorder> <!-- 1 = true, 0 = false -->
+			<is-visible>1</is-visible> <!-- 1 = true, 0 = false -->
+		</site-presence>
+		<attributes>
+			<attribute>
+				<name>Brand</name>
+				<value>Crown</value>
+			</attribute>
+			<attribute>
+				<name>Model</name>
+				<value>20M</value>
+			</attribute>
+			<attribute>
+				<name>Capacity</name>
+				<value>2,000 lbs.</value>
+			</attribute>
+			<attribute>
+				<name>Load Center</name>
+				<value>24"</value>
+			</attribute>
+			<attribute>
+				<name>Mast Type</name>
+				<value>Single</value>
+			</attribute>
+			<attribute>
+				<name>Lift Height</name>
+				<value>57"</value>
+			</attribute>
+			<attribute>
+				<name>Weight</name>
+				<value>1,100 lbs. with Battery</value>
+			</attribute>
+			<attribute>
+				<name>Pallet Jack Style</name>
+				<value>Walk-Behind</value>
+			</attribute>
+			<attribute>
+				<name>Battery Included?</name>
+				<value>Yes</value>
+			</attribute>
+			<attribute>
+				<name>Charger Included?</name>
+				<value>Yes</value>
+			</attribute>
+			<attribute>
+				<name>Battery</name>
+				<value>12V</value>
+			</attribute>
+			<attribute>
+				<name>NMFC Code</name>
+				<value>189240</value>
+			</attribute>
+		</attributes>
+		<images> <!-- Include all pictures on the page, in both gallery and body. -->
+			<image>
+				<name>Crown20MWalkBehindStacker.png</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>1</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt>Used Crown 20M Walk-Behind Electric Stackers</alt>
+			</image>
+			<image>
+				<name>Crown20MStacker.png</name>
+				<placement>gallery</placement> <!-- gallery or body -->
+				<is-primary>0</is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority>1</priority> <!-- blank on body pictures -->
+				<alt>Crown 20M Electric Stackers, 2,000 lbs. Capacity</alt>
+			</image>
+			<image>
+				<name>Crown20MStacker2.png</name>
+				<placement>gallery</palcement>
+				<is-primary>0</is-primary>
+				<priority>1</priority>
+				<alt>Crown 20M Electric Stackers, 57" Lift Height</alt>
+			</image>
+		</images>
+	</data>
+	<content>
+		<extra-short-description>
+			<ul>
+				<li>2,000 lb. Capacity</li>
+				<li>57" Lift Height</li>
+				<li>12 Volt</li>
+			</ul>
+		</extra-short-description>
+		<short-description>
+			<ul>
+				<li>Capable of lifting 2,000 lb. loads up to 57" in the air</li>
+				<li>More maneuverable than a standard lift truck</li>
+				<li>12V Battery and <a href="https://www.americansurplus.com/used-12-volt-forklift-battery-chargers.html">Used 12V Battery Charger</a> included with purchase!</li>
+			</ul>
+			<a class="button" href="/_resources/common/userfiles/file/ST-0002/Crown20MSpecSheet.pdf" target="_blank" style="background: #ffffff !important; color: #0a47a8 !important; border: 1px solid #0a47a8;">View Mfg. Spec Sheet</a>
+		</short-description>
+		<long-description>
+			<p>Used Crown 20M Walk-Behind Electric Stackers are now in stock at American Surplus! This powerful electric stacker is designed with maneuverability in mind -- with controls and a profile similar to that of an <a href="https://www.americansurplus.com/used-equipment/used-forklifts/used-electric-pallet-jack/">Electric Pallet Jack</a>! However, where pallet jacks and stackers differ is in lift height; While an electric pallet jack (such as the <a href="https://www.americansurplus.com/crown-wp2300-series-electric-pallet-jacks.html">Crown WP-2335</a>) may only offer up to 6" of lift height, a Crown 20M Electric Stacker provides up to 57"! With a significantly increased lift height, your staff can efficiently stack pallets and even place product on lower racks while still using the same pallet jack workflow they're comfortable with. Call our sales team at <a href="tel: 8008763736">(800) 876-3736</a> today to speak with our experienced sales team about adding Crown M20 Walk-Behind Electric Stackers to your fleet today!</p>
+		</long-description>
+	</content>
+</product>

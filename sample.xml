@@ -27,6 +27,15 @@
 				<value></value>
 			</attribute>
 		</attributes>
+		<images> <!-- Include all pictures on the page, in both gallery and body. -->
+			<image>
+				<name></name>
+				<placement></placement> <!-- gallery or body -->
+				<is-primary></is-primary> <!-- 1 = true, 0 = false, blank on body pictures -->
+				<priority></priority> <!-- blank on body pictures -->
+				<alt></alt>
+			</image>
+		</images>
 	</data>
 	<content>
 		<extra-short-description>
