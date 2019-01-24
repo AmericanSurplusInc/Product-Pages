@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product>
+	<data>
+		<title>10 Drawer Lista SC Series Modular Storage Cabinets</title>
+		<meta-title>Used 10 Drawer Lista SC Series Modular Storage Cabinets | American Surplus: America's #1 Used Material Handling Equipment Dealer</meta-title>
+		<meta-description>Used Lista SC Series Modular Vidmar Storage Cabinets with 10 drawers are available at American Surplus, America's #1 Used Material Handling Equipment Dealer.</meta-description>
+		<product-code>VC-0003</product-code>
+		<pricing>
+			<list-price></list-price>
+			<asi-price></asi-price>
+			<as-low-as-price></as-low-as-price>
+		</pricing>
+		<related>
+			<1>VC-0001</1>
+			<2>VC-0002</2>
+		</related>
+		<category>
+			<name>Used Vidmar Cabinets</name>
+			<priority>1000</priority>
+		</category>
+		<site-presence>
+			<backorder>0</backorder> <!-- 1 = true, 0 = false -->
+			<is-visible>1</is-visible> <!-- 1 = true, 0 = false -->
+		</site-presence>
+		<attributes>
+			<attribute>
+				<name>Brand</name>
+				<value>Lista</value>
+			</attribute>
+			<attribute>
+				<name>Capacity</name>
+				<value>440 lbs. per Drawer</value>
+			</attribute>
+			<attribute>
+				<name>Height</name>
+				<value>41-3/4"</value>
+			</attribute>
+			<attribute>
+				<name>Width</name>
+				<value>28-1/4"</value>
+			</attribute>
+			<attribute>
+				<name>Depth</name>
+				<value>28-1/2"</value>
+			</attribute>
+			<attribute>
+				<name>Number of Drawers</name>
+				<value>10</value>
+			</attribute>
+			<attribute>
+				<name>Drawer Height</name>
+				<value>4 @ 2", 6 @ 3"</value>
+			</attribute>
+			<attribute>
+				<name>Inside Drawer Dimensions</name>
+				<value>24" x 24"</value>
+			</attribute>
+			<attribute>
+				<name>Dividers Included?</name>
+				<value>As-Is</value>
+			</attribute>
+		</attributes>
+	</data>
+	<content>
+		<extra-short-description>
+			<ul>
+				<li>Includes lock and key</li>
+				<li>Counter height cabinets</li>
+				<li>Durable & secure cabinets</li>
+			</ul>
+		</extra-short-description>
+		<short-description>
+			<ul>
+				<li>All drawers are full extension for easy access to all contents</li>
+				<li>Perfect for storing hardware, machine parts, precision tools, or other small items</li>
+				<li>Forkliftable base for easy transport</li>
+			</ul>
+		</short-description>
+		<long-description>
+			<p>Lista SC Series Modular Storage Cabinets are a durable and secure choice for long term, high-density storage of small items around your facility, including hardware, gauges, precision tools, machine parts, and everything in between. A lock and key allows your manager to keep the cabinet's contents secured if necessary. Each full extension drawer is capable of storing up to 440 lbs of materials, making for an easy-access solution for storing any hardware around your facility.</p>
+			<p><strong style="font-family: 'Open Sans', sans-serif; font-size: 10px;">We can&rsquo;t list our entire inventory online, if you do not see what you are looking for, just ask! Quantity discounts available on used vidmar cabinets 40-60% off the price of new. Call 800-876-3736 for additional information &amp; a free quote. American Surplus will provide a quote on new equipment if used is unavailable. Nationwide shipping is available. Price and product availability subject to change without notice. Inventory is subject to prior sale.</strong></p>
+		</long-description>
+	</content>
+</product>
